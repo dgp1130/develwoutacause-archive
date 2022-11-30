@@ -1,0 +1,464 @@
+[
+    {
+        "tweet_id": "1570067344336232448",
+        "media_key": "3_1570057913678594048",
+        "media_url": "https://pbs.twimg.com/media/Fcn3Wp2agAAXkIL.jpg",
+        "alt_text": "A keyboard, a rubber duck, an ice pack, and a flashlight sitting on a desk with no obvious relation between them."
+    },
+    {
+        "tweet_id": "1565438962960777217",
+        "media_key": "3_1565437632502345729",
+        "media_url": "https://pbs.twimg.com/media/FbmNO5NUsAEv4x8.jpg",
+        "alt_text": "A panel of (from left to right) Mark Thompson, Jessica Janiuck, Jeremy Elbourn, Aaron Frost, and Emma Twersky."
+    },
+    {
+        "tweet_id": "1564992122943483904",
+        "media_key": "3_1564991683044859907",
+        "media_url": "https://pbs.twimg.com/media/Fbf3pOBUYAM5sg1.jpg",
+        "alt_text": "A large stage with a massive background screen showing a flashing ng-conf logo. The picture is taken from the front row right next to the stage."
+    },
+    {
+        "tweet_id": "1564667177529069568",
+        "media_key": "3_1564666576460083202",
+        "media_url": "https://pbs.twimg.com/media/FbbP9hnUcAIYUut.jpg",
+        "alt_text": "A TypeScript snippet with an interface `Foo` which defines a function `bar`. Immediately afterwards, it defines a class also named `Foo` which implements `Foo` (whatever that means). The `Foo` class defines a method `baz`, but does *not* define a method `bar`, yet this is not an error. Afterwards a new `Foo` is instantiated and `foo.bar()` and `foo.baz()` are called. Neither of these are marked as errors."
+    },
+    {
+        "tweet_id": "1564662249339248640",
+        "media_key": "3_1564660520996679680",
+        "media_url": "https://pbs.twimg.com/media/FbbKdDQVsAAabBH.jpg",
+        "alt_text": "A snippet of TypeScript code which includes `class Foo implements Foo`, meaning it's implementing its own interface."
+    },
+    {
+        "tweet_id": "1564303264354430977",
+        "media_key": "3_1564302817417842692",
+        "media_url": "https://pbs.twimg.com/media/FbWFH9lVUAQ__jT.jpg",
+        "alt_text": "A meme featuring an Elcor alien from the video game series Mass Effect at a computer. The meme is titled \"Using conventional comments\". The Elcor says in his code review \"Passive aggressive: Don't forget to write tests.\""
+    },
+    {
+        "tweet_id": "1563250724108087296",
+        "media_key": "3_1563250701421072386",
+        "media_url": "https://pbs.twimg.com/media/FbHIOwEVUAI861R.jpg",
+        "alt_text": "Peter Griffin is sitting next to the Christian God in an elevator. The ride is taking a while so Peter makes some small talk by asking \"Hey, are deleted files really deleted?\" God replies with a sigh \"No,they go to the trash.\" Peter asks a follow-up \"What about `node_modules`?\" to which God immediately and agrily replies \"Gone from the file system forever. Straight to hell. To the boiler room of hell, all the way down.\" Peter relaxes with relief washing over his face, \"Good, good. That makes me happy.\""
+    },
+    {
+        "tweet_id": "1562949281803186177",
+        "media_key": "3_1562948613348552705",
+        "media_url": "https://pbs.twimg.com/media/FbC1e6TUcAEAAFk.jpg",
+        "alt_text": "A screenshot of an @angular tweet announcing the 14.2 release. The timestamp is highlighted and reads 38 minutes ago."
+    },
+    {
+        "tweet_id": "1562949281803186177",
+        "media_key": "3_1562948613352804352",
+        "media_url": "https://pbs.twimg.com/media/FbC1e6UVUAAQw8v.jpg",
+        "alt_text": "A screenshot of a @typescript tweet announcing the 4.8 release. The timestamp is highlighted and reads 10 minutes ago."
+    },
+    {
+        "tweet_id": "1560732537206349825",
+        "media_key": "3_1560730753696092160",
+        "media_url": "https://pbs.twimg.com/media/FajUWfQVUAA2_wJ.jpg",
+        "alt_text": "Screenshot of an email from LinkedIn with the subject line \"Get the LinkedIn app\" filled with marketing content to advertise the app."
+    },
+    {
+        "tweet_id": "1560732537206349825",
+        "media_key": "3_1560730753729568769",
+        "media_url": "https://pbs.twimg.com/media/FajUWfYUIAEAVSF.jpg",
+        "alt_text": "A screenshot of the end of the LinkedIn email with an \"Unsubscribe\" button in underlined blue text. The text is highlighted, with no option to follow the link, demonstrating that it is fake and only *looks* like a link."
+    },
+    {
+        "tweet_id": "1558238548364443648",
+        "media_key": "3_1558237570751819778",
+        "media_url": "https://pbs.twimg.com/media/FZ_40JBUcAIr_7r.png",
+        "alt_text": "A checkout form with a section header titled \"Payment method\" under which are two options \"Credit Card\" and \"Paypal\". However both options look like plain text and they are very awkwardly spaced, as if some visual content was intended next to them, but is just missing. An \"Upgrade Now\" button is grayed out because payment information can't be entered."
+    },
+    {
+        "tweet_id": "1557796886190297088",
+        "media_key": "3_1557796132348080128",
+        "media_url": "https://pbs.twimg.com/media/FZ5nVC0VsAAD6OH.png",
+        "alt_text": "A text box in a form labeled \"Business purpose for expenses in this report\", annotated as a required field. The user has entered \"Did an important business thing.\" with a period at the end of the sentence. This shows an error beneath the text box which reads \"You cannot use the follow characters\" and includes various characters, most notably a period, double quote, single quote, exclamation mark, and question mark."
+    },
+    {
+        "tweet_id": "1555932898359795713",
+        "media_key": "3_1555932630603812866",
+        "media_url": "https://pbs.twimg.com/media/FZfIe92UUAIlAJ0.png",
+        "alt_text": "A specific screenshot from the quoted tweet which discusses Steve Jobs' request to Microsoft about Internet Explorer support on Mac products."
+    },
+    {
+        "tweet_id": "1554656153497243648",
+        "media_key": "3_1554655697748381696",
+        "media_url": "https://pbs.twimg.com/media/FZM_HsRUUAAxOX2.jpg",
+        "alt_text": "A JavaScript code snippet which defines a Parent class and a Child class which extends it. The Parent class also logs \"new parent\" in its constructor.\n\nThe snippet then logs the output of three expressions.\n\nFirst, it does `new Child() instanceof Parent)`. This returns `true` and also logs \"new parent\", reasonable behavior.\n\nSecond, it does `Child instanceof Parent`. This returns `false`, also reasonable.\n\nThird, it does `Child.prototype instanceof Parent`. This returns `true` and doesn't log \"new parent\" at any point. wat?"
+    },
+    {
+        "tweet_id": "1549629170115743745",
+        "media_key": "3_1549626553998315520",
+        "media_url": "https://pbs.twimg.com/media/FYFhI_2VEAA3K_B.jpg",
+        "alt_text": "A screenshot of a JavaScript snippet which invokes `yargs` (a popular argument parsing library) with a usage string which reads: \"Hey man, you do you. I ain't gonna judge.\""
+    },
+    {
+        "tweet_id": "1547081312174952448",
+        "media_key": "3_1547079974061953024",
+        "media_url": "https://pbs.twimg.com/media/FXhVCiUVUAAYn0U.jpg",
+        "alt_text": "A transcript from today's Jan 6th committee hearing from an anonymous Twitter employee who said (the first sentence is highlighted):\n\n\"I sent a Slack message to someone that said something along the lines of 'when people are shooting each other tomorrow, I will try and rest in the knowledge that we tried'. And so, I went to -I don't know that I slept night, to be honest with you. I-I was on pins and needles because, again, for for months I had been begging and anticipating and attempting to raise the reality that if nothing if we made no intervention into what I saw occurring, people were going to die. And on January 5th, I realized no intervention was coming. No there- and even as- as hard as I had tried to create one or implement one, there was nothing and we were -we were at the whims and the mercy of a violent crowd that was locked and loaded.\""
+    },
+    {
+        "tweet_id": "1546925210942574593",
+        "media_key": "3_1546924825326718976",
+        "media_url": "https://pbs.twimg.com/media/FXfH7sPVEAABEHT.jpg",
+        "alt_text": "A shell command which reads `bazel build --nobuild //...`"
+    },
+    {
+        "tweet_id": "1592280176658116608",
+        "media_key": "3_1592279943039225857",
+        "media_url": "https://pbs.twimg.com/media/FhjqLAPVEAEMlCE.jpg",
+        "alt_text": "A JavaScript code snippet which reads:\n\n```\nconst set = new Set([1]);\n\nfor (const value of set.values()) {\n  console.log(value);\n  set.delete(value);\n  set.add(value + 1);\n}\n```"
+    },
+    {
+        "tweet_id": "1545537782684168192",
+        "media_key": "3_1545536336202846208",
+        "media_url": "https://pbs.twimg.com/media/FXLZG_LUUAAkcqO.jpg",
+        "alt_text": "A line of Bash shell script which reads: '\"echo foo | sed \"s,foo,bar,g\"'. The \"pipe\" character acts as a clear wall between the two commands."
+    },
+    {
+        "tweet_id": "1543352598459064320",
+        "media_key": "3_1543351698235674624",
+        "media_url": "https://pbs.twimg.com/media/FWsWMUjVUAAU0wi.jpg",
+        "alt_text": "A smol tabby kitten drinking a bottle of milk while sitting in a person's lap. It's eyes are mostly open and alert while it grabs the human hands holding the bottle feeding it."
+    },
+    {
+        "tweet_id": "1543119703001878529",
+        "media_key": "3_1543117660459638785",
+        "media_url": "https://pbs.twimg.com/media/FWpBVh5UIAEIwsf.jpg",
+        "alt_text": "A very very smol tabby kitten with orange-ish discolored fur on top of the head. It's drinking milk formula from a small bottle while bundled in some wash clothes laying on a person's lap."
+    },
+    {
+        "tweet_id": "1536867989361860608",
+        "media_key": "3_1536867847032279040",
+        "media_url": "https://pbs.twimg.com/media/FVQNKgkUEAAfi0s.jpg",
+        "alt_text": "A screenshot of a TypeScript function called `logOut` which declares a variable `user` and then attempts to initialize it inside a `try` block. It checks two cases, if the user is logged in or if a refresh token is present. If either case is true, the `user` variable is initialized and a `new Error('done')` is thrown, which is caught inside the same function. The `catch` doesn't do anything and merely contains a comment reading \"Got a user, stop running the `try` block\". Finally, `user.logOut()` is called."
+    },
+    {
+        "tweet_id": "1529191415288188928",
+        "media_key": "3_1529008294286835713",
+        "media_url": "https://pbs.twimg.com/media/FTgg8U-XwAEtfLt.png",
+        "alt_text": "Accordingly, there should be a prohibition on gatekeeper actions which distort competition and undermine consumer choice. Prohibited actions on gatekeepers should include: ● interfering with consumer selection of alternative browsers and use of those browsers to access the internet from links and queries on their devices; and ● dictating or controlling browser components, such as browser engines, which prevent consumers from accessing and using their preferred browser across all operating systems and devices. Specifically, consumers should be free on all platforms to do the following: ● uninstall the operating system's affiliated browser; ● discover, download and set another browser to default; ● port existing browser preferences to the new browser; ● pin their preferred browser to the task bar or home screen; ● change apps to open webpages in their preferred browsers; ● permanently dismiss messages through the operating system and affiliated channels; ● keep their preferred browser de"
+    },
+    {
+        "tweet_id": "1527171244197441538",
+        "media_key": "3_1527100627347591168",
+        "media_url": "https://pbs.twimg.com/media/FTFZ7f1UUAAcNqo.png",
+        "alt_text": "Certain services provided together with, or in support of, relevant core platform services of the gatekeeper, such as identification services, web browser engines, payment services or technical services that support the provision of payment services, such as payment\nsystems for in-app purchases, are crucial for business users to conduct their business and allow them ▌to optimise services. In particular, each browser is built on a web browser engine, which is responsible for key browser functionality such as speed, reliability and\nweb compatibility. When gatekeepers operate and impose web browser engines, they are in a position to determine the functionality and standards that will apply not only to their own web browsers, but also to competing web browsers and, in turn, to web software applications. ▌ Gatekeepers should therefore not use their position to require their\ndependent business users to use any of the core platform services provided by the gatekeeper itself as part..."
+    },
+    {
+        "tweet_id": "1526659233839599616",
+        "media_key": "3_1526582036164755460",
+        "media_url": "https://pbs.twimg.com/media/FS-CRhIXwAQD9aR.jpg",
+        "alt_text": "type AddParameters<\n  TFn extends (...args: never[]) => void,\n  TParams extends [...args: unknown[]],\n> = (...args: [...Parameters<TFn>, ...TParams]) \n    => ReturnType<TFn>\n  \ntype One = (x: number) => void\n// type Two = (x: number, y: string) => void\ntype Two = AddParameters<One, [y: string]>"
+    },
+    {
+        "tweet_id": "1526078619759456257",
+        "media_key": "3_1526076689993740288",
+        "media_url": "https://pbs.twimg.com/media/FS22qf8UsAACsw4.png",
+        "alt_text": "A terminal with a `bazel cquery --output starlark` command which displays all the providers for a target in a nicely formatted and indented view."
+    },
+    {
+        "tweet_id": "1523789432804888578",
+        "media_key": "3_1523789074875568128",
+        "media_url": "https://pbs.twimg.com/media/FSWWFxiUUAAQWwL.png",
+        "alt_text": "A bar chart titled \"What gives people feelings of power\" with two short bars labeled \"Money\" and \"Status\" followed by one gigantic bar labeled \"Hard-coding your name in the Hello World test case\"."
+    },
+    {
+        "tweet_id": "1521355228859174916",
+        "media_key": "3_1521355192741949447",
+        "media_url": "https://pbs.twimg.com/media/FRzwfMCUcAchBtG.png",
+        "alt_text": "A screenshot of NPM docs with two steps:\n1. \"In the root directory of your project, create a custom `.npmrc` file with the following contents: \" - Lists an NPM URL with an authentication token explicitly set.\n2. Check in the `.npmrc` file.\n\nThe authentication token and \"Check in the `.npmrc` file\" are highlighted to indicate their incongruity."
+    },
+    {
+        "tweet_id": "1515427073443069953",
+        "media_key": "3_1515426449959776257",
+        "media_url": "https://pbs.twimg.com/media/FQfgU8EVcAElzNF.jpg",
+        "alt_text": "A screenshot of Southwest airlines mobile checkout screen listing \"hazardous materials\" which may not be transported on the plane with a \"Continue\" button. There is a large arrow edited onto the picture pointing at an alternative option which reads \"Disagree\"."
+    },
+    {
+        "tweet_id": "1514802602059345925",
+        "media_key": "3_1514802590822764548",
+        "media_url": "https://pbs.twimg.com/media/FQWo7jrVEAQLlrW.png",
+        "alt_text": "Screenshot from Slack which reads \"To see whose invitations you've blocked, you'll need to verify your email address (undefined)\". A red box highlights \"(undefined)\" as a clear bug."
+    },
+    {
+        "tweet_id": "1504326929859559425",
+        "media_key": "3_1504326923324854273",
+        "media_url": "https://pbs.twimg.com/media/FOBxXdLVkAEg1Ew.jpg",
+        "alt_text": "Screenshot of the Steam download page, currently downloading an update for Elden Ring. Two values are highlighted, one says \"Updating 43%\", while another indicates that it has downloaded 50.4 MB out of 3 GB."
+    },
+    {
+        "tweet_id": "1504326915875696640",
+        "media_key": "3_1504323870303551489",
+        "media_url": "https://pbs.twimg.com/media/FOBulvyVgAEAV0S.jpg",
+        "alt_text": "Meme of a man labeled \"An hour free after work\" looking at an attractive woman labeled \"Elden Ring\". The man steps towards her before being stopped by another man labeled \"3GB update\"."
+    },
+    {
+        "tweet_id": "1496001239494307845",
+        "media_key": "3_1496000182453882883",
+        "media_url": "https://pbs.twimg.com/media/FMLcPWMVUAMVeIQ.jpg",
+        "alt_text": "A screenshot of an app accepting payment. It shows a checkbox with three columns of text next to it, each with two lines. The first reads \"I agree to (newline) the\". The second column is highlighted as a link and reads \"Terms and (newline) conditions\". The third column reads \"of the charges (newline) applied\"."
+    },
+    {
+        "tweet_id": "1494763263644499971",
+        "media_key": "3_1494763209814773763",
+        "media_url": "https://pbs.twimg.com/media/FL53OEBVEAMtHuN.png",
+        "alt_text": "The \"This is chicken nuggets meme\" which reads \"This is a marketing email\"."
+    },
+    {
+        "tweet_id": "1492647831177289733",
+        "media_key": "3_1492646474164760577",
+        "media_url": "https://pbs.twimg.com/media/FLbyD1PUcAEYSZG.jpg",
+        "alt_text": "A screenshot of the macOS terms of service. It has the following text highlighted \"you are granted a limited, non-transferable, non-exclusive license: ... to install ... on each Mac Computer you own or control that is already running the Apple Software\"."
+    },
+    {
+        "tweet_id": "1492382236359860225",
+        "media_key": "3_1492367449781538816",
+        "media_url": "https://pbs.twimg.com/media/FLX0SeaVkAA5XBY.png",
+        "alt_text": "An error dialog which reads \"Something went wrong. To configure this device, you need to have the Xbox Identity Provider installed and be signed in to your Xbox account. Check that your PC is connected to the internet and try installing the Xbox Identity Provider. Then sign in to the Xbox app. IF that doesn't work, please try again later.\""
+    },
+    {
+        "tweet_id": "1490240307916541954",
+        "media_key": "3_1490234391930433539",
+        "media_url": "https://pbs.twimg.com/media/FK5gSKsVcAMGSnG.jpg",
+        "alt_text": "A meme titled \"Coding without tests\". It shows Lenny from the Simpsons sitting in an empty apartment, alone at a table, eating food from a can. The window is open and blowing air through a torn curtain while Lenny shivers at the table, wearing only a nightshirt, underwear, and slippers. Lenny simply asks \"Please don't tell anyone how I live.\""
+    },
+    {
+        "tweet_id": "1490240306226159617",
+        "media_key": "3_1490233019407290370",
+        "media_url": "https://pbs.twimg.com/media/FK5fCRpUUAIUftH.jpg",
+        "alt_text": "Screenshot of the emoji picker, showing a large grid of various emoji icons and including a text box labeled \"Emoji filter\" with a popup message which reads \"Copied 😀 to clipboard!\""
+    },
+    {
+        "tweet_id": "1487674485578764289",
+        "media_key": "3_1487674307253714946",
+        "media_url": "https://pbs.twimg.com/media/FKVH5oFVQAIVoqn.jpg",
+        "alt_text": "A terminal log which executed `git status` and output:\nerror: object file is empty\nerror: object file is empty\nerror: object file is empty\nfatal: loose object is corrupt"
+    },
+    {
+        "tweet_id": "1484315964099358726",
+        "media_key": "3_1484315746331021322",
+        "media_url": "https://pbs.twimg.com/media/FJlZTpqUUAoZYfK.png",
+        "alt_text": "Meme of Fry from Futurama walking towards a sign which reads \"0 days since last accidentally amended someone else's commit\"."
+    },
+    {
+        "tweet_id": "1482907499703386113",
+        "media_key": "3_1482907291837820933",
+        "media_url": "https://pbs.twimg.com/media/FJRYUzzUcAU1ns2.jpg",
+        "alt_text": "Screenshot of an internet speed test which lists a download speed of 0.54 Mbps, and an upload speed of 2.87 Mbps.\n\nUnderneath, it reads: \"Your internet download speed is very low. Web browsing should work, but videos could load slowly.\""
+    },
+    {
+        "tweet_id": "1481131116266360832",
+        "media_key": "3_1481130362566631424",
+        "media_url": "https://pbs.twimg.com/media/FI4IN6bUYAAS96G.jpg",
+        "alt_text": "Screenshot of the Halo Infinite starting screen, with a giant dialog which reads \"Xbox: Let's get you signed in\" and only one button \"Sign in\" is visible. There is no \"Close\" or \"Skip\" option visible."
+    },
+    {
+        "tweet_id": "1481127446137110531",
+        "media_key": "3_1481127379099525120",
+        "media_url": "https://pbs.twimg.com/media/FI4FgQJVIAAJcff.jpg",
+        "alt_text": "Screenshot of Twitter with Chrome DevTools open. The \"new tweet\" box is filled out with with some text and a video. An alert message reads \"The media you tried to upload was invalid.\"\n\nIn the DevTools panel, the Network tab is open showing a JSON response for a `CreateTweet` request. The response includes the message \"BadRequest Aspect ratio too large: Maximum: 3:1, Actual: 154:45\"."
+    },
+    {
+        "tweet_id": "1480803936969789440",
+        "media_key": "3_1480803896226304001",
+        "media_url": "https://pbs.twimg.com/media/FIzfTEiVUAEm0l-.jpg",
+        "alt_text": "A code snippet which reads:\n\n```\n// 5 characters 'ought to be enough for anyone.\nconst username = email.slice(0, 5);\n```"
+    },
+    {
+        "tweet_id": "1469740875030798336",
+        "media_key": "3_1469740325979652098",
+        "media_url": "https://pbs.twimg.com/media/FGWRChoVgAIGd10.jpg",
+        "alt_text": "A composition of of 4 screenshots of different video games from Bioshock and Deus Ex. Each one using the code 0451."
+    },
+    {
+        "tweet_id": "1463692559302029317",
+        "media_key": "3_1463692189767122946",
+        "media_url": "https://pbs.twimg.com/media/FFAUSqeVQAIAfXq.jpg",
+        "alt_text": "JavaScript source code which reads:\nObject.prototype.toString = function() {\n  // Need to give a useful default value.\n  return '[object Object]';\n};"
+    },
+    {
+        "tweet_id": "1461910788004667401",
+        "media_key": "3_1461910651236872194",
+        "media_url": "https://pbs.twimg.com/media/FEm__eRVcAIiagX.png",
+        "alt_text": "A form asking for an email address and with a checkbox which reads \"Email me with news and offers\". The box is unchecked."
+    },
+    {
+        "tweet_id": "1459385975084228623",
+        "media_key": "3_1459384825991729152",
+        "media_url": "https://pbs.twimg.com/media/FEDGxF_VEAAQaZf.png",
+        "alt_text": "Screenshot of the Windows registry, in a Chrome directory with a key named `DisablePrintPreview` with a value of `1`."
+    },
+    {
+        "tweet_id": "1459385969639972864",
+        "media_key": "3_1459382445334155267",
+        "media_url": "https://pbs.twimg.com/media/FEDEmhWVUAMriYJ.png",
+        "alt_text": "Screenshot of the Chrome downloads page with the message \"Your browser is managed by your organization\""
+    },
+    {
+        "tweet_id": "1455406584956264452",
+        "media_key": "3_1455406015499812866",
+        "media_url": "https://pbs.twimg.com/media/FDKkD13VQAI70ud.png",
+        "alt_text": "Lakitu holding a camera and filming Mario in Super Mario 64. His expression says: \"I am so done with this shit.\""
+    },
+    {
+        "tweet_id": "1448164858298470403",
+        "media_key": "3_1448161011526107140",
+        "media_url": "https://pbs.twimg.com/media/FBjmxG2VgAQwm5m.jpg",
+        "alt_text": "A screenshot of Visual Studio Code which shows a TypeScript source file which renders some HTML at build-time and invokes an API to set up an SSR component to be called later. This passes a `name` field set to `0`, which is shown in editor to be a type error via a red squiggly underline. The terminal window also attempts a `bazel run` command which fails with the same type error, indicating that for the `name` field \"Type `number` is not assignable to `string`.\""
+    },
+    {
+        "tweet_id": "1448164830888615946",
+        "media_key": "3_1448154953185255425",
+        "media_url": "https://pbs.twimg.com/media/FBjhQdxUYAEncfC.png",
+        "alt_text": "A simple web page with a nested list of the items.\nFirst bullet: SSG: Outer component header.\nSecond bullet: SSR: Outer component.\nBegin nested sublist.\nFirst bullet: SSG: Inner component header.\nSecond bullet: SSR: Inner component called by Outer component.\nThird bullet: SSG: Inner component footer.\nEnd nested sublist.\nThird bullet: SSG: Outer component footer."
+    },
+    {
+        "tweet_id": "1448164826170068992",
+        "media_key": "3_1448152585127354372",
+        "media_url": "https://pbs.twimg.com/media/FBjfGoEUYAQp81R.png",
+        "alt_text": "A screenshot of a web page with 6 bullets. In order they read:\n1. SSG: Built in Bazel workspace `rules_prerender`.\n2. SSR: This was request #1.\n3. CSR: Viewport width is 822px.\n4. SSG: Built in Bazel workspace `rules_prerender`.\n5. SSR: This was request #1.\n6. CSR: Viewport width is 822px."
+    },
+    {
+        "tweet_id": "1435491532031684609",
+        "media_key": "3_1435491448103714816",
+        "media_url": "https://pbs.twimg.com/media/E-vj3dJVQAALnZF.png",
+        "alt_text": "Screenshot of a `zip()` function invocation in TypeScript. It accepts three array literals as input and has the return value revealing its inferred type. The inferred type is the correct tuple output of the `zip()` invocation."
+    },
+    {
+        "tweet_id": "1432238078626729985",
+        "media_key": "3_1432238020959227904",
+        "media_url": "https://pbs.twimg.com/media/E-BU5EkVUAA8R2t.jpg",
+        "alt_text": "A commit log in GitHub with three commits. The first reads: \"Adds pre-push lint hook to regret later.\" The third reads: \"Fixes pre-push script I already regret.\""
+    },
+    {
+        "tweet_id": "1415856416015880192",
+        "media_key": "3_1415856249678139392",
+        "media_url": "https://pbs.twimg.com/media/E6Yhwe8VEAAMtJG.jpg",
+        "alt_text": "An emoji picker interface with a box highlighting two adjacent emojis. One is a finger pointing up, and its neighbor is a middle finger emoji, both of which have a single finger above the hand, making them difficult to distinguish at a glance."
+    },
+    {
+        "tweet_id": "1579373831919403008",
+        "media_key": "3_1579373825602424832",
+        "media_url": "https://pbs.twimg.com/media/FesQIGKVEAA86ib.jpg",
+        "alt_text": "Promotional picture for Cloud Next featuring the talk titled \"Build and deploy a MEAN app on Google Cloud\" dated \"Oct 11 - 13\" with a register link at \"g.co/cloudnext\". The image also features some artwork of stylized \"N\" \"E\" and \"X\" characters using Google blue and green colors where they overlap."
+    },
+    {
+        "tweet_id": "1404005272633241609",
+        "media_key": "3_1404000328635142144",
+        "media_url": "https://pbs.twimg.com/media/E3wC3DTUUAA91gq.jpg",
+        "alt_text": "Adult says to child in a classroom: \"iOS Private Relay solves fingerprinting once and for all.\"\n\nChild responds: \"What about non-IP-based fingerprinting?\"\n\nTeacher shouts back: \"Once and for all!\""
+    },
+    {
+        "tweet_id": "1402063727940100097",
+        "media_key": "3_1402063304156086273",
+        "media_url": "https://pbs.twimg.com/media/E3UhJYzVgAEfqKu.jpg",
+        "alt_text": "The checkout page of the Google Store website with a header that reads \"Cart (1 item)\" and a title thay reads \"Your cart is empty\"."
+    },
+    {
+        "tweet_id": "1398096072614944769",
+        "media_key": "3_1398095659668938752",
+        "media_url": "https://pbs.twimg.com/media/E2cImFSVIAA4FR1.jpg",
+        "alt_text": "Lisa Simpson on a stage and approaching the audience, determined to argue her point with a slide behind her that reads \"Ctrl+S should be 'Save All' by default.\""
+    },
+    {
+        "tweet_id": "1383165194327576583",
+        "media_key": "3_1383162811799408642",
+        "media_url": "https://pbs.twimg.com/media/EzH7P7_VkAIr5gY.jpg",
+        "alt_text": "Sam, an orange-yellow tabby sitting down and a bit scraggley, looking past the camera."
+    },
+    {
+        "tweet_id": "1383165194327576583",
+        "media_key": "3_1383164473108692993",
+        "media_url": "https://pbs.twimg.com/media/EzH8wo2VgAExVR4.jpg",
+        "alt_text": "Contact information for the animal shelter Sam is at. It reads:\n\nSan Jose Animal Care Center\n2750 Monterey Rd. San Jose, CA 95111\nMain Menu: 408-794-7297\nAnimal Licensing: 408-794-7240\nAnimal Control/Non-emergency: 408-794-7222\nMedical Clinic: 408-794-7245\nwww.sanjoseanimals.com\nLicensing questions: AnimalLicensing@sanjoseca.gov\nAnimal & rescue inquiries: sjrescue@sanjoseca.gov\nAdoption appointment: SJAdopt@sanjoseca.gov"
+    },
+    {
+        "tweet_id": "1382568889184227328",
+        "media_key": "3_1382568799430332419",
+        "media_url": "https://pbs.twimg.com/media/Ey_e_3eVUAMU0ze.jpg",
+        "alt_text": "Sam, an orange-yellow tabby cat looking up towards the camera."
+    },
+    {
+        "tweet_id": "1374862943712501765",
+        "media_key": "3_1374862766989668354",
+        "media_url": "https://pbs.twimg.com/media/ExR-ZvlUcAIh7FR.png",
+        "alt_text": "Woman saying \"I want old, dead processes to continue printing to the terminal I'm currently using... said no one ever.\""
+    },
+    {
+        "tweet_id": "1360763309192929283",
+        "media_key": "3_1360763276158623750",
+        "media_url": "https://pbs.twimg.com/media/EuJm_XLU4AYvzyS.jpg",
+        "alt_text": "A TypeScript code snippet with the following content:\n\n```\nfunction normalize(input: ArrayBuffer | string): ArrayBuffer {\n    if (input instanceof ArrayBuffer) return input;\n    return new TextEncoder().encode(input);\n}\n\nconsole.log(normalize(new Uint8Array([ 0, 1, 2, 3 ])));\n// Uint8Array(7) [ 48, 44, 49, 44, 50, 44, 51 ] - Wat?\n```"
+    },
+    {
+        "tweet_id": "1354877898340012033",
+        "media_key": "3_1354877271006302208",
+        "media_url": "https://pbs.twimg.com/media/Es19sxSU0AAAi7R.jpg",
+        "alt_text": "Chrome DevTools network panel highlighting a request with a size of \"5.0 MB\" and a download time of \"1.3 minutes\""
+    },
+    {
+        "tweet_id": "1343494747982241793",
+        "media_key": "3_1343493770923261955",
+        "media_url": "https://pbs.twimg.com/media/EqUMd23UwAMX7Bw.jpg",
+        "alt_text": "Joker from Dark Knight saying: \"Write a new tool, no one cares. Rewrite an existing tool in Rust, everyone looses their minds!\""
+    },
+    {
+        "tweet_id": "1342244588694597633",
+        "media_key": "3_1342234573321588737",
+        "media_url": "https://pbs.twimg.com/media/EqCTO6QU0AEtzXX.jpg",
+        "alt_text": "An Amazon help page with a sentence highlighted in a list of features of the Amazon messaging service. The highlighted sentence reads \"Respond to third-party sellers quickly quickly and easily using the reply button\"."
+    },
+    {
+        "tweet_id": "1342244588694597633",
+        "media_key": "3_1342244528200151042",
+        "media_url": "https://pbs.twimg.com/media/EqCcSXEU8AIfjN2.jpg",
+        "alt_text": "A message from a seller viewed in Amazon's messaging service with identifying content blacked out. The message looks identical to the previous email, and is clearly loaded via an iframe as the width is too large for the device viewport and horizontal scrolling is required. The very bottom of the message is also slightly cut off for the same reason. No reply button is present."
+    },
+    {
+        "tweet_id": "1341864346268311552",
+        "media_key": "3_1341861578342207488",
+        "media_url": "https://pbs.twimg.com/media/Ep8__vrVEAALADs.jpg",
+        "alt_text": "A message from the Amazon bot with the notice:\n\nWhen you submit this form, Amazon will replace your email address with one provided by Amazon in order to protect your identity, and forward the message on your behalf. Amazon will retain copies of all e-mails sent and received using this service, including the message you submit below, and may review these messages as necessary to resolve disputes. By using this service, you consent to this action.\n\nAmazon uses filtering technology to protect buyers and sellers and to identify possible fraud. Messages that fail this filtering - even if they are not fraudulent - will not be transmitted. This form is for use by Amazon customers to ask product-related questions to Amazon store sellers. The use of this form to send unrelated messages to sellers is strictly prohibited. Find out more about Amazon's Privacy Notice and Conditions of Use."
+    },
+    {
+        "tweet_id": "1341864337158205440",
+        "media_key": "3_1341858888044298240",
+        "media_url": "https://pbs.twimg.com/media/Ep89jJiUwAApmue.jpg",
+        "alt_text": "An email notification with the seller's message (content blacked out for privacy). There is a \"Did this solve your problem?\" prompt, with a Yes/No answer, but no other buttons or possible actions."
+    },
+    {
+        "tweet_id": "1340837580317761536",
+        "media_key": "3_1340836580299194370",
+        "media_url": "https://pbs.twimg.com/media/EpubxAaVQAIin06.jpg",
+        "alt_text": "A building in Cyberpunk 2077 with a missing window, leading out of bounds."
+    },
+    {
+        "tweet_id": "1340837580317761536",
+        "media_key": "3_1340836580307570688",
+        "media_url": "https://pbs.twimg.com/media/EpubxAcVEAAswhf.jpg",
+        "alt_text": "Map showing position of the window."
+    },
+    {
+        "tweet_id": "1340837580317761536",
+        "media_key": "3_1340836580307570690",
+        "media_url": "https://pbs.twimg.com/media/EpubxAcVEAINg5r.jpg",
+        "alt_text": "More zoomed in imagine of the map."
+    },
+    {
+        "tweet_id": "1573496290230431744",
+        "media_key": "3_1573496134273683456",
+        "media_url": "https://pbs.twimg.com/media/FdYuZbrVUAAKZGX.jpg",
+        "alt_text": "A screenshot of a TypeScript code snippet. This snippet declares a web component named `MyElement` with an optional property named `prop`. Then it creates a new `Document` with `document.implementation.createHTMLDocument()`. With that document, it creates a new `MyElement` and assigns the string 'test' to `prop`. Finally, the snippet appends this element to the main document and logs the value of `prop`. A typical user would expect this to log 'test', however a comment indicates that this line actually logs `undefined`."
+    },
+    {
+        "tweet_id": "1313559183573147648",
+        "media_key": "3_1313559163310489600",
+        "media_url": "https://pbs.twimg.com/media/EjqzGXiUwAAbbhf.png",
+        "alt_text": "A comic strip titled \"Adding a newline to a chat message\". A person is unable to choose between two buttons: one labeled \"Shift+Enter\" and other labeled \"Ctrl+Enter\"."
+    }
+]

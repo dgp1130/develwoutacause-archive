@@ -3,6 +3,7 @@ const { parseDomain } = require("parse-domain");
 const dataSource = require("./DataSource");
 const metadata = require("../_data/metadata.js");
 const eleventyImg = require("@11ty/eleventy-img");
+const { getAltText } = require("./altTextStore");
 
 const ELEVENTY_IMG_OPTIONS = {
 	widths: [null],
@@ -174,11 +175,13 @@ class Twitter {
 					text = text.replace(media.url, "");
 
 					let imgHtml = "";
+					const altText = await getAltText(tweet.id_str);
+
 					// TODO the await use here on eleventyImg could be improved
 					try {
 						let stats = await eleventyImg(media.media_url_https, ELEVENTY_IMG_OPTIONS);
 						let imgRef = stats.jpeg[0];
-						imgHtml = `<img src="${imgRef.url}" width="${imgRef.width}" height="${imgRef.height}" alt="${media.alt_text || "oh my god twitter doesn’t include alt text from images in their API"}" class="tweet-media" onerror="fallbackMedia(this)" loading="lazy" decoding="async">`;
+						imgHtml = `<img src="${imgRef.url}" width="${imgRef.width}" height="${imgRef.height}" ${altText ? `alt="${altText}" ` : ''}class="tweet-media" onerror="fallbackMedia(this)" loading="lazy" decoding="async">`;
 						medias.push(`<a href="${imgRef.url}">${imgHtml}</a>`);
 					} catch(e) {
 						console.log("Image request error", e.message);
