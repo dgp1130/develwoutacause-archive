@@ -241,7 +241,7 @@ class Index extends Twitter {
 			<div class="tweets-search">
 				<div class="lo" style="--lo-margin-h: 1em; align-items: center;">
 					<div class="lo-c" style="flex-grow: 100">
-						<input type="url" id="tweet-url" required placeholder="Tweet URL" style="width: 100%">
+						<input type="search" name="search" id="tweet-url" required placeholder="Search string or tweet URL" style="width: 100%">
 					</div>
 					<div class="lo-c" style="flex-grow: .001;">
 						<button type="submit">Search</button>
@@ -262,13 +262,21 @@ class Index extends Twitter {
 			searchForm.addEventListener("submit", function(e) {
 				e.preventDefault();
 
-				var urlInput = searchForm.querySelector('input[type="url"]');
-				if(urlInput && urlInput.value) {
-					var tweetIdMatch = urlInput.value.match(/\\/(\\d+)/);
+				const formData = new FormData(e.target);
+				const search = formData.get('search');
+				if (!search) return;
+
+				if (search.includes('twitter.com')) {
+					if (!/twitter.com\\/develwoutacause/.test(search)) {
+						alert('Only @develwoutacause tweets are archived, meaning only \`twitter.com/develwoutacause/...\` links can be resolved.');
+						return;
+					}
+
+					var tweetIdMatch = search.match(/\\/(\\d+)/);
 					if(tweetIdMatch && tweetIdMatch.length) {
 						/* make sure that our redirect honours any pathPrefix etc
-						   by allowing 11ty to rewrite a twitter link at build time
-						   and then reading and altering that rewritten link at runtime */
+						by allowing 11ty to rewrite a twitter link at build time
+						and then reading and altering that rewritten link at runtime */
 						var redirect = "/1234567890123456789/";
 						var t = document.querySelector("template#rendered-twitter-link");
 						if (t && t.content) {
@@ -278,6 +286,8 @@ class Index extends Twitter {
 						redirect = redirect.replace("1234567890123456789", tweetIdMatch[1]);
 						document.location.href = redirect;
 					}
+				} else {
+					document.location.href = \`https://www.google.com/search?q=\${encodeURIComponent(search + ' site:tweets.dwac.dev')}\`;
 				}
 			}, false);
 		}

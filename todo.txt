@@ -1,5 +1,4 @@
 Pagination on home screen
-Search functionality
-* Can we just use Google with `site:twitter.dwac.dev`?
 Higher quality images
 OoT Tracker video broken?
+Clickable hashtags
