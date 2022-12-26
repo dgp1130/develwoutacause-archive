@@ -1,0 +1,25 @@
+# Netlify deployment configuration.
+# See: https://docs.netlify.com/configure-builds/file-based-configuration/
+
+[build]
+# Root directory of the output is _site/.
+publish = "_site/"
+
+[build.processing]
+# We already optimize assets at build time, so Netlify can't do much more here.
+# When Netlify optimizes, it hosts them at a different URL which I'd rather not do here.
+skip_processing = true
+
+[[redirects]]
+# Serve the 404 page at any unhandled URLs. This technically isn't a redirect,
+# it just serves a status code 404 with the contents of the `to` location.
+# See: https://docs.netlify.com/routing/redirects/redirect-options/#custom-404-page-handling
+from = "*"
+to = "/404.html"
+status = 404
+
+[[headers]]
+# Set Feature-Policy header to be as restrictive as possible.
+for = "*"
+[headers.values]
+Feature-Policy = "autoplay 'none'; camera 'none'; display-capture 'none'; document-domain 'none'; encrypted-media 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; microphone 'none'; midi 'none'; payment 'none'; publickey-credentials-get 'none'; sync-xhr 'none'; usb 'none'; xr-spatial-tracking 'none';"

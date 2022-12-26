@@ -2,6 +2,12 @@
 
 Take ownership of your Twitter data. First talked about at [Jamstack Conf 2019](https://www.zachleat.com/web/own-your-content/) and in [this blog post](https://www.zachleat.com/web/own-my-tweets/).
 
+## Deploy
+
+```shell
+npm run -- netlify deploy -s "${SITE_ID}" --prod -m "Manual deployment from command line."
+```
+
 ## Demos
 
 * https://www.zachleat.com/twitter/
