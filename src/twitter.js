@@ -196,9 +196,9 @@ class Twitter {
 						try {
 							let stats = await eleventyImg(media.media_url_https, ELEVENTY_IMG_OPTIONS);
 							let imgRef = stats.jpeg[0];
-							medias.push(`<video muted controls ${media.type === "animated_gif" ? "loop" : ""} src="${remoteVideoUrl}" poster="${imgRef.url}" class="tweet-media"></video>`);
+							medias.push(`<video ${media.type === "animated_gif" ? "loop autoplay muted" : "controls"} src="${remoteVideoUrl}" poster="${imgRef.url}" class="tweet-media"></video>`);
 						} catch(e) {
-							console.log("Video request error", e.message);
+							console.error("Video request error", e.message);
 							medias.push(`<a href="${remoteVideoUrl}">${remoteVideoUrl}</a>`);
 						}
 					}

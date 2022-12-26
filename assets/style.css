@@ -248,6 +248,7 @@ img.tweet-media {
 video.tweet-media {
 	width: auto;
 	max-height: 10em;
+	overflow: auto;
 }
 .tweet-media-load-error {
 	display: block;
