@@ -194,15 +194,15 @@ class Twitter {
 					if(media.video_info && media.video_info.variants) {
 						text = text.replace(media.url, "");
 
-						let remoteVideoUrl = media.video_info.variants[0].url;
-
+						const match = media.expanded_url.match(/^https:\/\/twitter.com\/develwoutacause\/status\/([^/]+)\/.*$/);
+						let videoUrl = match ? `/video/${match[1]}.mp4` : media.video_info.variants[0].url;
 						try {
 							let stats = await eleventyImg(media.media_url_https, ELEVENTY_IMG_OPTIONS);
 							let imgRef = stats.jpeg[0];
-							medias.push(`<video ${media.type === "animated_gif" ? "loop autoplay muted" : "controls"} src="${remoteVideoUrl}" poster="${imgRef.url}" class="tweet-media"></video>`);
+							medias.push(`<video ${media.type === "animated_gif" ? "loop autoplay muted" : "controls"} src="${videoUrl}" poster="${imgRef.url}" class="tweet-media"></video>`);
 						} catch(e) {
 							console.error("Video request error", e.message);
-							medias.push(`<a href="${remoteVideoUrl}">${remoteVideoUrl}</a>`);
+							medias.push(`<a href="${videoUrl}">${videoUrl}</a>`);
 						}
 					}
 				}
