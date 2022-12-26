@@ -2,6 +2,8 @@
 
 Take ownership of your Twitter data. First talked about at [Jamstack Conf 2019](https://www.zachleat.com/web/own-your-content/) and in [this blog post](https://www.zachleat.com/web/own-my-tweets/).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e6a08d3-c87a-41fa-83fa-46727399e5bb/deploy-status)](https://app.netlify.com/sites/dwac-tweets/deploys)
+
 ## Deploy
 
 ```shell
