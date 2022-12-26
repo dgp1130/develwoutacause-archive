@@ -146,7 +146,6 @@ button {
 
 /* Individual tweet */
 .is_retweet .tweet-text {
-	opacity: .6;
 	font-style: italic;
 }
 .tweet-text {
