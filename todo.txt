@@ -1,4 +1,3 @@
 Pagination on home screen
 Higher quality images
 OoT Tracker video broken?
-Clickable hashtags

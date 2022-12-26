@@ -143,6 +143,9 @@ class Twitter {
 		// replace `*` with <code>*</code>
 		text = text.replace(/\`([^\`]*)\`/g, "<code>$1</code>");
 
+		// Linkify hastags
+		text = text.replace(/\#([a-zA-Z0-9]+)\b/g, (match, hashtag) => `<a href="https://google.com/search?q=${encodeURIComponent(`"#${hashtag}" site:tweets.dwac.dev`)}">#${hashtag}</a>`);
+
 		let medias = [];
 
 		// linkify urls
