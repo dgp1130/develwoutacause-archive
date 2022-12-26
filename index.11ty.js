@@ -241,7 +241,7 @@ class Index extends Twitter {
 			<div class="tweets-search">
 				<div class="lo" style="--lo-margin-h: 1em; align-items: center;">
 					<div class="lo-c" style="flex-grow: 100">
-						<input type="search" name="search" id="tweet-url" required placeholder="Search string or tweet URL" style="width: 100%">
+						<input type="search" name="search" id="tweet-url" required placeholder="Search string or twitter.com URL" style="width: 100%">
 					</div>
 					<div class="lo-c" style="flex-grow: .001;">
 						<button type="submit">Search</button>
