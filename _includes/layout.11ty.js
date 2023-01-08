@@ -36,7 +36,7 @@ module.exports = async function(data) {
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>${data.metadata.username}’s Twitter Archive${titleTweetNumberStr}</title>
-		<meta name="description" content="A read-only indieweb self-hosted archive of${ data.pagination && data.pagination.hrefs && data.pagination.hrefs.length ? ` all ${data.pagination.hrefs.length}` : ""} of ${data.metadata.username}’s tweets." />
+		<meta name="description" content="${data.tweet?.full_text ? oneline(data.tweet.full_text) : 'Permanent read-only archive of @develwoutacause\'s tweets.'}" />
 		<script>
 		if("classList" in document.documentElement) {
 			document.documentElement.classList.add("has-js");
@@ -73,3 +73,7 @@ module.exports = async function(data) {
 	</body>
 </html>`;
 };
+
+function oneline(text) {
+	return text.split(/\n+/).join(' ');
+}
