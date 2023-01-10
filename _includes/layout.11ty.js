@@ -30,37 +30,35 @@ module.exports = async function(data) {
 		</ul>`;
 	}
 
+	let meta_description = `A read-only indieweb self-hosted archive of${ data.pagination && data.pagination.hrefs && data.pagination.hrefs.length ? ` all ${data.pagination.hrefs.length} of` : ""} @${data.metadata.username}'s tweets.`;
+	if (data.page.fileSlug === "tweet-pages" && data.tweet && data.tweet.full_text) {
+		// note that data.tweet.full_text is already HTML-escaped
+		meta_description = data.tweet.full_text.replace(/\s+/g, " ");
+	}
+
 	return `<!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>${data.metadata.username}’s Twitter Archive${titleTweetNumberStr}</title>
-		<meta name="description" content="${data.tweet?.full_text ? oneline(data.tweet.full_text) : 'Permanent read-only archive of @develwoutacause\'s tweets.'}" />
-		<script>
-		if("classList" in document.documentElement) {
-			document.documentElement.classList.add("has-js");
-		}
-		</script>
+		<meta name="description" content="${meta_description}" />
 
-		${data.page.fileSlug !== "tweet-pages" ? `
-			<link rel="stylesheet" href="/assets/chartist.min.css">
-			<link rel="stylesheet" href="/assets/chart.css">
-			<script src="/assets/chartist.min.js"></script>
-			<script src="/assets/chart.js"></script>
-		` : ""}
-
+		<link rel="profile" href="https://microformats.org/profile/hatom">
 		<link rel="stylesheet" href="/assets/style.css">
 		<script src="/assets/script.js" type="module"></script>
 		<script src="/assets/is-land.js" type="module"></script>
-		${data.page.fileSlug === "newest" ? `<link rel="canonical" href="/${data.tweet.id_str}/">
-<meta http-equiv="refresh" content="0; url=/${data.tweet.id_str}/">` : ""}
+
+		${data.page.fileSlug === "newest" ? `
+			<link rel="canonical" href="/${data.tweet.id_str}/">
+			<meta http-equiv="refresh" content="0; url=/${data.tweet.id_str}/">
+			` : ""}
 	</head>
 	<body>
 		<header>
 			<h1 class="tweets-title"><a href="/"><img src="${metadata.avatar}" width="52" height="52" alt="${data.metadata.username}’s avatar" class="tweet-avatar">${data.metadata.username}’s Twitter Archive</a>${titleTweetNumberStr}</h1>
 			${!data.hideHeaderTweetsLink ? `<ul class="tweets-nav">
-				<li><a href="${data.metadata.homeUrl}">← ${data.metadata.homeLabel}</a></li>
+				<li><a rel="home" href="${data.metadata.homeUrl}">← ${data.metadata.homeLabel}</a></li>
 			</ul>`: ""}
 			${navHtml}
 		</header>
@@ -73,7 +71,3 @@ module.exports = async function(data) {
 	</body>
 </html>`;
 };
-
-function oneline(text) {
-	return text.split(/\n+/).join(' ');
-}

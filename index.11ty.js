@@ -236,71 +236,25 @@ class Index extends Twitter {
 			}).slice(0, 15);
 		let recentTweetsHtml = await Promise.all(mostRecentTweets.map(tweet => this.renderTweet(tweet)));
 		return `
-		<form class="js" method="get" id="search-url">
-			<h2>Search for <label for="tweet-url">Tweet URL</label>:</h2>
-			<div class="tweets-search">
-				<div class="lo" style="--lo-margin-h: 1em; align-items: center;">
-					<div class="lo-c" style="flex-grow: 100">
-						<input type="search" name="search" id="tweet-url" required placeholder="Search string or twitter.com URL" style="width: 100%">
-					</div>
-					<div class="lo-c" style="flex-grow: .001;">
-						<button type="submit">Search</button>
-					</div>
+		<is-land on:visible on:save-data="false">
+			<template data-island>
+				<h2>Search Tweets:</h2>
+				<div class="tweets-search">
+					<div id="search" class="tweets-search"></div>
+					<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+					<script src="/_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false });"></script>
 				</div>
-			</div>
-		</form>
+			</template>
+		</is-land>
 
 		<div>
-			<ol class="tweets tweets-linear-list" id="tweets-recent-home">
+			<h2><a href="/recent/">Recent:</a></h2>
+
+			<ol class="tweets tweets-linear-list h-feed hfeed" id="tweets-recent-home">
 				${recentTweetsHtml.join("")}
 			</ol>
 		</div>
-
-		<script>
-		var searchForm = document.getElementById("search-url");
-		if(searchForm) {
-			searchForm.addEventListener("submit", function(e) {
-				e.preventDefault();
-
-				const formData = new FormData(e.target);
-				const search = formData.get('search');
-				if (!search) return;
-
-				if (search.includes('twitter.com')) {
-					if (!/twitter.com\\/develwoutacause/.test(search)) {
-						alert('Only @develwoutacause tweets are archived, meaning only \`twitter.com/develwoutacause/...\` links can be resolved.');
-						return;
-					}
-
-					var tweetIdMatch = search.match(/\\/(\\d+)/);
-					if(tweetIdMatch && tweetIdMatch.length) {
-						/* make sure that our redirect honours any pathPrefix etc
-						by allowing 11ty to rewrite a twitter link at build time
-						and then reading and altering that rewritten link at runtime */
-						var redirect = "/1234567890123456789/";
-						var t = document.querySelector("template#rendered-twitter-link");
-						if (t && t.content) {
-							var a = t.content.querySelector("a");
-							if (a) redirect = a.href;
-						}
-						redirect = redirect.replace("1234567890123456789", tweetIdMatch[1]);
-						document.location.href = redirect;
-					}
-				} else {
-					document.location.href = \`https://www.google.com/search?q=\${encodeURIComponent(search + ' site:tweets.dwac.dev')}\`;
-				}
-			}, false);
-		}
-
-		var series = getSentimentsFromList( '#tweets-recent-home' );
-		makeSentimentChart( '.twtr-sentiment-chart', series );
-		</script>
-		<template id="rendered-twitter-link"><a href="/1234567890123456789/">twitter link</a></template>
-`;
-		// <h3>Before 2012, it was not possible to tell the difference between a mention and reply. This happened ${this.renderNumber(ambiguousReplyMentionCount)} times (${this.renderPercentage(ambiguousReplyMentionCount, tweetCount)})</h3>
-
-		// <h3>I’ve sent someone a mention ${this.renderNumber(mentionNotReplyCount)} times (${this.renderPercentage(mentionNotReplyCount, tweetCount)})</h3>
-		// <p>Mentions are tweets sent to a single person but not as a reply to an existing tweet. Note that this number is overinflated for old data—Twitter didn’t support official replies before July 2012.</p>
+		`;
 	}
 }
 
