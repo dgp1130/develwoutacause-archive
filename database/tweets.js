@@ -4,9 +4,282 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1597442739213242368"
+            "1612242487984390145"
           ],
-          "editableUntil" : "2022-11-29T04:40:02.736Z",
+          "editableUntil" : "2023-01-09T00:48:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "224"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1612242486621261825",
+      "id_str" : "1612242487984390145",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1612242487984390145",
+      "in_reply_to_status_id" : "1612242486621261825",
+      "created_at" : "Mon Jan 09 00:18:57 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I'll leave this up for a couple days to give it time to make the rounds and then capture a final archive of these latest tweets and delete the account.\n\nI hope to see you all in whatever community we happen to cross paths. 👋",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1612242486621261825"
+          ],
+          "editableUntil" : "2023-01-09T00:48:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/LqfItdaqeq",
+            "expanded_url" : "https://fediverse.zachleat.com/@zachleat",
+            "display_url" : "fediverse.zachleat.com/@zachleat",
+            "indices" : [
+              "75",
+              "98"
+            ]
+          },
+          {
+            "url" : "https://t.co/d5PrKH1uVn",
+            "expanded_url" : "https://github.com/tweetback/tweetback",
+            "display_url" : "github.com/tweetback/twee…",
+            "indices" : [
+              "99",
+              "122"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "122"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1612242485325225984",
+      "id_str" : "1612242486621261825",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1612242486621261825",
+      "in_reply_to_status_id" : "1612242485325225984",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jan 09 00:18:57 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Huge shout out to Zach Leatherman and Tweetback for making this possible.\n\nhttps://t.co/LqfItdaqeq\nhttps://t.co/d5PrKH1uVn",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1612242485325225984"
+          ],
+          "editableUntil" : "2023-01-09T00:48:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/rnZhS63Bdy",
+            "expanded_url" : "http://tweets.dwac.dev",
+            "display_url" : "tweets.dwac.dev",
+            "indices" : [
+              "156",
+              "179"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "249"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1612242483760750593",
+      "id_str" : "1612242485325225984",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1612242485325225984",
+      "in_reply_to_status_id" : "1612242483760750593",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jan 09 00:18:57 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I was planning to do this over a month ago, but life just got in the way and I was held up building a public archive of all my tweets. I eventually did and https://t.co/rnZhS63Bdy is up and running, though still being indexed so the search is wonky.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1612242483760750593"
+          ],
+          "editableUntil" : "2023-01-09T00:48:56.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Mastodon",
+            "indices" : [
+              "33",
+              "42"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/zTvhia4IeK",
+            "expanded_url" : "https://techhub.social/@develwithoutacause/",
+            "display_url" : "techhub.social/@develwithouta…",
+            "indices" : [
+              "46",
+              "69"
+            ]
+          },
+          {
+            "url" : "https://t.co/IxbyqjeSbK",
+            "expanded_url" : "https://blog.dwac.dev/social/",
+            "display_url" : "blog.dwac.dev/social/",
+            "indices" : [
+              "139",
+              "162"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "162"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1612242482234036225",
+      "id_str" : "1612242483760750593",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1612242483760750593",
+      "in_reply_to_status_id" : "1612242482234036225",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jan 09 00:18:56 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Going forward you can find me on #Mastodon at https://t.co/zTvhia4IeK.\n\nI've also added a social page to my site to link all my accounts.\n\nhttps://t.co/IxbyqjeSbK",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1612242482234036225"
+          ],
+          "editableUntil" : "2023-01-09T00:48:56.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "GoodByeTwitter",
+            "indices" : [
+              "218",
+              "233"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/MpKXOZZ2yp",
+            "expanded_url" : "https://blog.dwac.dev/posts/twitter/",
+            "display_url" : "blog.dwac.dev/posts/twitter/",
+            "indices" : [
+              "235",
+              "258"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "258"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1612242482234036225",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1612242482234036225",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jan 09 00:18:56 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I've been threatening this for a while, but I'm finally pulling the plug on my Twitter account. I wrote a bit about the current state of Twitter, my motivation for leaving, and what I think is next for the ecosystem.\n\n#GoodByeTwitter\n\nhttps://t.co/MpKXOZZ2yp",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1611493330692767744"
+          ],
+          "editableUntil" : "2023-01-06T23:12:04.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -18,41 +291,254 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
+            "name" : "Charlie “Click” Greenman 🥇",
+            "screen_name" : "razroo_chief",
+            "indices" : [
+              "0",
+              "13"
+            ],
+            "id_str" : "2962828127",
+            "id" : "2962828127"
+          },
+          {
             "name" : "Minko Gechev",
             "screen_name" : "mgechev",
             "indices" : [
-              "3",
-              "11"
+              "14",
+              "22"
+            ],
+            "id_str" : "178817640",
+            "id" : "178817640"
+          },
+          {
+            "name" : "Dylan Hunn",
+            "screen_name" : "dylhunn",
+            "indices" : [
+              "23",
+              "31"
+            ],
+            "id_str" : "67345995",
+            "id" : "67345995"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "258"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1611486662114312195",
+      "id_str" : "1611493330692767744",
+      "in_reply_to_user_id" : "2962828127",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1611493330692767744",
+      "in_reply_to_status_id" : "1611486662114312195",
+      "created_at" : "Fri Jan 06 22:42:04 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@razroo_chief @mgechev @dylhunn So you want to compile your Angular application to WASM, ship that to the browser, and then execute it within the client to run SSR logic but just immediately display it on the current page?\n\nAm I understanding this correctly?",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "razroo_chief",
+      "in_reply_to_user_id_str" : "2962828127"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1611478898105266176"
+          ],
+          "editableUntil" : "2023-01-06T22:14:43.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Charlie “Click” Greenman 🥇",
+            "screen_name" : "razroo_chief",
+            "indices" : [
+              "0",
+              "13"
+            ],
+            "id_str" : "2962828127",
+            "id" : "2962828127"
+          },
+          {
+            "name" : "Dylan Hunn",
+            "screen_name" : "dylhunn",
+            "indices" : [
+              "14",
+              "22"
+            ],
+            "id_str" : "67345995",
+            "id" : "67345995"
+          },
+          {
+            "name" : "Minko Gechev",
+            "screen_name" : "mgechev",
+            "indices" : [
+              "23",
+              "31"
             ],
             "id_str" : "178817640",
             "id" : "178817640"
           }
         ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "173"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1611473268124405766",
+      "id_str" : "1611478898105266176",
+      "in_reply_to_user_id" : "2962828127",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1611478898105266176",
+      "in_reply_to_status_id" : "1611473268124405766",
+      "created_at" : "Fri Jan 06 21:44:43 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@razroo_chief @dylhunn @mgechev I guess I don't understand the goal here. Are you looking for an easier deployment story? Are you looking for improved rendering performance?",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "razroo_chief",
+      "in_reply_to_user_id_str" : "2962828127"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1611472596373241858"
+          ],
+          "editableUntil" : "2023-01-06T21:49:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Charlie “Click” Greenman 🥇",
+            "screen_name" : "razroo_chief",
+            "indices" : [
+              "0",
+              "13"
+            ],
+            "id_str" : "2962828127",
+            "id" : "2962828127"
+          },
+          {
+            "name" : "Dylan Hunn",
+            "screen_name" : "dylhunn",
+            "indices" : [
+              "14",
+              "22"
+            ],
+            "id_str" : "67345995",
+            "id" : "67345995"
+          },
+          {
+            "name" : "Minko Gechev",
+            "screen_name" : "mgechev",
+            "indices" : [
+              "23",
+              "31"
+            ],
+            "id_str" : "178817640",
+            "id" : "178817640"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "226"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1611146617977212928",
+      "id_str" : "1611472596373241858",
+      "in_reply_to_user_id" : "2962828127",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1611472596373241858",
+      "in_reply_to_status_id" : "1611146617977212928",
+      "created_at" : "Fri Jan 06 21:19:41 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@razroo_chief @dylhunn @mgechev I think I saw an issue about this other day. I'm unclear on what we would be compiling to WASM? Everything is JS and from my understanding, compiling JS to WASM doesn't really provide any value.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "razroo_chief",
+      "in_reply_to_user_id_str" : "2962828127"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1610914793455747072"
+          ],
+          "editableUntil" : "2023-01-05T08:53:10.766Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Evan Martin",
+            "screen_name" : "evmar",
+            "indices" : [
+              "3",
+              "9"
+            ],
+            "id_str" : "764476465",
+            "id" : "764476465"
+          }
+        ],
         "urls" : [
           {
-            "url" : "https://t.co/YfvJqpFQBD",
-            "expanded_url" : "https://survey.devographics.com/survey/state-of-js/2022",
-            "display_url" : "survey.devographics.com/survey/state-o…",
+            "url" : "https://t.co/wqeMzQFFRm",
+            "expanded_url" : "https://neugierig.org/software/blog/2023/01/browser-crashes.html",
+            "display_url" : "neugierig.org/software/blog/…",
             "indices" : [
-              "105",
-              "128"
+              "85",
+              "108"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "128"
+        "108"
       ],
       "favorite_count" : "0",
-      "id_str" : "1597442739213242368",
+      "id_str" : "1610914793455747072",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1597442739213242368",
+      "id" : "1610914793455747072",
       "possibly_sensitive" : false,
-      "created_at" : "Tue Nov 29 04:10:02 +0000 2022",
+      "created_at" : "Thu Jan 05 08:23:10 +0000 2023",
       "favorited" : false,
-      "full_text" : "RT @mgechev: \"State of JavaScript\" went out last week!\n\nYou can share your experience with Angular here\n\nhttps://t.co/YfvJqpFQBD",
+      "full_text" : "RT @evmar: New blog post: Two surprises in browser crashes\nA small Figma war story.\n\nhttps://t.co/wqeMzQFFRm",
       "lang" : "en"
     }
   },
@@ -61,9 +547,167 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1597327381156331520"
+            "1608731985803112448"
           ],
-          "editableUntil" : "2022-11-28T21:01:39.232Z",
+          "editableUntil" : "2022-12-30T08:19:28.867Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Devon Govett",
+            "screen_name" : "devongovett",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "15687937",
+            "id" : "15687937"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1608731985803112448",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1608731985803112448",
+      "created_at" : "Fri Dec 30 07:49:28 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @devongovett: I reimplemented napi in JS for use with WASM! This enables many native Node modules to run in browsers and other environme…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1605986601774895104"
+          ],
+          "editableUntil" : "2022-12-22T18:30:18.308Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Malte Ubl",
+            "screen_name" : "cramforce",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "15534471",
+            "id" : "15534471"
+          },
+          {
+            "name" : "Sarah Drasner",
+            "screen_name" : "sarah_edo",
+            "indices" : [
+              "119",
+              "129"
+            ],
+            "id_str" : "813333008",
+            "id" : "813333008"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1605986601774895104",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1605986601774895104",
+      "created_at" : "Thu Dec 22 18:00:18 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @cramforce: OK, OK, we need to talk about rewrites. In fact, I've been wanting to talk about rewrites. First of all @sarah_edo is 100% r…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1605859692772610048"
+          ],
+          "editableUntil" : "2022-12-22T10:06:00.844Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sarah Drasner",
+            "screen_name" : "sarah_edo",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "813333008",
+            "id" : "813333008"
+          },
+          {
+            "name" : "Bijan",
+            "screen_name" : "BijanRahnema",
+            "indices" : [
+              "15",
+              "28"
+            ],
+            "id_str" : "23475110",
+            "id" : "23475110"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1605859692772610048",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1605859692772610048",
+      "created_at" : "Thu Dec 22 09:36:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @sarah_edo: @BijanRahnema Hi 👋 I’m a Director of Engineering for Google, my org runs the infrastructure that powers Search, Gmail, YouTu…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1605301182225739776"
+          ],
+          "editableUntil" : "2022-12-20T21:06:41.553Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -89,16 +733,16 @@ module.exports = [
       },
       "display_text_range" : [
         "0",
-        "146"
+        "139"
       ],
       "favorite_count" : "0",
-      "id_str" : "1597327381156331520",
+      "id_str" : "1605301182225739776",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1597327381156331520",
-      "created_at" : "Mon Nov 28 20:31:39 +0000 2022",
+      "id" : "1605301182225739776",
+      "created_at" : "Tue Dec 20 20:36:41 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @angular: Add &lt;link&gt; preload tag for priority images during SSR\n\nTo make sure priority images are loaded as quickly as possible, @jaycoo…",
+      "full_text" : "RT @angular: The Angular CLI is better than ever\n\nWe’re on a mission to simplify the output of `ng new`. \n\nWe can reduce the configuration…",
       "lang" : "en"
     }
   },
@@ -107,73 +751,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1596177139220770816"
+            "1604977483077468160"
           ],
-          "editableUntil" : "2022-11-25T16:51:00.184Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Diabetes",
-            "indices" : [
-              "110",
-              "119"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Scott Hanselman",
-            "screen_name" : "shanselman",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "5676102",
-            "id" : "5676102"
-          },
-          {
-            "name" : "Internet Archive",
-            "screen_name" : "internetarchive",
-            "indices" : [
-              "24",
-              "40"
-            ],
-            "id_str" : "18957805",
-            "id" : "18957805"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1596177139220770816",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1596177139220770816",
-      "created_at" : "Fri Nov 25 16:21:00 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @shanselman: Wow, so @internetarchive is launching Palm Pilot emulation soon and it turns out they have my #Diabetes app GlucoPilot up a…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1596176455473430541"
-          ],
-          "editableUntil" : "2022-11-25T16:48:17.166Z",
+          "editableUntil" : "2022-12-19T23:40:25.662Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -185,41 +765,30 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Evan Martin",
-            "screen_name" : "evmar",
+            "name" : "Jake Archibald",
+            "screen_name" : "jaffathecake",
             "indices" : [
               "3",
-              "9"
+              "16"
             ],
-            "id_str" : "764476465",
-            "id" : "764476465"
+            "id_str" : "15390783",
+            "id" : "15390783"
           }
         ],
-        "urls" : [
-          {
-            "url" : "https://t.co/gosXIiYalw",
-            "expanded_url" : "https://mobile.twitter.com/natfriedman/status/1589051044369420288",
-            "display_url" : "mobile.twitter.com/natfriedman/st…",
-            "indices" : [
-              "43",
-              "66"
-            ]
-          }
-        ]
+        "urls" : [ ]
       },
       "display_text_range" : [
         "0",
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1596176455473430541",
+      "id_str" : "1604977483077468160",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1596176455473430541",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Nov 25 16:18:17 +0000 2022",
+      "id" : "1604977483077468160",
+      "created_at" : "Mon Dec 19 23:10:25 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @evmar: Disappointed to see people like https://t.co/gosXIiYalw argue for “hard work” in the context of long hours for tech work.\n\nIf yo…",
+      "full_text" : "RT @jaffathecake: I realise this post will be of interest to almost no one, but here's how to calculate the HTML codecs= param for an AV1 v…",
       "lang" : "en"
     }
   },
@@ -228,9 +797,849 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1595916461650083842"
+            "1604921855625658369"
           ],
-          "editableUntil" : "2022-11-24T23:35:09.808Z",
+          "editableUntil" : "2022-12-19T19:59:23.044Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1604921855625658369",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1604921855625658369",
+      "created_at" : "Mon Dec 19 19:29:23 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular: Automatic imports in language service\n\nThe language service now can automatically import components that you’re using in a tem…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1604907310203015168"
+          ],
+          "editableUntil" : "2022-12-19T19:01:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Mastadon",
+            "indices" : [
+              "50",
+              "59"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Aly Ahmed",
+            "screen_name" : "AlyahmedAli",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "374422412",
+            "id" : "374422412"
+          },
+          {
+            "name" : "Ryan Cavanaugh 👉 @SeaRyanC@fosstodon.org",
+            "screen_name" : "SeaRyanC",
+            "indices" : [
+              "13",
+              "22"
+            ],
+            "id_str" : "1177182800",
+            "id" : "1177182800"
+          },
+          {
+            "name" : "Ryan Cavanaugh 👉 @SeaRyanC@fosstodon.org",
+            "screen_name" : "SeaRyanC",
+            "indices" : [
+              "102",
+              "111"
+            ],
+            "id_str" : "1177182800",
+            "id" : "1177182800"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "300"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1604588391722631168",
+      "id_str" : "1604907310203015168",
+      "in_reply_to_user_id" : "374422412",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1604907310203015168",
+      "in_reply_to_status_id" : "1604588391722631168",
+      "created_at" : "Mon Dec 19 18:31:35 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@AlyahmedAli @SeaRyanC A lot of us are heading to #Mastadon, definitely recommend you check that out. @SeaRyanC is there too.\n\nI'd post links but apparently that's blocked right now. We both have basically the same names (replace \"wout\" with \"without\" for me).\n\nLots of tools to migrate your follows.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "AlyahmedAli",
+      "in_reply_to_user_id_str" : "374422412"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1604569647679803392"
+          ],
+          "editableUntil" : "2022-12-18T20:39:50.126Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Ryan Cavanaugh 👉 @SeaRyanC@fosstodon.org",
+            "screen_name" : "SeaRyanC",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "1177182800",
+            "id" : "1177182800"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "69"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1604569647679803392",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1604569647679803392",
+      "created_at" : "Sun Dec 18 20:09:50 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @SeaRyanC: If you're still posting here, it's really time to stop.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1604561905007239170"
+          ],
+          "editableUntil" : "2022-12-18T20:09:04.129Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sarah Drasner",
+            "screen_name" : "sarah_edo",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "813333008",
+            "id" : "813333008"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "117"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1604561905007239170",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1604561905007239170",
+      "created_at" : "Sun Dec 18 19:39:04 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @sarah_edo: My 2023 goal is to not focus on immediate solutions but to think about systems and the bigger picture.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1604561289644474368"
+          ],
+          "editableUntil" : "2022-12-18T20:06:37.415Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Judd Legum",
+            "screen_name" : "JuddLegum",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "15464697",
+            "id" : "15464697"
+          },
+          {
+            "name" : "Elon Musk",
+            "screen_name" : "elonmusk",
+            "indices" : [
+              "20",
+              "29"
+            ],
+            "id_str" : "44196397",
+            "id" : "44196397"
+          },
+          {
+            "name" : "telsa",
+            "screen_name" : "telsa",
+            "indices" : [
+              "55",
+              "61"
+            ],
+            "id_str" : "10942132",
+            "id" : "10942132"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1604561289644474368",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1604561289644474368",
+      "created_at" : "Sun Dec 18 19:36:37 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @JuddLegum: Dear @elonmusk \n\nI would like to report @Telsa for this clear violation of Twitter rules. \n\nThese rules are very important a…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1604561195620454405"
+          ],
+          "editableUntil" : "2022-12-18T20:06:14.998Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Malte Ubl",
+            "screen_name" : "cramforce",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "15534471",
+            "id" : "15534471"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "35"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1604561195620454405",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1604561195620454405",
+      "created_at" : "Sun Dec 18 19:36:14 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @cramforce: This is how you lose",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1604560994209976320"
+          ],
+          "editableUntil" : "2022-12-18T20:05:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Twitter",
+            "indices" : [
+              "25",
+              "33"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "266"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1604560992251191296",
+      "id_str" : "1604560994209976320",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1604560994209976320",
+      "in_reply_to_status_id" : "1604560992251191296",
+      "created_at" : "Sun Dec 18 19:35:26 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I've been checked out of #Twitter for a couple weeks now and trying to move away from it. Currently working on publishing my tweet archive in a way I'm happy with.\n\nOnce that's done I'll delete/ deactivate this account (not sure which yet) and be all-in on Mastadon.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1604560992251191296"
+          ],
+          "editableUntil" : "2022-12-18T20:05:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Mastadon",
+            "indices" : [
+              "89",
+              "98"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/sK9apEARHr",
+            "expanded_url" : "https://twitter.com/TwitterSupport/status/1604531261791522817",
+            "display_url" : "twitter.com/TwitterSupport…",
+            "indices" : [
+              "203",
+              "226"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "226"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1604560992251191296",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1604560992251191296",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Dec 18 19:35:26 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Aside from being fucking stupid (which it is) I'll remind all my followers that I have a #Mastadon link in my profile. You might want to follow me there in case that's interpreted as a ban-able offense. https://t.co/sK9apEARHr",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1603988687858962432"
+          ],
+          "editableUntil" : "2022-12-17T06:11:18.511Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Michael Thiessen",
+            "screen_name" : "MichaelThiessen",
+            "indices" : [
+              "3",
+              "19"
+            ],
+            "id_str" : "221255671",
+            "id" : "221255671"
+          },
+          {
+            "name" : "Vue.js",
+            "screen_name" : "vuejs",
+            "indices" : [
+              "67",
+              "73"
+            ],
+            "id_str" : "2292889800",
+            "id" : "2292889800"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1603988687858962432",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1603988687858962432",
+      "created_at" : "Sat Dec 17 05:41:18 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @MichaelThiessen: Here's how you can create web components with @vuejs.\n\nFirst, create the custom element from a Vue component using def…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1603834334451929088"
+          ],
+          "editableUntil" : "2022-12-16T19:57:57.791Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Alex Russell",
+            "screen_name" : "slightlylate",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "229237555",
+            "id" : "229237555"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1603834334451929088",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1603834334451929088",
+      "created_at" : "Fri Dec 16 19:27:57 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @slightlylate: Ha! \n\nThe blocking of links to Mastodon servers now seems to include bio updates. Won't be checking this much from now on…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1603809790739697665"
+          ],
+          "editableUntil" : "2022-12-16T18:20:26.114Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Piotr Tomiak",
+            "screen_name" : "PiotrekTomiak",
+            "indices" : [
+              "3",
+              "17"
+            ],
+            "id_str" : "2525038921",
+            "id" : "2525038921"
+          },
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "47",
+              "55"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          },
+          {
+            "name" : "JetBrains WebStorm",
+            "screen_name" : "WebStormIDE",
+            "indices" : [
+              "67",
+              "79"
+            ],
+            "id_str" : "1307796572",
+            "id" : "1307796572"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1603809790739697665",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1603809790739697665",
+      "created_at" : "Fri Dec 16 17:50:26 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @PiotrekTomiak: Working on new features for @angular support in @WebStormIDE ! For a start, I’ve just finished auto-import of global and…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1603500140399951872"
+          ],
+          "editableUntil" : "2022-12-15T21:49:59.720Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Randall Munroe",
+            "screen_name" : "xkcd",
+            "indices" : [
+              "3",
+              "8"
+            ],
+            "id_str" : "21146468",
+            "id" : "21146468"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1603500140399951872",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1603500140399951872",
+      "created_at" : "Thu Dec 15 21:19:59 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @xkcd: (Thread) In the first What If? book, I answered a question about cooking a steak by dropping it from space. At one point, I comme…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1603116354097119233"
+          ],
+          "editableUntil" : "2022-12-14T20:24:57.935Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Svelte",
+            "screen_name" : "sveltejs",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "801833412487184384",
+            "id" : "801833412487184384"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/mP8vD5zcta",
+            "expanded_url" : "https://svelte.dev/blog/announcing-sveltekit-1.0",
+            "display_url" : "svelte.dev/blog/announcin…",
+            "indices" : [
+              "26",
+              "49"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "49"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1603116354097119233",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1603116354097119233",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Dec 14 19:54:57 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @sveltejs: It's here.\n\nhttps://t.co/mP8vD5zcta",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1602747041372782592"
+          ],
+          "editableUntil" : "2022-12-13T19:57:26.920Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Alex 🦅 Eagle",
+            "screen_name" : "Jakeherringbone",
+            "indices" : [
+              "3",
+              "19"
+            ],
+            "id_str" : "8124762",
+            "id" : "8124762"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "66"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1602747041372782592",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1602747041372782592",
+      "created_at" : "Tue Dec 13 19:27:26 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @Jakeherringbone: Okay I'm going too. 👋🏻@alexeagle@hachyderm.io",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1601814715314806784"
+          ],
+          "editableUntil" : "2022-12-11T06:12:43.066Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jeremiah Johnson 🌐",
+            "screen_name" : "JeremiahDJohns",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "1297187352129961991",
+            "id" : "1297187352129961991"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "58"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1601814715314806784",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1601814715314806784",
+      "created_at" : "Sun Dec 11 05:42:43 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @JeremiahDJohns: Elon Musk's inconsistencies, a thread:",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1601814290641563648"
+          ],
+          "editableUntil" : "2022-12-11T06:11:01.816Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Malte Ubl",
+            "screen_name" : "cramforce",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "15534471",
+            "id" : "15534471"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1601814290641563648",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1601814290641563648",
+      "created_at" : "Sun Dec 11 05:41:01 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @cramforce: A modest web platform proposal:\n- Browsers should support setting `prefers-color-scheme` on a per site basis (I'm sure some…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1601681032549261312"
+          ],
+          "editableUntil" : "2022-12-10T21:21:30.611Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -259,13 +1668,13 @@ module.exports = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1595916461650083842",
+      "id_str" : "1601681032549261312",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1595916461650083842",
-      "created_at" : "Thu Nov 24 23:05:09 +0000 2022",
+      "id" : "1601681032549261312",
+      "created_at" : "Sat Dec 10 20:51:30 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @sarah_edo: This is unnecessarily cruel, and will leave more cruelty in its wake as folks emulate this behavior.\n\nYou can make tough bus…",
+      "full_text" : "RT @sarah_edo: I was reading this book completely unrelated to productivity, and the author said (paraphrased)\n\n“This felt hard, so I asked…",
       "lang" : "en"
     }
   },
@@ -274,424 +1683,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1595558026429300736"
+            "1601679584369725440"
           ],
-          "editableUntil" : "2022-11-23T23:50:52.192Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Mark \"Mayor\" Techson",
-            "screen_name" : "marktechson",
-            "indices" : [
-              "3",
-              "15"
-            ],
-            "id_str" : "4184075433",
-            "id" : "4184075433"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "76"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1595558026429300736",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1595558026429300736",
-      "created_at" : "Wed Nov 23 23:20:52 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @marktechson: But perhaps you have a new perspective 🙂\n\nMake your video 🤝",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1595470874865549323"
-          ],
-          "editableUntil" : "2022-11-23T18:04:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jake Archibald",
-            "screen_name" : "jaffathecake",
-            "indices" : [
-              "0",
-              "13"
-            ],
-            "id_str" : "15390783",
-            "id" : "15390783"
-          },
-          {
-            "name" : "Alex Russell",
-            "screen_name" : "slightlylate",
-            "indices" : [
-              "14",
-              "27"
-            ],
-            "id_str" : "229237555",
-            "id" : "229237555"
-          },
-          {
-            "name" : "Alexandre Dieulot",
-            "screen_name" : "Dieulot",
-            "indices" : [
-              "28",
-              "36"
-            ],
-            "id_str" : "382182042",
-            "id" : "382182042"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/WN5k4ZDUkf",
-            "expanded_url" : "https://blog.dwac.dev/posts/streamable-html-fragments/",
-            "display_url" : "blog.dwac.dev/posts/streamab…",
-            "indices" : [
-              "291",
-              "314"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "314"
-      ],
-      "favorite_count" : "3",
-      "in_reply_to_status_id_str" : "1595315956359860225",
-      "id_str" : "1595470874865549323",
-      "in_reply_to_user_id" : "15390783",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1595470874865549323",
-      "in_reply_to_status_id" : "1595315956359860225",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Nov 23 17:34:33 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@jaffathecake @slightlylate @Dieulot Not to distract to much, but I'll share this approach I experimented with a while back which streamed HTML fragments and looks very similar to your investigation, with a prototype.\n\nUltimately using `createHTMLDocument()` with some hacks for streaming.\n\nhttps://t.co/WN5k4ZDUkf",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "jaffathecake",
-      "in_reply_to_user_id_str" : "15390783"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594840423062962176"
-          ],
-          "editableUntil" : "2022-11-22T00:19:22.217Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Scott Hanselman",
-            "screen_name" : "shanselman",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "5676102",
-            "id" : "5676102"
-          },
-          {
-            "name" : "Nina Zakharenko - @nnja@mastodon.social",
-            "screen_name" : "nnja",
-            "indices" : [
-              "16",
-              "21"
-            ],
-            "id_str" : "17513031",
-            "id" : "17513031"
-          },
-          {
-            "name" : "Jay Miller",
-            "screen_name" : "kjaymiller",
-            "indices" : [
-              "22",
-              "33"
-            ],
-            "id_str" : "27907022",
-            "id" : "27907022"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594840423062962176",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594840423062962176",
-      "created_at" : "Mon Nov 21 23:49:22 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @shanselman: @nnja @kjaymiller I feel like Mastodon is doing a great job, as is Discord. I was getting the word out on my blog, podcast,…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594463488004526085"
-          ],
-          "editableUntil" : "2022-11-20T23:21:33.896Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "VoteWithYourTweet",
-            "indices" : [
-              "92",
-              "110"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Westbrook",
-            "screen_name" : "WestbrookJ",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "16910874",
-            "id" : "16910874"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594463488004526085",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594463488004526085",
-      "created_at" : "Sun Nov 20 22:51:33 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @WestbrookJ: I will not participate on Twitter while D*nald Tr*mp has an active account. #VoteWithYourTweet\n\nUse your voice. Join us on…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594463460443709441"
-          ],
-          "editableUntil" : "2022-11-20T23:21:27.325Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "@changelog@changelog.social",
-            "screen_name" : "changelog",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "90286855",
-            "id" : "90286855"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/4IYo3PntaA",
-            "expanded_url" : "https://changelog.social/@changelog",
-            "display_url" : "changelog.social/@changelog",
-            "indices" : [
-              "43",
-              "66"
-            ]
-          },
-          {
-            "url" : "https://t.co/raoeVoCSZS",
-            "expanded_url" : "https://changelog.social/@jerod",
-            "display_url" : "changelog.social/@jerod",
-            "indices" : [
-              "69",
-              "92"
-            ]
-          },
-          {
-            "url" : "https://t.co/GPPyWze59u",
-            "expanded_url" : "https://changelog.social/@adam",
-            "display_url" : "changelog.social/@adam",
-            "indices" : [
-              "95",
-              "118"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594463460443709441",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594463460443709441",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Nov 20 22:51:27 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @changelog: 🐘 Find us on Mastodon! 👇\n\n📡 https://t.co/4IYo3PntaA\n🗣 https://t.co/raoeVoCSZS\n🗣 https://t.co/GPPyWze59u\n\n🎧 And all of our po…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594463257007632384"
-          ],
-          "editableUntil" : "2022-11-20T23:20:38.822Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "3",
-              "17"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "50"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594463257007632384",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594463257007632384",
-      "created_at" : "Sun Nov 20 22:50:38 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @justinfagnani: 🫡\n\n@justinfagnani@fosstodon.org",
-      "lang" : "und"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594463233380868103"
-          ],
-          "editableUntil" : "2022-11-20T23:20:33.189Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Emily Nakashima",
-            "screen_name" : "eanakashima",
-            "indices" : [
-              "3",
-              "15"
-            ],
-            "id_str" : "212114407",
-            "id" : "212114407"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "81"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594463233380868103",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594463233380868103",
-      "created_at" : "Sun Nov 20 22:50:33 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @eanakashima: This. I’ve learned so much from Twitter by quietly listening in.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594460728584552454"
-          ],
-          "editableUntil" : "2022-11-20T23:10:35.999Z",
+          "editableUntil" : "2022-12-10T21:15:45.338Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -717,16 +1711,16 @@ module.exports = [
       },
       "display_text_range" : [
         "0",
-        "136"
+        "107"
       ],
       "favorite_count" : "0",
-      "id_str" : "1594460728584552454",
+      "id_str" : "1601679584369725440",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1594460728584552454",
-      "created_at" : "Sun Nov 20 22:40:35 +0000 2022",
+      "id" : "1601679584369725440",
+      "created_at" : "Sat Dec 10 20:45:45 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @mmasnick: Elon repeatedly mocking Mastodon suggests that... he's seeing the magnitude of the shift of key people from here to there.",
+      "full_text" : "RT @mmasnick: Free speech absolutist declares that only he shall be free to leak Twitter info to the press.",
       "lang" : "en"
     }
   },
@@ -735,9 +1729,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1594460465757061121"
+            "1601320551091384320"
           ],
-          "editableUntil" : "2022-11-20T23:09:33.336Z",
+          "editableUntil" : "2022-12-09T21:29:05.134Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -749,86 +1743,50 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "@alexbodurri@mastodon.social",
-            "screen_name" : "alexbodurri",
+            "name" : "annecollier",
+            "screen_name" : "annecollier",
             "indices" : [
               "3",
               "15"
             ],
-            "id_str" : "1370875017169358855",
-            "id" : "1370875017169358855"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594460465757061121",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594460465757061121",
-      "created_at" : "Sun Nov 20 22:39:33 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @alexbodurri: Like many I've decided that I'm not comfortable with the direction that Twitter has been going in the last few weeks.\n\nI'l…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594333906483953664"
-          ],
-          "editableUntil" : "2022-11-20T14:46:39.254Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Tom Coates",
-            "screen_name" : "tomcoates",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "12514",
-            "id" : "12514"
+            "id_str" : "15276345",
+            "id" : "15276345"
           },
           {
-            "name" : "Elon Musk",
-            "screen_name" : "elonmusk",
+            "name" : "Eirliani A Rahman",
+            "screen_name" : "eirliani",
             "indices" : [
-              "15",
-              "24"
+              "87",
+              "96"
             ],
-            "id_str" : "44196397",
-            "id" : "44196397"
+            "id_str" : "3152567420",
+            "id" : "3152567420"
+          },
+          {
+            "name" : "Lesley Podesta",
+            "screen_name" : "podesta_lesley",
+            "indices" : [
+              "97",
+              "112"
+            ],
+            "id_str" : "1100253949",
+            "id" : "1100253949"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "37"
+        "144"
       ],
       "favorite_count" : "0",
-      "id_str" : "1594333906483953664",
+      "id_str" : "1601320551091384320",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1594333906483953664",
-      "created_at" : "Sun Nov 20 14:16:39 +0000 2022",
+      "id" : "1601320551091384320",
+      "created_at" : "Fri Dec 09 20:59:05 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @tomcoates: @elonmusk So you lied.",
+      "full_text" : "RT @annecollier: Three of us resigned from Twitter’s Trust &amp; Safety Council today: @eirliani @podesta_lesley and me. Here’s why https://t.c…",
       "lang" : "en"
     }
   },
@@ -837,9 +1795,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1594333790201315328"
+            "1601258119979753472"
           ],
-          "editableUntil" : "2022-11-20T14:46:11.530Z",
+          "editableUntil" : "2022-12-09T17:21:00.397Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -851,76 +1809,41 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Mastodon (@Mastodon@mastodon.social)",
-            "screen_name" : "joinmastodon",
+            "name" : "Evan Martin",
+            "screen_name" : "evmar",
             "indices" : [
               "3",
-              "16"
+              "9"
             ],
-            "id_str" : "875882643614814208",
-            "id" : "875882643614814208"
+            "id_str" : "764476465",
+            "id" : "764476465"
           }
         ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594333790201315328",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594333790201315328",
-      "created_at" : "Sun Nov 20 14:16:11 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @joinmastodon: Mastodon has just passed over 2 million active monthly users, a new record! People are voting with their feet. The future…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594224619313061888"
-          ],
-          "editableUntil" : "2022-11-20T07:32:23.162Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
+        "urls" : [
           {
-            "name" : "Paul Irish",
-            "screen_name" : "paul_irish",
+            "url" : "https://t.co/5AGWYH7906",
+            "expanded_url" : "https://neugierig.org/software/blog/2022/12/chrome.html",
+            "display_url" : "neugierig.org/software/blog/…",
             "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "1671811",
-            "id" : "1671811"
+              "83",
+              "106"
+            ]
           }
-        ],
-        "urls" : [ ]
+        ]
       },
       "display_text_range" : [
         "0",
         "106"
       ],
       "favorite_count" : "0",
-      "id_str" : "1594224619313061888",
+      "id_str" : "1601258119979753472",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1594224619313061888",
-      "created_at" : "Sun Nov 20 07:02:23 +0000 2022",
+      "id" : "1601258119979753472",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Dec 09 16:51:00 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @paul_irish: Yeah, fuuuuck this.  \n\nYou can find me on mastodon. \n\nI'm not gonna hang out on Parler 2.0",
+      "full_text" : "RT @evmar: New blog post: Chrome, 10 years later\nReflecting on my work on Chrome.\n\nhttps://t.co/5AGWYH7906",
       "lang" : "en"
     }
   },
@@ -929,9 +1852,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1594202328105717760"
+            "1600968963139112960"
           ],
-          "editableUntil" : "2022-11-20T06:03:48.524Z",
+          "editableUntil" : "2022-12-08T22:12:00.034Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -939,18 +1862,33 @@ module.exports = [
       "retweeted" : false,
       "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "entities" : {
-        "hashtags" : [ ],
+        "hashtags" : [
+          {
+            "text" : "RxJS",
+            "indices" : [
+              "45",
+              "50"
+            ]
+          },
+          {
+            "text" : "Angular",
+            "indices" : [
+              "101",
+              "109"
+            ]
+          }
+        ],
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Mike Masnick",
-            "screen_name" : "mmasnick",
+            "name" : "Mike F. Pearson",
+            "screen_name" : "mfpears",
             "indices" : [
               "3",
-              "12"
+              "11"
             ],
-            "id_str" : "1270191",
-            "id" : "1270191"
+            "id_str" : "2720340139",
+            "id" : "2720340139"
           }
         ],
         "urls" : [ ]
@@ -960,13 +1898,13 @@ module.exports = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1594202328105717760",
+      "id_str" : "1600968963139112960",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1594202328105717760",
-      "created_at" : "Sun Nov 20 05:33:48 +0000 2022",
+      "id" : "1600968963139112960",
+      "created_at" : "Thu Dec 08 21:42:00 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @mmasnick: I'm still here, but my Mastodon has reached such a critical mass that I will likely be using it as my main venue for thinking…",
+      "full_text" : "RT @mfpears: I changed my mind. I still love #RxJS, but I also see an important place for signals in #Angular. At first I was angry at Angu…",
       "lang" : "en"
     }
   },
@@ -975,9 +1913,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1594201873866625025"
+            "1600956432047710209"
           ],
-          "editableUntil" : "2022-11-20T06:02:00.000Z",
+          "editableUntil" : "2022-12-08T21:22:12.389Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -989,294 +1927,30 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "southpaw",
-            "screen_name" : "nycsouthpaw",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "22429979",
-            "id" : "22429979"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "87"
-      ],
-      "favorite_count" : "5",
-      "in_reply_to_status_id_str" : "1594134008807698432",
-      "id_str" : "1594201873866625025",
-      "in_reply_to_user_id" : "22429979",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594201873866625025",
-      "in_reply_to_status_id" : "1594134008807698432",
-      "created_at" : "Sun Nov 20 05:32:00 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@nycsouthpaw The real content moderation council was the friends we made along the way.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "nycsouthpaw",
-      "in_reply_to_user_id_str" : "22429979"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594182360215552000"
-          ],
-          "editableUntil" : "2022-11-20T04:44:27.808Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "southpaw",
-            "screen_name" : "nycsouthpaw",
+            "name" : "Angular",
+            "screen_name" : "angular",
             "indices" : [
               "3",
-              "15"
+              "11"
             ],
-            "id_str" : "22429979",
-            "id" : "22429979"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/nycsouthpaw/status/1594134008807698432/photo/1",
-            "source_status_id" : "1594134008807698432",
-            "indices" : [
-              "106",
-              "129"
-            ],
-            "url" : "https://t.co/lu7vODNS1C",
-            "media_url" : "http://pbs.twimg.com/media/Fh-Abj0UoAAvHgx.jpg",
-            "id_str" : "1594134004071964672",
-            "source_user_id" : "22429979",
-            "id" : "1594134004071964672",
-            "media_url_https" : "https://pbs.twimg.com/media/Fh-Abj0UoAAvHgx.jpg",
-            "source_user_id_str" : "22429979",
-            "sizes" : {
-              "large" : {
-                "w" : "1170",
-                "h" : "1051",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1170",
-                "h" : "1051",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "611",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1594134008807698432",
-            "display_url" : "pic.twitter.com/lu7vODNS1C"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "129"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594182360215552000",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594182360215552000",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Nov 20 04:14:27 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @nycsouthpaw: We have met the content moderation council, and it is a massively brigaded twitter poll. https://t.co/lu7vODNS1C",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/nycsouthpaw/status/1594134008807698432/photo/1",
-            "source_status_id" : "1594134008807698432",
-            "indices" : [
-              "106",
-              "129"
-            ],
-            "url" : "https://t.co/lu7vODNS1C",
-            "media_url" : "http://pbs.twimg.com/media/Fh-Abj0UoAAvHgx.jpg",
-            "id_str" : "1594134004071964672",
-            "source_user_id" : "22429979",
-            "id" : "1594134004071964672",
-            "media_url_https" : "https://pbs.twimg.com/media/Fh-Abj0UoAAvHgx.jpg",
-            "source_user_id_str" : "22429979",
-            "sizes" : {
-              "large" : {
-                "w" : "1170",
-                "h" : "1051",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1170",
-                "h" : "1051",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "611",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1594134008807698432",
-            "display_url" : "pic.twitter.com/lu7vODNS1C"
-          },
-          {
-            "expanded_url" : "https://twitter.com/nycsouthpaw/status/1594134008807698432/photo/1",
-            "source_status_id" : "1594134008807698432",
-            "indices" : [
-              "106",
-              "129"
-            ],
-            "url" : "https://t.co/lu7vODNS1C",
-            "media_url" : "http://pbs.twimg.com/media/Fh-Abj2VIAAoYwb.jpg",
-            "id_str" : "1594134004080386048",
-            "source_user_id" : "22429979",
-            "id" : "1594134004080386048",
-            "media_url_https" : "https://pbs.twimg.com/media/Fh-Abj2VIAAoYwb.jpg",
-            "source_user_id_str" : "22429979",
-            "sizes" : {
-              "medium" : {
-                "w" : "1040",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "589",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "1170",
-                "h" : "1350",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1594134008807698432",
-            "display_url" : "pic.twitter.com/lu7vODNS1C"
-          },
-          {
-            "expanded_url" : "https://twitter.com/nycsouthpaw/status/1594134008807698432/photo/1",
-            "source_status_id" : "1594134008807698432",
-            "indices" : [
-              "106",
-              "129"
-            ],
-            "url" : "https://t.co/lu7vODNS1C",
-            "media_url" : "http://pbs.twimg.com/media/Fh-Abj1UUAEnQf5.jpg",
-            "id_str" : "1594134004076138497",
-            "source_user_id" : "22429979",
-            "id" : "1594134004076138497",
-            "media_url_https" : "https://pbs.twimg.com/media/Fh-Abj1UUAEnQf5.jpg",
-            "source_user_id_str" : "22429979",
-            "sizes" : {
-              "large" : {
-                "w" : "1170",
-                "h" : "1187",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "670",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "medium" : {
-                "w" : "1170",
-                "h" : "1187",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1594134008807698432",
-            "display_url" : "pic.twitter.com/lu7vODNS1C"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594178208852844545"
-          ],
-          "editableUntil" : "2022-11-20T04:27:58.046Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Scott Hanselman",
-            "screen_name" : "shanselman",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "5676102",
-            "id" : "5676102"
+            "id_str" : "202230373",
+            "id" : "202230373"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "53"
+        "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1594178208852844545",
+      "id_str" : "1600956432047710209",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1594178208852844545",
-      "created_at" : "Sun Nov 20 03:57:58 +0000 2022",
+      "id" : "1600956432047710209",
+      "created_at" : "Thu Dec 08 20:52:12 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @shanselman: Wait so now the popular vote matters?",
+      "full_text" : "RT @angular: Improved experimental esbuild support 🚀\n\nIn v14 we announced the experimental support for esbuild in `ng build` to enable fast…",
       "lang" : "en"
     }
   },
@@ -1285,250 +1959,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1594177654936293376"
+            "1600223308464607232"
           ],
-          "editableUntil" : "2022-11-20T04:25:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/jWlACTHbsk",
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1593449514626478081?s=20&t=iu_m3mnAZe5KKFaquTePcw",
-            "display_url" : "twitter.com/develwoutacaus…",
-            "indices" : [
-              "86",
-              "109"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1594177653623427074",
-      "id_str" : "1594177654936293376",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594177654936293376",
-      "in_reply_to_status_id" : "1594177653623427074",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Nov 20 03:55:45 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Do stay in touch, it's not the platform which made this special, it's all of you. ♥️\n\nhttps://t.co/jWlACTHbsk",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594177653623427074"
-          ],
-          "editableUntil" : "2022-11-20T04:25:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "248"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1594177651966623745",
-      "id_str" : "1594177653623427074",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594177653623427074",
-      "in_reply_to_status_id" : "1594177651966623745",
-      "created_at" : "Sun Nov 20 03:55:45 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Instead, I'll just be retweeting anyone else moving on, whether emotionally or physically. After a couple days I'll delete this account.\n\nMight stay a little longer if the \"export Tweet archive\" continues to miss it's SLO. But after that, I'm done.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594177651966623745"
-          ],
-          "editableUntil" : "2022-11-20T04:25:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "empathize",
-            "indices" : [
-              "172",
-              "182"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "203"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1594177650352082946",
-      "id_str" : "1594177651966623745",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594177651966623745",
-      "in_reply_to_status_id" : "1594177650352082946",
-      "created_at" : "Sun Nov 20 03:55:45 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I was hoping to hang around and laugh at it, but it stopped being funny a while ago. Too many innocent people are caught in the crossfire, and I can't do anything but just #empathize for their suffering.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594177650352082946"
-          ],
-          "editableUntil" : "2022-11-20T04:25:44.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "ChiefTwit",
-            "indices" : [
-              "116",
-              "126"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "275"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1594177647982317568",
-      "id_str" : "1594177650352082946",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594177650352082946",
-      "in_reply_to_status_id" : "1594177647982317568",
-      "created_at" : "Sun Nov 20 03:55:44 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I considered writing a whole thread about my reasoning, but there's so much fundamentally wrong with everything the #ChiefTwit is doing that I can't. I just don't have the energy in me anymore.\n\nI've been checked out of Twitter for a while now, but this really just broke me.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594177647982317568"
-          ],
-          "editableUntil" : "2022-11-20T04:25:44.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "GoodByeTwitter",
-            "indices" : [
-              "29",
-              "44"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/jWlACTHJhS",
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1593449514626478081?s=20&t=iu_m3mnAZe5KKFaquTePcw",
-            "display_url" : "twitter.com/develwoutacaus…",
-            "indices" : [
-              "184",
-              "207"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "207"
-      ],
-      "favorite_count" : "4",
-      "id_str" : "1594177647982317568",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594177647982317568",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Nov 20 03:55:44 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Whelp, that's officially it. #GoodByeTwitter\n\nI refuse to share a platform with the... *motions broadly at everything* that he represents.\n\nYou can find me at various places below. 👇\n\nhttps://t.co/jWlACTHJhS",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594173306747469829"
-          ],
-          "editableUntil" : "2022-11-20T04:08:29.293Z",
+          "editableUntil" : "2022-12-06T20:49:02.106Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -1557,13 +1990,13 @@ module.exports = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1594173306747469829",
+      "id_str" : "1600223308464607232",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1594173306747469829",
-      "created_at" : "Sun Nov 20 03:38:29 +0000 2022",
+      "id" : "1600223308464607232",
+      "created_at" : "Tue Dec 06 20:19:02 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @polotek: Reinstating a certain person’s account has always been my line to actually leave twitter. I’m gonna wait to see what happens t…",
+      "full_text" : "RT @polotek: What I didn't know until recently is that Apple *forbids* companies from telling their customers about this 30% take. It's aga…",
       "lang" : "en"
     }
   },
@@ -1572,11 +2005,11 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1594173199675113473"
+            "1599878958769934336"
           ],
-          "editableUntil" : "2022-11-20T04:08:03.765Z",
+          "editableUntil" : "2022-12-05T22:00:42.000Z",
           "editsRemaining" : "5",
-          "isEditEligible" : false
+          "isEditEligible" : true
         }
       },
       "retweeted" : false,
@@ -1584,215 +2017,33 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "David Shevitz",
-            "screen_name" : "aikithoughts",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "26105329",
-            "id" : "26105329"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "33"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594173199675113473",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594173199675113473",
-      "created_at" : "Sun Nov 20 03:38:03 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @aikithoughts: No longer here.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594122439943929857"
-          ],
-          "editableUntil" : "2022-11-20T00:46:21.702Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Angular Community Meetup",
-            "screen_name" : "angular_meetup",
-            "indices" : [
-              "3",
-              "18"
-            ],
-            "id_str" : "1384570324734283776",
-            "id" : "1384570324734283776"
-          },
-          {
-            "name" : "Angular",
-            "screen_name" : "angular",
-            "indices" : [
-              "20",
-              "28"
-            ],
-            "id_str" : "202230373",
-            "id" : "202230373"
-          },
-          {
-            "name" : "Jeremy Elbourn",
-            "screen_name" : "jelbourn",
-            "indices" : [
-              "113",
-              "122"
-            ],
-            "id_str" : "66845001",
-            "id" : "66845001"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [
           {
-            "url" : "https://t.co/377vFwbdpV",
-            "expanded_url" : "http://bit.ly/3GtRZPE",
-            "display_url" : "bit.ly/3GtRZPE",
+            "url" : "https://t.co/MOvYZC3rbO",
+            "expanded_url" : "https://twitter.com/dylhunn/status/1599817478401843200",
+            "display_url" : "twitter.com/dylhunn/status…",
             "indices" : [
-              "78",
-              "101"
+              "2",
+              "25"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594122439943929857",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594122439943929857",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Nov 20 00:16:21 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @angular_meetup: @Angular v15 Launch Event 🎉 | Live with the Angular Team\n\nhttps://t.co/377vFwbdpV\n\nJeremy E. @jelbourn\nJessica J. @TheP…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594122378191273984"
-          ],
-          "editableUntil" : "2022-11-20T00:46:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "idea",
-            "indices" : [
-              "12",
-              "17"
-            ]
-          },
-          {
-            "text" : "PapersPlease",
-            "indices" : [
-              "24",
-              "37"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1594122376077197314",
-      "id_str" : "1594122378191273984",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594122378191273984",
-      "in_reply_to_status_id" : "1594122376077197314",
-      "created_at" : "Sun Nov 20 00:16:06 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Alternative #idea: Go a #PapersPlease direction and make the game impossible to win due to random events.\n\n* Video taken down for unspecified reasons.\n* Drama about partnership with abuser.\n* Platform suspends you and you have to diversify revenue.\n* GamerGate-y community split.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1594122376077197314"
-          ],
-          "editableUntil" : "2022-11-20T00:46:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "VideoGame",
-            "indices" : [
-              "0",
-              "10"
-            ]
-          },
-          {
-            "text" : "Idea",
-            "indices" : [
-              "11",
-              "16"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "252"
+        "25"
       ],
       "favorite_count" : "2",
-      "id_str" : "1594122376077197314",
+      "id_str" : "1599878958769934336",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1594122376077197314",
-      "created_at" : "Sun Nov 20 00:16:06 +0000 2022",
+      "id" : "1599878958769934336",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Dec 05 21:30:42 +0000 2022",
       "favorited" : false,
-      "full_text" : "#VideoGame #Idea A cookie clicker game as a social media influencer, where you're trying to amass followers, likes, subscriptions, revenue, etc.\n\nCookie clickers are literally all about \"make number go up\", exactly in line with social media engagement.",
-      "lang" : "en"
+      "full_text" : "🤩 https://t.co/MOvYZC3rbO",
+      "lang" : "art"
     }
   },
   {
@@ -1800,9 +2051,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1593856650003161089"
+            "1599878509367021568"
           ],
-          "editableUntil" : "2022-11-19T07:10:12.442Z",
+          "editableUntil" : "2022-12-05T21:58:55.595Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -1814,60 +2065,14 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
+            "name" : "Angular",
+            "screen_name" : "angular",
             "indices" : [
               "3",
-              "17"
+              "11"
             ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "53"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1593856650003161089",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1593856650003161089",
-      "created_at" : "Sat Nov 19 06:40:12 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @justinfagnani: If Trump is allowed back, I'm out.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1593823693917941761"
-          ],
-          "editableUntil" : "2022-11-19T04:59:15.099Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Mekka 💉x4 @mekkaokereke@hachyderm.io",
-            "screen_name" : "mekkaokereke",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "19847709",
-            "id" : "19847709"
+            "id_str" : "202230373",
+            "id" : "202230373"
           }
         ],
         "urls" : [ ]
@@ -1877,13 +2082,13 @@ module.exports = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1593823693917941761",
+      "id_str" : "1599878509367021568",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1593823693917941761",
-      "created_at" : "Sat Nov 19 04:29:15 +0000 2022",
+      "id" : "1599878509367021568",
+      "created_at" : "Mon Dec 05 21:28:55 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @mekkaokereke: 🤔The more vulnerable a Twitter employee, the more likely they are to have signed that letter and still be trapped in ther…",
+      "full_text" : "RT @angular: Router unwraps default imports\n\nTo make the router simpler and reduce boilerplate further, the router now auto-unwraps default…",
       "lang" : "en"
     }
   },
@@ -1892,9 +2097,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1593712578043125760"
+            "1575369062208528384"
           ],
-          "editableUntil" : "2022-11-18T21:37:43.000Z",
+          "editableUntil" : "2022-09-29T06:47:08.029Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -1904,27 +2109,33 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Charlie Warzel",
+            "screen_name" : "cwarzel",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "20178419",
+            "id" : "20178419"
+          }
+        ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "34"
+        "140"
       ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1593694501989539840",
-      "id_str" : "1593712578043125760",
-      "in_reply_to_user_id" : "1189618278848532480",
+      "favorite_count" : "0",
+      "id_str" : "1575369062208528384",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1593712578043125760",
-      "in_reply_to_status_id" : "1593694501989539840",
-      "created_at" : "Fri Nov 18 21:07:43 +0000 2022",
+      "id" : "1575369062208528384",
+      "created_at" : "Thu Sep 29 06:17:08 +0000 2022",
       "favorited" : false,
-      "full_text" : "My coworker Nate had a great time!",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
+      "full_text" : "RT @cwarzel: I wrote about the batshit Texas law that mandates that big social media platforms no longer have First Amendment rights regard…",
+      "lang" : "en"
     }
   },
   {
@@ -1932,9 +2143,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1593696836006555650"
+            "1575248216706064384"
           ],
-          "editableUntil" : "2022-11-18T20:35:09.816Z",
+          "editableUntil" : "2022-09-28T22:46:56.216Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -1963,13 +2174,13 @@ module.exports = [
         "139"
       ],
       "favorite_count" : "0",
-      "id_str" : "1593696836006555650",
+      "id_str" : "1575248216706064384",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1593696836006555650",
-      "created_at" : "Fri Nov 18 20:05:09 +0000 2022",
+      "id" : "1575248216706064384",
+      "created_at" : "Wed Sep 28 22:16:56 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @angular: The Angular v15 launch event is starting right now! Join us for the latest news, product updates and live Q/A.\n\nThis is going…",
+      "full_text" : "RT @angular: Experimental ESM Application Builds 👀\n\nWe're introducing an experimental esbuild-based support with pure ESM output.\n\nTry `ng…",
       "lang" : "en"
     }
   },
@@ -1978,63 +2189,9 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1593694501989539840"
+            "1575090219157577728"
           ],
-          "editableUntil" : "2022-11-18T20:25:53.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Angular",
-            "indices" : [
-              "0",
-              "8"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/6BtZz1I6Rw",
-            "expanded_url" : "https://www.youtube.com/watch?v=j2_NnV7nU6s",
-            "display_url" : "youtube.com/watch?v=j2_NnV…",
-            "indices" : [
-              "121",
-              "144"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "144"
-      ],
-      "favorite_count" : "4",
-      "id_str" : "1593694501989539840",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1593694501989539840",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Nov 18 19:55:53 +0000 2022",
-      "favorited" : false,
-      "full_text" : "#Angular v15 launch event going on in *five* minutes! I'll be there with the rest of the team to answer your questions.\n\nhttps://t.co/6BtZz1I6Rw",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1593490809290051585"
-          ],
-          "editableUntil" : "2022-11-18T06:56:29.219Z",
+          "editableUntil" : "2022-09-28T12:19:06.665Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2046,42 +2203,2260 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Scott Hanselman",
-            "screen_name" : "shanselman",
+            "name" : "Angular",
+            "screen_name" : "angular",
             "indices" : [
               "3",
-              "14"
+              "11"
             ],
-            "id_str" : "5676102",
-            "id" : "5676102"
+            "id_str" : "202230373",
+            "id" : "202230373"
           }
         ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1575090219157577728",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1575090219157577728",
+      "created_at" : "Wed Sep 28 11:49:06 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular: The Angular tooling team is looking to simplify the output of `ng generate component`, and would like your feedback!\n\n`ng gene…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1574524461423788032"
+          ],
+          "editableUntil" : "2022-09-26T22:50:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
         "urls" : [
           {
-            "url" : "https://t.co/uY9DduEzHT",
-            "expanded_url" : "https://www.hanselman.com/blog/your-words-are-wasted",
-            "display_url" : "hanselman.com/blog/your-word…",
+            "url" : "https://t.co/3mOY7alcYr",
+            "expanded_url" : "https://twitter.com/dgrammatiko/status/1574385485970956288",
+            "display_url" : "twitter.com/dgrammatiko/st…",
             "indices" : [
-              "31",
-              "54"
+              "5",
+              "28"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "54"
+        "28"
       ],
       "favorite_count" : "0",
-      "id_str" : "1593490809290051585",
+      "id_str" : "1574524461423788032",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1593490809290051585",
+      "id" : "1574524461423788032",
       "possibly_sensitive" : false,
-      "created_at" : "Fri Nov 18 06:26:29 +0000 2022",
+      "created_at" : "Mon Sep 26 22:20:59 +0000 2022",
       "favorited" : false,
-      "full_text" : "RT @shanselman: Own your words https://t.co/uY9DduEzHT",
+      "full_text" : "😁🥰😍🤩 https://t.co/3mOY7alcYr",
+      "lang" : "art"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573731749170884608"
+          ],
+          "editableUntil" : "2022-09-24T18:21:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "210"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1573731747354710016",
+      "id_str" : "1573731749170884608",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573731749170884608",
+      "in_reply_to_status_id" : "1573731747354710016",
+      "created_at" : "Sat Sep 24 17:51:02 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Ironically I probably couldn't have used native DSD support for `createHTMLDocument` anyways because shadow roots can't be cloned across documents, and that's a major challenge I had to overcome in the process.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573731747354710016"
+          ],
+          "editableUntil" : "2022-09-24T18:21:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/WNCkmQf1VD",
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1573688712059359232?s=20&t=SsRXtK8wPpdDjvawy1RrNQ",
+            "display_url" : "twitter.com/develwoutacaus…",
+            "indices" : [
+              "163",
+              "186"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "186"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1568762916719177729",
+      "id_str" : "1573731747354710016",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573731747354710016",
+      "in_reply_to_status_id" : "1568762916719177729",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 24 17:51:01 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Finally got something working though I needed quite a few hacks to make declarative shadow DOM work. I wrote down some details and learnings from the experience.\n\nhttps://t.co/WNCkmQf1VD",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573728582869794816"
+          ],
+          "editableUntil" : "2022-09-24T18:08:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/WNCkmQf1VD",
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1573688712059359232?s=20&t=SsRXtK8wPpdDjvawy1RrNQ",
+            "display_url" : "twitter.com/develwoutacaus…",
+            "indices" : [
+              "197",
+              "220"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "220"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571047001172889601",
+      "id_str" : "1573728582869794816",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573728582869794816",
+      "in_reply_to_status_id" : "1571047001172889601",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 24 17:38:27 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I did a more thorough investigation into this behavior and wrote a post going into detail on it. Turns out there are at least *three* independent behaviors coming together in this unexpected way.\n\nhttps://t.co/WNCkmQf1VD",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573727698311970817"
+          ],
+          "editableUntil" : "2022-09-24T18:04:56.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/WNCkmQf1VD",
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1573688712059359232?s=20&t=SsRXtK8wPpdDjvawy1RrNQ",
+            "display_url" : "twitter.com/develwoutacaus…",
+            "indices" : [
+              "117",
+              "140"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1573496290230431744",
+      "id_str" : "1573727698311970817",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573727698311970817",
+      "in_reply_to_status_id" : "1573496290230431744",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 24 17:34:56 +0000 2022",
+      "favorited" : false,
+      "full_text" : "If you're curious to learn *how* this snippet is so cursed, take a look at this post which goes into detail on it.👇\n\nhttps://t.co/WNCkmQf1VD",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573725099806535680"
+          ],
+          "editableUntil" : "2022-09-24T17:54:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jared White 👋 @jaredwhite@indieweb.social",
+            "screen_name" : "jaredcwhite",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "18657020",
+            "id" : "18657020"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1573698149105160194",
+      "id_str" : "1573725099806535680",
+      "in_reply_to_user_id" : "18657020",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573725099806535680",
+      "in_reply_to_status_id" : "1573698149105160194",
+      "created_at" : "Sat Sep 24 17:24:36 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@jaredcwhite 😅 Sorry, I'm very long-winded.\n\nYep, that seems like the exact same issue. An event when shadow DOM is attached seems like a major gap in the spec today.\n\nMy workaround was to delay the upgrade until the element was fully parsed so devs don't have to think about it.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "jaredcwhite",
+      "in_reply_to_user_id_str" : "18657020"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573688712059359232"
+          ],
+          "editableUntil" : "2022-09-24T15:30:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/WN5k4ZDUkf",
+            "expanded_url" : "https://blog.dwac.dev/posts/streamable-html-fragments/",
+            "display_url" : "blog.dwac.dev/posts/streamab…",
+            "indices" : [
+              "257",
+              "280"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "37",
+      "id_str" : "1573688712059359232",
+      "truncated" : false,
+      "retweet_count" : "8",
+      "id" : "1573688712059359232",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 24 15:00:01 +0000 2022",
+      "favorited" : false,
+      "full_text" : "New blog post! \"Streamable HTML Fragments\" discusses how we can update the HTML fragments architecture to support streaming live data directly into the DOM.\n\nInterested in weird bugs and understanding perplexing web standards? Lots of \"fun\" along the way!\n\nhttps://t.co/WN5k4ZDUkf",
       "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573496290230431744"
+          ],
+          "editableUntil" : "2022-09-24T02:45:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/LXP9PzuLdw",
+            "expanded_url" : "https://stackblitz.com/edit/typescript-2k5dgd?file=index.ts",
+            "display_url" : "stackblitz.com/edit/typescrip…",
+            "indices" : [
+              "60",
+              "83"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1573496290230431744/photo/1",
+            "indices" : [
+              "84",
+              "107"
+            ],
+            "url" : "https://t.co/BYIsYt8Vgz",
+            "media_url" : "http://pbs.twimg.com/media/FdYuZbrVUAAKZGX.jpg",
+            "id_str" : "1573496134273683456",
+            "id" : "1573496134273683456",
+            "media_url_https" : "https://pbs.twimg.com/media/FdYuZbrVUAAKZGX.jpg",
+            "sizes" : {
+              "medium" : {
+                "w" : "1200",
+                "h" : "675",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "382",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1268",
+                "h" : "713",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/BYIsYt8Vgz"
+          }
+        ],
+        "hashtags" : [
+          {
+            "text" : "JavaScript",
+            "indices" : [
+              "22",
+              "33"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "107"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1573496290230431744",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573496290230431744",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 24 02:15:24 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Cursed code snippets: #JavaScript custom elements edition.\n\nhttps://t.co/LXP9PzuLdw https://t.co/BYIsYt8Vgz",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1573496290230431744/photo/1",
+            "indices" : [
+              "84",
+              "107"
+            ],
+            "url" : "https://t.co/BYIsYt8Vgz",
+            "media_url" : "http://pbs.twimg.com/media/FdYuZbrVUAAKZGX.jpg",
+            "id_str" : "1573496134273683456",
+            "id" : "1573496134273683456",
+            "media_url_https" : "https://pbs.twimg.com/media/FdYuZbrVUAAKZGX.jpg",
+            "sizes" : {
+              "medium" : {
+                "w" : "1200",
+                "h" : "675",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "382",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1268",
+                "h" : "713",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/BYIsYt8Vgz"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573339471286005760"
+          ],
+          "editableUntil" : "2022-09-23T16:22:15.845Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "David Buchanan",
+            "screen_name" : "David3141593",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "2242426383",
+            "id" : "2242426383"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1573339471286005760",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573339471286005760",
+      "created_at" : "Fri Sep 23 15:52:15 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @David3141593: The image in this tweet displays its own MD5 hash.\n\nYou can download and hash it yourself, and it should still match - 13…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573214792344653826"
+          ],
+          "editableUntil" : "2022-09-23T08:06:50.069Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Open Web Advocacy",
+            "screen_name" : "OpenWebAdvocacy",
+            "indices" : [
+              "3",
+              "19"
+            ],
+            "id_str" : "1443933752757915650",
+            "id" : "1443933752757915650"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1573214792344653826",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573214792344653826",
+      "created_at" : "Fri Sep 23 07:36:50 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @OpenWebAdvocacy: Mozilla has just released a truly excellent paper on browser competition labelled “Five Walled Gardens” containing key…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573213625946615808"
+          ],
+          "editableUntil" : "2022-09-23T08:02:11.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "ChromeWebStore",
+            "indices" : [
+              "23",
+              "38"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "0",
+              "6"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "7",
+              "14"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "187"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1573065043775987712",
+      "id_str" : "1573213625946615808",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573213625946615808",
+      "in_reply_to_status_id" : "1573065043775987712",
+      "created_at" : "Fri Sep 23 07:32:11 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@Apple @Google Update: #ChromeWebStore reinstated the app and \"apologize[s] for the inconvenience\" without any explanation.\n\nI still have no idea why it was taken down in the first place?",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573123953803071488"
+          ],
+          "editableUntil" : "2022-09-23T02:05:52.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Dinesh Pandiyan",
+            "screen_name" : "flexdinesh",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "115411943",
+            "id" : "115411943"
+          },
+          {
+            "name" : "Cory LaViska",
+            "screen_name" : "claviska",
+            "indices" : [
+              "12",
+              "21"
+            ],
+            "id_str" : "10238842",
+            "id" : "10238842"
+          },
+          {
+            "name" : "David Walsh",
+            "screen_name" : "davidwalshblog",
+            "indices" : [
+              "22",
+              "37"
+            ],
+            "id_str" : "15759583",
+            "id" : "15759583"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "249"
+      ],
+      "favorite_count" : "4",
+      "in_reply_to_status_id_str" : "1573076105229213696",
+      "id_str" : "1573123953803071488",
+      "in_reply_to_user_id" : "115411943",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1573123953803071488",
+      "in_reply_to_status_id" : "1573076105229213696",
+      "created_at" : "Fri Sep 23 01:35:52 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@flexdinesh @claviska @davidwalshblog I like this a lot because the semantics let web scrapers index the text, while telling them not to surface it to users.\n\nFor example, it could prevent spoilers in search results without hurting website rankings.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "flexdinesh",
+      "in_reply_to_user_id_str" : "115411943"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573122130761453569"
+          ],
+          "editableUntil" : "2022-09-23T01:58:37.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jared White 👋 @jaredwhite@indieweb.social",
+            "screen_name" : "jaredcwhite",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "18657020",
+            "id" : "18657020"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/oxNidfDuAy",
+            "expanded_url" : "https://blog.dwac.dev/posts/html-fragments/",
+            "display_url" : "blog.dwac.dev/posts/html-fra…",
+            "indices" : [
+              "264",
+              "287"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "287"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1572986270061854720",
+      "id_str" : "1573122130761453569",
+      "in_reply_to_user_id" : "18657020",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573122130761453569",
+      "in_reply_to_status_id" : "1572986270061854720",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Sep 23 01:28:37 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@jaredcwhite I've been exploring very similar use cases and wrote a blog post about it.\n\nI've got another in the works which tries to stream the whole thing. Different implementation but very similar ideas.\n\nI'll have to try integrating your plugin into my demo!\n\nhttps://t.co/oxNidfDuAy",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "jaredcwhite",
+      "in_reply_to_user_id_str" : "18657020"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573094307900563456"
+          ],
+          "editableUntil" : "2022-09-23T00:08:04.339Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "GoogleOSLive",
+            "indices" : [
+              "68",
+              "81"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Google Open Source",
+            "screen_name" : "GoogleOSS",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "847190167542652928",
+            "id" : "847190167542652928"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1573094307900563456",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573094307900563456",
+      "created_at" : "Thu Sep 22 23:38:04 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @GoogleOSS: Let's take a look at the sessions for Angular Day at #GoogleOSLive 👇\n\n⭐ State of Angular\n⭐ Building Accessible Angular Apps…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573093321651748864"
+          ],
+          "editableUntil" : "2022-09-23T00:04:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "209"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1573092782570606593",
+      "id_str" : "1573093321651748864",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573093321651748864",
+      "in_reply_to_status_id" : "1573092782570606593",
+      "created_at" : "Thu Sep 22 23:34:09 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Example: \"Imelda started working on a cool feature, but I wanted to quickly clarify something with legal. Now I've bureaucracied her with 5 hours of meetings and an additional 3 approvals blocking her launch.\"",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573092782570606593"
+          ],
+          "editableUntil" : "2022-09-23T00:02:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "191"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1573091036054028289",
+      "id_str" : "1573092782570606593",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573092782570606593",
+      "in_reply_to_status_id" : "1573091036054028289",
+      "created_at" : "Thu Sep 22 23:32:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "To bureaucracy, verb:\n\nTo identify a coworker attempting to do productive work and directly impede them by escalating the issue and making it a much bigger deal than they originally expected.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573091036054028289"
+          ],
+          "editableUntil" : "2022-09-22T23:55:04.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "43"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1573091036054028289",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573091036054028289",
+      "created_at" : "Thu Sep 22 23:25:04 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I successfully bureaucracied someone today.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573065043775987712"
+          ],
+          "editableUntil" : "2022-09-22T22:11:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "55",
+              "61"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "70",
+              "77"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "176"
+      ],
+      "favorite_count" : "5",
+      "in_reply_to_status_id_str" : "1573065042177712130",
+      "id_str" : "1573065043775987712",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573065043775987712",
+      "in_reply_to_status_id" : "1573065042177712130",
+      "created_at" : "Thu Sep 22 21:41:47 +0000 2022",
+      "favorited" : false,
+      "full_text" : "This is why I hate app stores, and as much as I rag on @Apple for it, @Google has many of the same problems. It's truly incredible how developer unfriendly these platforms are.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1573065042177712130"
+          ],
+          "editableUntil" : "2022-09-22T22:11:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "ChromeWebStore",
+            "indices" : [
+              "68",
+              "83"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "150"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1573065042177712130",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1573065042177712130",
+      "created_at" : "Thu Sep 22 21:41:46 +0000 2022",
+      "favorited" : false,
+      "full_text" : "You know it's gonna be a good day when you wake up to an email that #ChromeWebStore took down you Chrome extension for completely unspecified reasons.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1572964997806059521"
+          ],
+          "editableUntil" : "2022-09-22T15:34:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mike Brocchi",
+            "screen_name" : "Brocco",
+            "indices" : [
+              "0",
+              "7"
+            ],
+            "id_str" : "2779381",
+            "id" : "2779381"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "121"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1572901494852292608",
+      "id_str" : "1572964997806059521",
+      "in_reply_to_user_id" : "2779381",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1572964997806059521",
+      "in_reply_to_status_id" : "1572901494852292608",
+      "created_at" : "Thu Sep 22 15:04:14 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@Brocco It was \"Wanted Dead or Alive\" by Bon Jovi, which is at least one of my less objectively terrible tastes in music.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "Brocco",
+      "in_reply_to_user_id_str" : "2779381"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1572728043143307266"
+          ],
+          "editableUntil" : "2022-09-21T23:52:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Linux",
+            "indices" : [
+              "82",
+              "88"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "2",
+      "in_reply_to_status_id_str" : "1572728041461395456",
+      "id_str" : "1572728043143307266",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1572728043143307266",
+      "in_reply_to_status_id" : "1572728041461395456",
+      "created_at" : "Wed Sep 21 23:22:40 +0000 2022",
+      "favorited" : false,
+      "full_text" : "To make matters worse, I can't adjust the volume or audio from the lock screen on #Linux, so I had to painfully type my way-too-long password in and use the touchpad to find the audio widget and lower the volume.\n\nSo if you need me I'll be hiding in a phone room crying. 😖",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1572728041461395456"
+          ],
+          "editableUntil" : "2022-09-21T23:52:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "211"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1572728041461395456",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1572728041461395456",
+      "created_at" : "Wed Sep 21 23:22:39 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I was listening to music at my desk with headphones but had to run to a meeting. So I turned them off only for my laptop to auto-switch to speakers AND BLAST MY MUSIC AT FULL VOLUME FOR THE WHOLE OFFICE TO HEAR.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1572661435410558977"
+          ],
+          "editableUntil" : "2022-09-21T19:27:59.495Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "BazelCon",
+            "indices" : [
+              "31",
+              "40"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "bazelbuild",
+            "screen_name" : "bazelbuild",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "3110601453",
+            "id" : "3110601453"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1572661435410558977",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1572661435410558977",
+      "created_at" : "Wed Sep 21 18:57:59 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @bazelbuild: Save the date, #BazelCon 2022 is coming!\n\n📅 When: November 16-17\n📍 Where: Pier 57 in New York AND virtual\n🤔 What to expect:…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1572328963309187072"
+          ],
+          "editableUntil" : "2022-09-20T21:26:51.969Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Marco Rogers",
+            "screen_name" : "polotek",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "20079975",
+            "id" : "20079975"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1572328963309187072",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1572328963309187072",
+      "created_at" : "Tue Sep 20 20:56:51 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @polotek: Hey y'all. I want to ask for your help today. Last week, my former company Mode laid off a bunch of people, including me. I wa…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1572039131445985281"
+          ],
+          "editableUntil" : "2022-09-20T02:15:10.668Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Adri tropicadri@hachyderm.io",
+            "screen_name" : "tropicadri",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "16023550",
+            "id" : "16023550"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "138"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1572039131445985281",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1572039131445985281",
+      "created_at" : "Tue Sep 20 01:45:10 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @tropicadri: 15 days to the summit!!!!!! *excited* Register today! attend the block that works best for you! See you then Oct 5/6 2022!",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571940179728035842"
+          ],
+          "editableUntil" : "2022-09-19T19:41:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "199"
+      ],
+      "favorite_count" : "4",
+      "id_str" : "1571940179728035842",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571940179728035842",
+      "created_at" : "Mon Sep 19 19:11:58 +0000 2022",
+      "favorited" : false,
+      "full_text" : "My new favorite emoji pairing: 😂😭\n\nIn only two characters it follows an individual's grief as they laugh in the face of absurdity only to descend into depression and defeat in the face their reality.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571898956304773121"
+          ],
+          "editableUntil" : "2022-09-19T16:58:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/xR1cCskvJC",
+            "expanded_url" : "https://twitter.com/jengolbeck/status/1571870127284719616",
+            "display_url" : "twitter.com/jengolbeck/sta…",
+            "indices" : [
+              "59",
+              "82"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "82"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1571898956304773121",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571898956304773121",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Sep 19 16:28:10 +0000 2022",
+      "favorited" : false,
+      "full_text" : "It shouldn't be this hard to stay private on the internet. https://t.co/xR1cCskvJC",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571897940238831618"
+          ],
+          "editableUntil" : "2022-09-19T16:54:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Indiequest",
+            "screen_name" : "Indiequest1",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "1138844391399968768",
+            "id" : "1138844391399968768"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "219"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1571764733321138176",
+      "id_str" : "1571897940238831618",
+      "in_reply_to_user_id" : "1138844391399968768",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571897940238831618",
+      "in_reply_to_status_id" : "1571764733321138176",
+      "created_at" : "Mon Sep 19 16:24:08 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@Indiequest1 I'm not that plugged in, but my rough understanding is that their focused on the performance benefit of bundling resources, which I'm personally less interested in. I'd rather explore new use cases instead.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "Indiequest1",
+      "in_reply_to_user_id_str" : "1138844391399968768"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571759598910214144"
+          ],
+          "editableUntil" : "2022-09-19T07:44:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Idea",
+            "indices" : [
+              "0",
+              "5"
+            ]
+          },
+          {
+            "text" : "WebBundles",
+            "indices" : [
+              "7",
+              "18"
+            ]
+          },
+          {
+            "text" : "ServiceWorker",
+            "indices" : [
+              "21",
+              "35"
+            ]
+          },
+          {
+            "text" : "serverless",
+            "indices" : [
+              "194",
+              "205"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "225"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1571759598910214144",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1571759598910214144",
+      "created_at" : "Mon Sep 19 07:14:24 +0000 2022",
+      "favorited" : false,
+      "full_text" : "#Idea: #WebBundles + #ServiceWorker = A fully standalone web application which ships its own server directly in the client.\n\nShip it via an app store and preinstall the SW, then you have a true #serverless web app experience.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571267483243540482"
+          ],
+          "editableUntil" : "2022-09-17T23:08:55.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Westbrook",
+            "screen_name" : "WestbrookJ",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "16910874",
+            "id" : "16910874"
+          },
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "12",
+              "26"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "195"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571262019755540480",
+      "id_str" : "1571267483243540482",
+      "in_reply_to_user_id" : "16910874",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571267483243540482",
+      "in_reply_to_status_id" : "1571262019755540480",
+      "created_at" : "Sat Sep 17 22:38:55 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@WestbrookJ @justinfagnani Yeah, I had the same thought. Though my understanding is that enabling that flag would be the best practice, so I don't really see disabling it as a long term solution.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "WestbrookJ",
+      "in_reply_to_user_id_str" : "16910874"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571255370382995456"
+          ],
+          "editableUntil" : "2022-09-17T22:20:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          },
+          {
+            "name" : "Westbrook",
+            "screen_name" : "WestbrookJ",
+            "indices" : [
+              "15",
+              "26"
+            ],
+            "id_str" : "16910874",
+            "id" : "16910874"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "289"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571254084937850881",
+      "id_str" : "1571255370382995456",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571255370382995456",
+      "in_reply_to_status_id" : "1571254084937850881",
+      "created_at" : "Sat Sep 17 21:50:47 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@justinfagnani @WestbrookJ This all seems incredibly nuanced and I'm struggling with what the best practice would be for this.\n1. Use a CE library which restores props for you?\n2. Always assign props after upgrading?\n3. Don't use `target: 'ESNext / ES2022'`?\n\nAll these options kinda suck.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571254084937850881"
+          ],
+          "editableUntil" : "2022-09-17T22:15:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          },
+          {
+            "name" : "Westbrook",
+            "screen_name" : "WestbrookJ",
+            "indices" : [
+              "15",
+              "26"
+            ],
+            "id_str" : "16910874",
+            "id" : "16910874"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "242"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571253692959191040",
+      "id_str" : "1571254084937850881",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571254084937850881",
+      "in_reply_to_status_id" : "1571253692959191040",
+      "created_at" : "Sat Sep 17 21:45:40 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@justinfagnani @WestbrookJ I tried reproducing outside of CE, but I can't manually invoke the constructor of a class.\n\n&gt; class Foo { prop; }\n&gt; Foo.apply({ prop: 'test' });\nTypeError: Class constructor Foo cannot be invoked without 'new'",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571253692959191040"
+          ],
+          "editableUntil" : "2022-09-17T22:14:07.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          },
+          {
+            "name" : "Westbrook",
+            "screen_name" : "WestbrookJ",
+            "indices" : [
+              "15",
+              "26"
+            ],
+            "id_str" : "16910874",
+            "id" : "16910874"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571253265526050817",
+      "id_str" : "1571253692959191040",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571253692959191040",
+      "in_reply_to_status_id" : "1571253265526050817",
+      "created_at" : "Sat Sep 17 21:44:07 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@justinfagnani @WestbrookJ So does this imply that `class Foo { prop; }` is equivalent to:\n\n```\nclass Foo {\n  constructor() { this.prop = undefined; }\n}\n```\n\nI'm unclear on the reasoning for this behavior, though I get that most of the time it doesn't come up in practice.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571253265526050817"
+          ],
+          "editableUntil" : "2022-09-17T22:12:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          },
+          {
+            "name" : "Westbrook",
+            "screen_name" : "WestbrookJ",
+            "indices" : [
+              "15",
+              "26"
+            ],
+            "id_str" : "16910874",
+            "id" : "16910874"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/CwozPlXzWp",
+            "expanded_url" : "https://stackblitz.com/edit/typescript-gd8pn1?file=index.html,tsconfig.json",
+            "display_url" : "stackblitz.com/edit/typescrip…",
+            "indices" : [
+              "252",
+              "275"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "275"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571252782228967425",
+      "id_str" : "1571253265526050817",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1571253265526050817",
+      "in_reply_to_status_id" : "1571252782228967425",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 17 21:42:25 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@justinfagnani @WestbrookJ If I switch to `target: 'ES2020'` this property definition isn't generated and I can set values before upgrading the element.\n\nThis also might explain some weird behavior I saw from setting `public shadowRoot!: ShadowRoot;`\n\nhttps://t.co/CwozPlXzWp",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571252782228967425"
+          ],
+          "editableUntil" : "2022-09-17T22:10:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "TypeScript",
+            "indices" : [
+              "193",
+              "204"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          },
+          {
+            "name" : "Westbrook",
+            "screen_name" : "WestbrookJ",
+            "indices" : [
+              "15",
+              "26"
+            ],
+            "id_str" : "16910874",
+            "id" : "16910874"
+          },
+          {
+            "name" : "Westbrook",
+            "screen_name" : "WestbrookJ",
+            "indices" : [
+              "34",
+              "45"
+            ],
+            "id_str" : "16910874",
+            "id" : "16910874"
+          },
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "50",
+              "64"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "274"
+      ],
+      "favorite_count" : "3",
+      "in_reply_to_status_id_str" : "1571171264697610240",
+      "id_str" : "1571252782228967425",
+      "in_reply_to_user_id" : "102513397",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571252782228967425",
+      "in_reply_to_status_id" : "1571171264697610240",
+      "created_at" : "Sat Sep 17 21:40:30 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@justinfagnani @WestbrookJ Thanks @WestbrookJ and @justinfagnani! I was confused about your step 6) given that it's the non-defined property that's broken. However, it seems that I was running #TypeScript on ESNext, which generates field declarations.\n\nclass Foo {\n  prop;\n}",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "justinfagnani",
+      "in_reply_to_user_id_str" : "102513397"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571047001172889601"
+          ],
+          "editableUntil" : "2022-09-17T08:32:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "267"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571041644077780992",
+      "id_str" : "1571047001172889601",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571047001172889601",
+      "in_reply_to_status_id" : "1571041644077780992",
+      "created_at" : "Sat Sep 17 08:02:48 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Got a workaround for this by extracting `&lt;script /&gt;` tags and manually appending them to the DOM.\n\nLook forward to a blog post explaining all this nonsense and all the hacks to used to work around it.\n\nStill don't know *why* the properties get deleted though...",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571041644077780992"
+          ],
+          "editableUntil" : "2022-09-17T08:11:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "277"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571041423717433350",
+      "id_str" : "1571041644077780992",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571041644077780992",
+      "in_reply_to_status_id" : "1571041423717433350",
+      "created_at" : "Sat Sep 17 07:41:31 +0000 2022",
+      "favorited" : false,
+      "full_text" : "In my particular use case, I want to be able to insert and set properties on a custom element and let it upgrade asynchronously when it's definition loads. And that definition is a `&lt;script /&gt;` tag inside the element itself, so I can't use `customElements.whenDefined()`.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571041423717433350"
+          ],
+          "editableUntil" : "2022-09-17T08:10:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "212"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571040585796165632",
+      "id_str" : "1571041423717433350",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571041423717433350",
+      "in_reply_to_status_id" : "1571040585796165632",
+      "created_at" : "Sat Sep 17 07:40:38 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Also the obvious solution of \"upgrade the element before assigning properties\" actually doesn't work in a generalized case because you typically can't assume that the custom element definition has already loaded.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571040585796165632"
+          ],
+          "editableUntil" : "2022-09-17T08:07:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/XdvweAu3bt",
+            "expanded_url" : "https://stackblitz.com/edit/typescript-gd8pn1?file=index.html,index.ts",
+            "display_url" : "stackblitz.com/edit/typescrip…",
+            "indices" : [
+              "128",
+              "151"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "151"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571039569486966785",
+      "id_str" : "1571040585796165632",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571040585796165632",
+      "in_reply_to_status_id" : "1571039569486966785",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 17 07:37:18 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Corrected minimal reproduction. If anyone can explain the reasoning behind these two failures, I will be forever in your debt.\n\nhttps://t.co/XdvweAu3bt",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571039569486966785"
+          ],
+          "editableUntil" : "2022-09-17T08:03:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "276"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571039568396431362",
+      "id_str" : "1571039569486966785",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571039569486966785",
+      "in_reply_to_status_id" : "1571039568396431362",
+      "created_at" : "Sat Sep 17 07:33:16 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I still don't understand why? Why is it that upgrading an element deletes its non-defined properties?\n\nThis normally isn't an issue because an element is upgraded on creation (`document.createElement()`). But when creating in another document, this is delayed until insertion.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571039568396431362"
+          ],
+          "editableUntil" : "2022-09-17T08:03:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "259"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571034006606716957",
+      "id_str" : "1571039568396431362",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571039568396431362",
+      "in_reply_to_status_id" : "1571034006606716957",
+      "created_at" : "Sat Sep 17 07:33:16 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Yep, pretty sure this ordering is the issue, among other mistakes.\n\nApparently, you need to `document.adoptNode(el); customElements.upgrade(el);` *after* cloning from a `template`, because it uses a `DocumentFragment` which is considered a different document!",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1571034294587621376"
+          ],
+          "editableUntil" : "2022-09-17T07:42:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Elliott Marquez",
+            "screen_name" : "techytacos",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "3256261052",
+            "id" : "3256261052"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/RTr8VoJXQW",
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1571033644210462720?s=20&t=QlfKycBh9c997LX3Ro7Uyw",
+            "display_url" : "twitter.com/develwoutacaus…",
+            "indices" : [
+              "230",
+              "253"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "253"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1571031587856461824",
+      "id_str" : "1571034294587621376",
+      "in_reply_to_user_id" : "3256261052",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1571034294587621376",
+      "in_reply_to_status_id" : "1571031587856461824",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Sep 17 07:12:18 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@techytacos What is the goal of this snippet? Why does Lit need to save and restore the properties like this?\n\nI wonder if the difference is that I'm parsing my element in a different document, which changes the timing behavior.\n\nhttps://t.co/RTr8VoJXQW",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "techytacos",
+      "in_reply_to_user_id_str" : "3256261052"
     }
   },
   {
@@ -2439,7 +4814,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "techhub.social/@ajit 🐘",
+            "name" : "Ajit",
             "screen_name" : "ajitzero",
             "indices" : [
               "0",
@@ -2674,7 +5049,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "David Vite",
+            "name" : "David East",
             "screen_name" : "_davideast",
             "indices" : [
               "3",
@@ -4678,7 +7053,7 @@ module.exports = [
         "0",
         "218"
       ],
-      "favorite_count" : "12",
+      "favorite_count" : "11",
       "id_str" : "1569807619644325888",
       "truncated" : false,
       "retweet_count" : "3",
@@ -6020,16 +8395,6 @@ module.exports = [
             "id" : "16196163"
           },
           {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "8",
-              "23"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          },
-          {
             "name" : "Shai Reznik",
             "screen_name" : "shai_reznik",
             "indices" : [
@@ -6142,7 +8507,7 @@ module.exports = [
             "id" : "182206021"
           },
           {
-            "name" : "Brandon Roberts | @brandontroberts@mastodon.social",
+            "name" : "Brandon Roberts | youtube.com/@BrandonRobertsDev",
             "screen_name" : "brandontroberts",
             "indices" : [
               "15",
@@ -6435,16 +8800,6 @@ module.exports = [
             ],
             "id_str" : "4184075433",
             "id" : "4184075433"
-          },
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "67",
-              "82"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
           }
         ],
         "urls" : [ ]
@@ -6491,16 +8846,6 @@ module.exports = [
             "id" : "1641434394"
           },
           {
-            "name" : "Jeremy Elbourn",
-            "screen_name" : "jelbourn",
-            "indices" : [
-              "36",
-              "45"
-            ],
-            "id_str" : "66845001",
-            "id" : "66845001"
-          },
-          {
             "name" : "Mark \"Mayor\" Techson",
             "screen_name" : "marktechson",
             "indices" : [
@@ -6509,16 +8854,6 @@ module.exports = [
             ],
             "id_str" : "4184075433",
             "id" : "4184075433"
-          },
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "98",
-              "113"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
           },
           {
             "name" : "Frosty",
@@ -6722,26 +9057,6 @@ module.exports = [
             ],
             "id_str" : "813333008",
             "id" : "813333008"
-          },
-          {
-            "name" : "Jeremy Elbourn",
-            "screen_name" : "jelbourn",
-            "indices" : [
-              "78",
-              "87"
-            ],
-            "id_str" : "66845001",
-            "id" : "66845001"
-          },
-          {
-            "name" : "synalx",
-            "screen_name" : "synalx",
-            "indices" : [
-              "111",
-              "118"
-            ],
-            "id_str" : "16196163",
-            "id" : "16196163"
           }
         ],
         "urls" : [ ]
@@ -7914,16 +10229,6 @@ module.exports = [
             ],
             "id_str" : "202230373",
             "id" : "202230373"
-          },
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "97",
-              "112"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
           }
         ],
         "urls" : [ ]
@@ -8365,7 +10670,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "David Vite",
+            "name" : "David East",
             "screen_name" : "_davideast",
             "indices" : [
               "3",
@@ -8429,7 +10734,7 @@ module.exports = [
       "favorite_count" : "24",
       "id_str" : "1562632653966258180",
       "truncated" : false,
-      "retweet_count" : "5",
+      "retweet_count" : "4",
       "id" : "1562632653966258180",
       "possibly_sensitive" : false,
       "created_at" : "Thu Aug 25 02:47:11 +0000 2022",
@@ -10031,16 +12336,6 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Jeremy Elbourn",
-            "screen_name" : "jelbourn",
-            "indices" : [
-              "0",
-              "9"
-            ],
-            "id_str" : "66845001",
-            "id" : "66845001"
-          },
-          {
             "name" : "Game Maker's Toolkit",
             "screen_name" : "gamemakerstk",
             "indices" : [
@@ -10080,7 +12375,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@jelbourn Yep, big fan of @gamemakerstk already. I also found this the other day which was a very interesting dive into the narrative design of the game:\n\nhttps://t.co/w0qPqQVE9u",
       "lang" : "en",
-      "in_reply_to_screen_name" : "jelbourn",
       "in_reply_to_user_id_str" : "66845001"
     }
   },
@@ -10405,18 +12699,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -10435,7 +12718,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman You jest, but I've turned off most Twitter notifications for similar reasons. I think all I have on are replies and DMs.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -10734,28 +13016,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          },
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "16",
-              "31"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -10774,7 +13035,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman @ThePunderWoman over here tree shaking my tweets to keep the character count down for faster performance.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -11177,6 +13437,1093 @@ module.exports = [
       "lang" : "en",
       "in_reply_to_screen_name" : "develwoutacause",
       "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1599814580636901377"
+          ],
+          "editableUntil" : "2022-12-05T17:44:53.798Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Heather Adkins - Ꜻ - Spes consilium non est",
+            "screen_name" : "argvee",
+            "indices" : [
+              "3",
+              "10"
+            ],
+            "id_str" : "15363129",
+            "id" : "15363129"
+          },
+          {
+            "name" : "Elon Musk",
+            "screen_name" : "elonmusk",
+            "indices" : [
+              "46",
+              "55"
+            ],
+            "id_str" : "44196397",
+            "id" : "44196397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1599814580636901377",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1599814580636901377",
+      "created_at" : "Mon Dec 05 17:14:53 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @argvee: A few reflections on Twitter post @elonmusk. Infosec is crickets 🦗. $MyFollowers-=200 (dead spam or exodus?); I still rely on T…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1599521970017931264"
+          ],
+          "editableUntil" : "2022-12-04T22:22:09.990Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "steven t. piantadosi",
+            "screen_name" : "spiantado",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "913416603559235584",
+            "id" : "913416603559235584"
+          },
+          {
+            "name" : "OpenAI",
+            "screen_name" : "OpenAI",
+            "indices" : [
+              "59",
+              "66"
+            ],
+            "id_str" : "4398626122",
+            "id" : "4398626122"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1599521970017931264",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1599521970017931264",
+      "created_at" : "Sun Dec 04 21:52:09 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @spiantado: Yes, ChatGPT is amazing and impressive. No, @OpenAI has not come close to addressing the problem of bias. Filters appear to…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1599479802482028545"
+          ],
+          "editableUntil" : "2022-12-04T19:34:36.466Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Joel Riley",
+            "screen_name" : "j0000el",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "14167211",
+            "id" : "14167211"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "54"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1599479802482028545",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1599479802482028545",
+      "created_at" : "Sun Dec 04 19:04:36 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @j0000el: My journaling app is officially launched!",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1597815963176431616"
+          ],
+          "editableUntil" : "2022-11-30T05:23:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "TwitterArchive",
+            "indices" : [
+              "28",
+              "43"
+            ]
+          },
+          {
+            "text" : "Mastadon",
+            "indices" : [
+              "209",
+              "218"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "263"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1597815963176431616",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1597815963176431616",
+      "created_at" : "Wed Nov 30 04:53:06 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I was just going through my #TwitterArchive and found a load of DMs I just never got notified about. About half were spam, but the other half weren't.\n\nSo if you ever DM'd me and I just ignored you, sorry! 😅\n\n#Mastadon seems more stable with notifications so far.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1597794801717374976"
+          ],
+          "editableUntil" : "2022-11-30T03:59:00.978Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mike Giambalvo",
+            "screen_name" : "heathkit",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "16004734",
+            "id" : "16004734"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "42"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1597794801717374976",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1597794801717374976",
+      "created_at" : "Wed Nov 30 03:29:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @heathkit: @heathkit@mastodon.sdf.org 🖖",
+      "lang" : "sv"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1597442739213242368"
+          ],
+          "editableUntil" : "2022-11-29T04:40:02.736Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Minko Gechev",
+            "screen_name" : "mgechev",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "178817640",
+            "id" : "178817640"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/YfvJqpFQBD",
+            "expanded_url" : "https://survey.devographics.com/survey/state-of-js/2022",
+            "display_url" : "survey.devographics.com/survey/state-o…",
+            "indices" : [
+              "105",
+              "128"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "128"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1597442739213242368",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1597442739213242368",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Nov 29 04:10:02 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @mgechev: \"State of JavaScript\" went out last week!\n\nYou can share your experience with Angular here\n\nhttps://t.co/YfvJqpFQBD",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1597327381156331520"
+          ],
+          "editableUntil" : "2022-11-28T21:01:39.232Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "146"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1597327381156331520",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1597327381156331520",
+      "created_at" : "Mon Nov 28 20:31:39 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular: Add &lt;link&gt; preload tag for priority images during SSR\n\nTo make sure priority images are loaded as quickly as possible, @jaycoo…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1596177139220770816"
+          ],
+          "editableUntil" : "2022-11-25T16:51:00.184Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Diabetes",
+            "indices" : [
+              "110",
+              "119"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Scott Hanselman",
+            "screen_name" : "shanselman",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "5676102",
+            "id" : "5676102"
+          },
+          {
+            "name" : "Internet Archive",
+            "screen_name" : "internetarchive",
+            "indices" : [
+              "24",
+              "40"
+            ],
+            "id_str" : "18957805",
+            "id" : "18957805"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1596177139220770816",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1596177139220770816",
+      "created_at" : "Fri Nov 25 16:21:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @shanselman: Wow, so @internetarchive is launching Palm Pilot emulation soon and it turns out they have my #Diabetes app GlucoPilot up a…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1596176455473430541"
+          ],
+          "editableUntil" : "2022-11-25T16:48:17.166Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Evan Martin",
+            "screen_name" : "evmar",
+            "indices" : [
+              "3",
+              "9"
+            ],
+            "id_str" : "764476465",
+            "id" : "764476465"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/gosXIiYalw",
+            "expanded_url" : "https://mobile.twitter.com/natfriedman/status/1589051044369420288",
+            "display_url" : "mobile.twitter.com/natfriedman/st…",
+            "indices" : [
+              "43",
+              "66"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1596176455473430541",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1596176455473430541",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Nov 25 16:18:17 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @evmar: Disappointed to see people like https://t.co/gosXIiYalw argue for “hard work” in the context of long hours for tech work.\n\nIf yo…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1595916461650083842"
+          ],
+          "editableUntil" : "2022-11-24T23:35:09.808Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sarah Drasner",
+            "screen_name" : "sarah_edo",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "813333008",
+            "id" : "813333008"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1595916461650083842",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1595916461650083842",
+      "created_at" : "Thu Nov 24 23:05:09 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @sarah_edo: This is unnecessarily cruel, and will leave more cruelty in its wake as folks emulate this behavior.\n\nYou can make tough bus…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1595558026429300736"
+          ],
+          "editableUntil" : "2022-11-23T23:50:52.192Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mark \"Mayor\" Techson",
+            "screen_name" : "marktechson",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "4184075433",
+            "id" : "4184075433"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "76"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1595558026429300736",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1595558026429300736",
+      "created_at" : "Wed Nov 23 23:20:52 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @marktechson: But perhaps you have a new perspective 🙂\n\nMake your video 🤝",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1595470874865549323"
+          ],
+          "editableUntil" : "2022-11-23T18:04:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jake Archibald",
+            "screen_name" : "jaffathecake",
+            "indices" : [
+              "0",
+              "13"
+            ],
+            "id_str" : "15390783",
+            "id" : "15390783"
+          },
+          {
+            "name" : "Alex Russell",
+            "screen_name" : "slightlylate",
+            "indices" : [
+              "14",
+              "27"
+            ],
+            "id_str" : "229237555",
+            "id" : "229237555"
+          },
+          {
+            "name" : "Alexandre Dieulot",
+            "screen_name" : "Dieulot",
+            "indices" : [
+              "28",
+              "36"
+            ],
+            "id_str" : "382182042",
+            "id" : "382182042"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/WN5k4ZDUkf",
+            "expanded_url" : "https://blog.dwac.dev/posts/streamable-html-fragments/",
+            "display_url" : "blog.dwac.dev/posts/streamab…",
+            "indices" : [
+              "291",
+              "314"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "314"
+      ],
+      "favorite_count" : "3",
+      "in_reply_to_status_id_str" : "1595315956359860225",
+      "id_str" : "1595470874865549323",
+      "in_reply_to_user_id" : "15390783",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1595470874865549323",
+      "in_reply_to_status_id" : "1595315956359860225",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Nov 23 17:34:33 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@jaffathecake @slightlylate @Dieulot Not to distract to much, but I'll share this approach I experimented with a while back which streamed HTML fragments and looks very similar to your investigation, with a prototype.\n\nUltimately using `createHTMLDocument()` with some hacks for streaming.\n\nhttps://t.co/WN5k4ZDUkf",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "jaffathecake",
+      "in_reply_to_user_id_str" : "15390783"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594840423062962176"
+          ],
+          "editableUntil" : "2022-11-22T00:19:22.217Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Scott Hanselman",
+            "screen_name" : "shanselman",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "5676102",
+            "id" : "5676102"
+          },
+          {
+            "name" : "Nina Zakharenko - @nnja@mastodon.social",
+            "screen_name" : "nnja",
+            "indices" : [
+              "16",
+              "21"
+            ],
+            "id_str" : "17513031",
+            "id" : "17513031"
+          },
+          {
+            "name" : "Jay Miller",
+            "screen_name" : "kjaymiller",
+            "indices" : [
+              "22",
+              "33"
+            ],
+            "id_str" : "27907022",
+            "id" : "27907022"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594840423062962176",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594840423062962176",
+      "created_at" : "Mon Nov 21 23:49:22 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @shanselman: @nnja @kjaymiller I feel like Mastodon is doing a great job, as is Discord. I was getting the word out on my blog, podcast,…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594463488004526085"
+          ],
+          "editableUntil" : "2022-11-20T23:21:33.896Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "VoteWithYourTweet",
+            "indices" : [
+              "92",
+              "110"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Westbrook",
+            "screen_name" : "WestbrookJ",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "16910874",
+            "id" : "16910874"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594463488004526085",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594463488004526085",
+      "created_at" : "Sun Nov 20 22:51:33 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @WestbrookJ: I will not participate on Twitter while D*nald Tr*mp has an active account. #VoteWithYourTweet\n\nUse your voice. Join us on…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594463460443709441"
+          ],
+          "editableUntil" : "2022-11-20T23:21:27.325Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Changelog",
+            "screen_name" : "changelog",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "90286855",
+            "id" : "90286855"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/4IYo3PntaA",
+            "expanded_url" : "https://changelog.social/@changelog",
+            "display_url" : "changelog.social/@changelog",
+            "indices" : [
+              "43",
+              "66"
+            ]
+          },
+          {
+            "url" : "https://t.co/raoeVoCSZS",
+            "expanded_url" : "https://changelog.social/@jerod",
+            "display_url" : "changelog.social/@jerod",
+            "indices" : [
+              "69",
+              "92"
+            ]
+          },
+          {
+            "url" : "https://t.co/GPPyWze59u",
+            "expanded_url" : "https://changelog.social/@adam",
+            "display_url" : "changelog.social/@adam",
+            "indices" : [
+              "95",
+              "118"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594463460443709441",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594463460443709441",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Nov 20 22:51:27 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @changelog: 🐘 Find us on Mastodon! 👇\n\n📡 https://t.co/4IYo3PntaA\n🗣 https://t.co/raoeVoCSZS\n🗣 https://t.co/GPPyWze59u\n\n🎧 And all of our po…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594463257007632384"
+          ],
+          "editableUntil" : "2022-11-20T23:20:38.822Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "3",
+              "17"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "50"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594463257007632384",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594463257007632384",
+      "created_at" : "Sun Nov 20 22:50:38 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @justinfagnani: 🫡\n\n@justinfagnani@fosstodon.org",
+      "lang" : "und"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594463233380868103"
+          ],
+          "editableUntil" : "2022-11-20T23:20:33.189Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Emily Nakashima",
+            "screen_name" : "eanakashima",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "212114407",
+            "id" : "212114407"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "81"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594463233380868103",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594463233380868103",
+      "created_at" : "Sun Nov 20 22:50:33 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @eanakashima: This. I’ve learned so much from Twitter by quietly listening in.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594460728584552454"
+          ],
+          "editableUntil" : "2022-11-20T23:10:35.999Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mike Masnick",
+            "screen_name" : "mmasnick",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "1270191",
+            "id" : "1270191"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "136"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594460728584552454",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594460728584552454",
+      "created_at" : "Sun Nov 20 22:40:35 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @mmasnick: Elon repeatedly mocking Mastodon suggests that... he's seeing the magnitude of the shift of key people from here to there.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594460465757061121"
+          ],
+          "editableUntil" : "2022-11-20T23:09:33.336Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "@alexbodurri@mastodon.social",
+            "screen_name" : "alexbodurri",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "1370875017169358855",
+            "id" : "1370875017169358855"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594460465757061121",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594460465757061121",
+      "created_at" : "Sun Nov 20 22:39:33 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @alexbodurri: Like many I've decided that I'm not comfortable with the direction that Twitter has been going in the last few weeks.\n\nI'l…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594333906483953664"
+          ],
+          "editableUntil" : "2022-11-20T14:46:39.254Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Tom Coates",
+            "screen_name" : "tomcoates",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "12514",
+            "id" : "12514"
+          },
+          {
+            "name" : "Elon Musk",
+            "screen_name" : "elonmusk",
+            "indices" : [
+              "15",
+              "24"
+            ],
+            "id_str" : "44196397",
+            "id" : "44196397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "37"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594333906483953664",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594333906483953664",
+      "created_at" : "Sun Nov 20 14:16:39 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @tomcoates: @elonmusk So you lied.",
+      "lang" : "en"
     }
   },
   {
@@ -12053,7 +15400,7 @@ module.exports = [
             "id" : "381548435"
           },
           {
-            "name" : "Brandon Roberts | @brandontroberts@mastodon.social",
+            "name" : "Brandon Roberts | youtube.com/@BrandonRobertsDev",
             "screen_name" : "brandontroberts",
             "indices" : [
               "12",
@@ -12144,7 +15491,7 @@ module.exports = [
             "id" : "20079975"
           },
           {
-            "name" : "Brandon Roberts | @brandontroberts@mastodon.social",
+            "name" : "Brandon Roberts | youtube.com/@BrandonRobertsDev",
             "screen_name" : "brandontroberts",
             "indices" : [
               "9",
@@ -12215,7 +15562,7 @@ module.exports = [
             "id" : "20079975"
           },
           {
-            "name" : "Brandon Roberts | @brandontroberts@mastodon.social",
+            "name" : "Brandon Roberts | youtube.com/@BrandonRobertsDev",
             "screen_name" : "brandontroberts",
             "indices" : [
               "9",
@@ -12337,7 +15684,7 @@ module.exports = [
             "id" : "20079975"
           },
           {
-            "name" : "Brandon Roberts | @brandontroberts@mastodon.social",
+            "name" : "Brandon Roberts | youtube.com/@BrandonRobertsDev",
             "screen_name" : "brandontroberts",
             "indices" : [
               "9",
@@ -12408,7 +15755,7 @@ module.exports = [
             "id" : "20079975"
           },
           {
-            "name" : "Brandon Roberts | @brandontroberts@mastodon.social",
+            "name" : "Brandon Roberts | youtube.com/@BrandonRobertsDev",
             "screen_name" : "brandontroberts",
             "indices" : [
               "9",
@@ -12896,7 +16243,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "0",
@@ -13834,1191 +17181,6 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1593468584197431296"
-          ],
-          "editableUntil" : "2022-11-18T05:28:10.344Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "KBall",
-            "screen_name" : "kbal11",
-            "indices" : [
-              "3",
-              "10"
-            ],
-            "id_str" : "16795825",
-            "id" : "16795825"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "112"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1593468584197431296",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1593468584197431296",
-      "created_at" : "Fri Nov 18 04:58:10 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @kbal11: I guess probably last chance before Twitter goes down I set up on mastodon as kball@changelog.social",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1593468438483111936"
-          ],
-          "editableUntil" : "2022-11-18T05:27:35.603Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Alex Heath",
-            "screen_name" : "alexeheath",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "14752818",
-            "id" : "14752818"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1593468438483111936",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1593468438483111936",
-      "created_at" : "Fri Nov 18 04:57:35 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @alexeheath: Thread here is collecting resignation tweets from Twitter engineers, many of whom are senior / have been at the company for…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1593467765339303942"
-          ],
-          "editableUntil" : "2022-11-18T05:24:55.113Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Marco Rogers",
-            "screen_name" : "polotek",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "20079975",
-            "id" : "20079975"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1593467765339303942",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1593467765339303942",
-      "created_at" : "Fri Nov 18 04:54:55 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @polotek: I haven't figured out if I'm going to have a new home on the internet. I'll probably figure it out tomorrow. But part of the r…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1593467643238883328"
-          ],
-          "editableUntil" : "2022-11-18T05:24:26.002Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "3",
-              "17"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "81"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1593467643238883328",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1593467643238883328",
-      "created_at" : "Fri Nov 18 04:54:26 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @justinfagnani: Once again, @justinfagnani@fosstodon.org\n\nJoin us on Mastodon!",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1593449514626478081"
-          ],
-          "editableUntil" : "2022-11-18T04:12:23.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Er9FJrVHIK",
-            "expanded_url" : "https://blog.dwac.dev",
-            "display_url" : "blog.dwac.dev",
-            "indices" : [
-              "78",
-              "101"
-            ]
-          },
-          {
-            "url" : "https://t.co/Y51jGYTpZd",
-            "expanded_url" : "https://techhub.social/@develwithoutacause",
-            "display_url" : "techhub.social/@develwithouta…",
-            "indices" : [
-              "112",
-              "135"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1593449514626478081/photo/1",
-            "indices" : [
-              "272",
-              "295"
-            ],
-            "url" : "https://t.co/d9ZXq3Tfbu",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/Fh0R4rNUYAE2G6H.jpg",
-            "id_str" : "1593449508527955969",
-            "id" : "1593449508527955969",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/Fh0R4rNUYAE2G6H.jpg",
-            "sizes" : {
-              "medium" : {
-                "w" : "498",
-                "h" : "280",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "498",
-                "h" : "280",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "498",
-                "h" : "280",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/d9ZXq3Tfbu"
-          }
-        ],
-        "hashtags" : [
-          {
-            "text" : "Angular",
-            "indices" : [
-              "153",
-              "161"
-            ]
-          },
-          {
-            "text" : "Bazel",
-            "indices" : [
-              "163",
-              "169"
-            ]
-          },
-          {
-            "text" : "WebComponents",
-            "indices" : [
-              "175",
-              "189"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "295"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1593449514626478081",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1593449514626478081",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Nov 18 03:42:23 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Even if Twitter does survive, I don't think I want to be a part of it.\n\nBlog: https://t.co/Er9FJrVHIK\nMastodon: https://t.co/Y51jGYTpZd\n\nI'm also in the #Angular, #Bazel, and #WebComponents Slacks.\n\nAt this point I'm just here to ride the ship down. It's been a pleasure. https://t.co/d9ZXq3Tfbu",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1593449514626478081/photo/1",
-            "indices" : [
-              "272",
-              "295"
-            ],
-            "url" : "https://t.co/d9ZXq3Tfbu",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/Fh0R4rNUYAE2G6H.jpg",
-            "id_str" : "1593449508527955969",
-            "video_info" : {
-              "aspect_ratio" : [
-                "249",
-                "140"
-              ],
-              "variants" : [
-                {
-                  "bitrate" : "0",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/tweet_video/Fh0R4rNUYAE2G6H.mp4"
-                }
-              ]
-            },
-            "id" : "1593449508527955969",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/Fh0R4rNUYAE2G6H.jpg",
-            "sizes" : {
-              "medium" : {
-                "w" : "498",
-                "h" : "280",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "498",
-                "h" : "280",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "498",
-                "h" : "280",
-                "resize" : "fit"
-              }
-            },
-            "type" : "animated_gif",
-            "display_url" : "pic.twitter.com/d9ZXq3Tfbu"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1593421904622125056"
-          ],
-          "editableUntil" : "2022-11-18T02:22:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "3",
-      "id_str" : "1593421904622125056",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1593421904622125056",
-      "created_at" : "Fri Nov 18 01:52:41 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I just want to say: you matter.\n\nYou're a human being with dreams and feelings and you deserve the best.\n\nYou're not defined by where you work and you deserve leadership who cares about you and treats you with respect. Refuse abuse and mistreatment, and stand up for each other.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592999511152283649"
-          ],
-          "editableUntil" : "2022-11-16T22:24:14.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Angular",
-            "screen_name" : "angular",
-            "indices" : [
-              "0",
-              "8"
-            ],
-            "id_str" : "202230373",
-            "id" : "202230373"
-          },
-          {
-            "name" : "Chrome Developers",
-            "screen_name" : "ChromiumDev",
-            "indices" : [
-              "9",
-              "21"
-            ],
-            "id_str" : "113713261",
-            "id" : "113713261"
-          },
-          {
-            "name" : "Chrome DevTools",
-            "screen_name" : "ChromeDevTools",
-            "indices" : [
-              "22",
-              "37"
-            ],
-            "id_str" : "2862241270",
-            "id" : "2862241270"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "72"
-      ],
-      "favorite_count" : "2",
-      "in_reply_to_status_id_str" : "1592998543257632770",
-      "id_str" : "1592999511152283649",
-      "in_reply_to_user_id" : "202230373",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592999511152283649",
-      "in_reply_to_status_id" : "1592998543257632770",
-      "created_at" : "Wed Nov 16 21:54:14 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@angular @ChromiumDev @ChromeDevTools *Duel of the fates starts playing*",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "angular",
-      "in_reply_to_user_id_str" : "202230373"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592998867565678593"
-          ],
-          "editableUntil" : "2022-11-16T22:21:41.172Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Angular",
-            "screen_name" : "angular",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "202230373",
-            "id" : "202230373"
-          },
-          {
-            "name" : "Chrome Developers",
-            "screen_name" : "ChromiumDev",
-            "indices" : [
-              "125",
-              "137"
-            ],
-            "id_str" : "113713261",
-            "id" : "113713261"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1592998867565678593",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592998867565678593",
-      "created_at" : "Wed Nov 16 21:51:41 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @angular: Angular v15\n\n✅ Standalone components are stable!\n🌲 More tree-shakable standalone APIs\n🎆 `NgOptimizedImage` with @ChromiumDev\n🕸…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592998772711178241"
-          ],
-          "editableUntil" : "2022-11-16T22:21:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/SWFtnDFNVD",
-            "expanded_url" : "https://github.com/angular/angular/pull/48087#pullrequestreview-1183053924",
-            "display_url" : "github.com/angular/angula…",
-            "indices" : [
-              "191",
-              "214"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "214"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1592998772711178241",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592998772711178241",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Nov 16 21:51:18 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Huge shout out to ArcDev09 for so graciously approving the Angular v15 release! I'm glad we were able to live up to their high standards and deliver the quality release they demanded of us!\n\nhttps://t.co/SWFtnDFNVD",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592997242180620288"
-          ],
-          "editableUntil" : "2022-11-16T22:15:13.650Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "bazelcon",
-            "indices" : [
-              "72",
-              "81"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Alex 🦅 Eagle",
-            "screen_name" : "Jakeherringbone",
-            "indices" : [
-              "3",
-              "19"
-            ],
-            "id_str" : "8124762",
-            "id" : "8124762"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/0DbsYAf1iO",
-            "expanded_url" : "https://aspect.build",
-            "display_url" : "aspect.build",
-            "indices" : [
-              "36",
-              "59"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1592997242180620288",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592997242180620288",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Nov 16 21:45:13 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @Jakeherringbone: Just announced https://t.co/0DbsYAf1iO on-stage at #bazelcon.\n\nAspect CLI now GA! Make the bazel command fit within yo…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592996891511640065"
-          ],
-          "editableUntil" : "2022-11-16T22:13:50.044Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "Jenia \"JeB\" Barabanov",
-            "screen_name" : "jebbacca",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "965546076701954048",
-            "id" : "965546076701954048"
-          },
-          {
-            "name" : "Chrome DevTools",
-            "screen_name" : "ChromeDevTools",
-            "indices" : [
-              "58",
-              "73"
-            ],
-            "id_str" : "2862241270",
-            "id" : "2862241270"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/jebbacca/status/1592570231414984704/photo/1",
-            "source_status_id" : "1592570231414984704",
-            "indices" : [
-              "75",
-              "98"
-            ],
-            "url" : "https://t.co/fCnweqLcQ7",
-            "media_url" : "http://pbs.twimg.com/media/FhnxfiGWAAImBWO.jpg",
-            "id_str" : "1592569467283832834",
-            "source_user_id" : "965546076701954048",
-            "id" : "1592569467283832834",
-            "media_url_https" : "https://pbs.twimg.com/media/FhnxfiGWAAImBWO.jpg",
-            "source_user_id_str" : "965546076701954048",
-            "sizes" : {
-              "medium" : {
-                "w" : "1200",
-                "h" : "796",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1772",
-                "h" : "1176",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "451",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1592570231414984704",
-            "display_url" : "pic.twitter.com/fCnweqLcQ7"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "98"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1592996891511640065",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592996891511640065",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Nov 16 21:43:50 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @jebbacca: Test your page eligibility for bfcache with @ChromeDevTools: https://t.co/fCnweqLcQ7",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/jebbacca/status/1592570231414984704/photo/1",
-            "source_status_id" : "1592570231414984704",
-            "indices" : [
-              "75",
-              "98"
-            ],
-            "url" : "https://t.co/fCnweqLcQ7",
-            "media_url" : "http://pbs.twimg.com/media/FhnxfiGWAAImBWO.jpg",
-            "id_str" : "1592569467283832834",
-            "source_user_id" : "965546076701954048",
-            "id" : "1592569467283832834",
-            "media_url_https" : "https://pbs.twimg.com/media/FhnxfiGWAAImBWO.jpg",
-            "source_user_id_str" : "965546076701954048",
-            "sizes" : {
-              "medium" : {
-                "w" : "1200",
-                "h" : "796",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1772",
-                "h" : "1176",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "451",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1592570231414984704",
-            "display_url" : "pic.twitter.com/fCnweqLcQ7"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592370545076887552"
-          ],
-          "editableUntil" : "2022-11-15T04:44:57.417Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Madleina",
-            "screen_name" : "Madleina_S",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "1454199609253777414",
-            "id" : "1454199609253777414"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1592370545076887552",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592370545076887552",
-      "created_at" : "Tue Nov 15 04:14:57 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @Madleina_S: I am now also on Mastodon: @Madleina_S@hackyderm.io\n\nUntil I have more clarity on how the safety and security of Twitter is…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592280178876907520"
-          ],
-          "editableUntil" : "2022-11-14T22:45:52.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "130"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1592280176658116608",
-      "id_str" : "1592280178876907520",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592280178876907520",
-      "in_reply_to_status_id" : "1592280176658116608",
-      "created_at" : "Mon Nov 14 22:15:52 +0000 2022",
-      "favorited" : false,
-      "full_text" : "You have to do `Array.from(set.values())` to fully snapshot the state first, before you can safely iterate over it with mutations.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592280176658116608"
-          ],
-          "editableUntil" : "2022-11-14T22:45:51.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [ ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1592280176658116608/photo/1",
-            "indices" : [
-              "231",
-              "254"
-            ],
-            "url" : "https://t.co/pS9yufYrZ0",
-            "media_url" : "http://pbs.twimg.com/media/FhjqLAPVEAEMlCE.jpg",
-            "id_str" : "1592279943039225857",
-            "id" : "1592279943039225857",
-            "media_url_https" : "https://pbs.twimg.com/media/FhjqLAPVEAEMlCE.jpg",
-            "sizes" : {
-              "large" : {
-                "w" : "1720",
-                "h" : "1204",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1200",
-                "h" : "840",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "476",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/pS9yufYrZ0"
-          }
-        ],
-        "hashtags" : [
-          {
-            "text" : "WTF",
-            "indices" : [
-              "8",
-              "12"
-            ]
-          },
-          {
-            "text" : "JavaScript",
-            "indices" : [
-              "13",
-              "24"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "254"
-      ],
-      "favorite_count" : "4",
-      "id_str" : "1592280176658116608",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592280176658116608",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Nov 14 22:15:51 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Today's #WTF #JavaScript snippet. The following code loops infinitely.\n\nApparently the `Set` iterator dynamically updates with new data added to the `Set`. This applies *even* when you explicitly call `.values()` before iterating. https://t.co/pS9yufYrZ0",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1592280176658116608/photo/1",
-            "indices" : [
-              "231",
-              "254"
-            ],
-            "url" : "https://t.co/pS9yufYrZ0",
-            "media_url" : "http://pbs.twimg.com/media/FhjqLAPVEAEMlCE.jpg",
-            "id_str" : "1592279943039225857",
-            "id" : "1592279943039225857",
-            "media_url_https" : "https://pbs.twimg.com/media/FhjqLAPVEAEMlCE.jpg",
-            "sizes" : {
-              "large" : {
-                "w" : "1720",
-                "h" : "1204",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1200",
-                "h" : "840",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "476",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/pS9yufYrZ0"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592258831731789824"
-          ],
-          "editableUntil" : "2022-11-14T21:21:02.880Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Eleventy 🎈🐘 fosstodon.org/@eleventy",
-            "screen_name" : "eleven_ty",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "949639269433380864",
-            "id" : "949639269433380864"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "146"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1592258831731789824",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592258831731789824",
-      "created_at" : "Mon Nov 14 20:51:02 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @eleven_ty: Now shipping: &lt;is-land&gt; v3.0.0\n\nAdds support for Declarative Shadow DOM, `defer-hydration` attribute, performance improvemen…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592206888279900160"
-          ],
-          "editableUntil" : "2022-11-14T17:54:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "171"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1592206888279900160",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592206888279900160",
-      "created_at" : "Mon Nov 14 17:24:38 +0000 2022",
-      "favorited" : false,
-      "full_text" : "It's a real shame that humans have 10 fingers instead of 8.\n\nProgrammers could do everything in octal *and* artists could draw fewer fingers. It would have been a win-win!",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592179422446354432"
-          ],
-          "editableUntil" : "2022-11-14T16:05:30.231Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Sarah Drasner",
-            "screen_name" : "sarah_edo",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "813333008",
-            "id" : "813333008"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1592179422446354432",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592179422446354432",
-      "created_at" : "Mon Nov 14 15:35:30 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @sarah_edo: I’m not leaving for good, but the security and privacy issues are concerning me.\n\nI’ll be over on mastodon as sarah_edo@hach…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1592007861517053953"
-          ],
-          "editableUntil" : "2022-11-14T04:43:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "235"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1592007861517053953",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1592007861517053953",
-      "created_at" : "Mon Nov 14 04:13:46 +0000 2022",
-      "favorited" : false,
-      "full_text" : "My favorite part of setting up a new phone is turning off all the notifications which get enabled by default.\n\nIt truly is incredible the amount of bullshit features PMs can make up to justify throwing their logo in front of your face.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591635867894153219"
-          ],
-          "editableUntil" : "2022-11-13T04:05:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "58"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1591635866761691137",
-      "id_str" : "1591635867894153219",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591635867894153219",
-      "in_reply_to_status_id" : "1591635866761691137",
-      "created_at" : "Sun Nov 13 03:35:36 +0000 2022",
-      "favorited" : false,
-      "full_text" : "So really just a great onboarding experience all around. 🙃",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1546600608504745986"
           ],
           "editableUntil" : "2022-07-11T21:31:34.174Z",
@@ -15285,7 +17447,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "3",
@@ -15377,7 +17539,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "0",
@@ -15600,7 +17762,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "0",
@@ -15707,7 +17869,7 @@ module.exports = [
             "id" : "102513397"
           },
           {
-            "name" : "Michael Shilman",
+            "name" : "Michael Shilman @shilman@fosstodon.org",
             "screen_name" : "mshilman",
             "indices" : [
               "15",
@@ -15788,7 +17950,7 @@ module.exports = [
             "id" : "102513397"
           },
           {
-            "name" : "Michael Shilman",
+            "name" : "Michael Shilman @shilman@fosstodon.org",
             "screen_name" : "mshilman",
             "indices" : [
               "15",
@@ -15880,7 +18042,7 @@ module.exports = [
             "id" : "102513397"
           },
           {
-            "name" : "Michael Shilman",
+            "name" : "Michael Shilman @shilman@fosstodon.org",
             "screen_name" : "mshilman",
             "indices" : [
               "15",
@@ -16535,7 +18697,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Brandon Roberts | @brandontroberts@mastodon.social",
+            "name" : "Brandon Roberts | youtube.com/@BrandonRobertsDev",
             "screen_name" : "brandontroberts",
             "indices" : [
               "3",
@@ -19045,7 +21207,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "0",
@@ -21222,16 +23384,6 @@ module.exports = [
             "id" : "202230373"
           },
           {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "60",
-              "75"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          },
-          {
             "name" : "Minko Gechev",
             "screen_name" : "mgechev",
             "indices" : [
@@ -22883,7 +25035,7 @@ module.exports = [
             "id" : "1400601858"
           },
           {
-            "name" : "@jerod@changelog.social",
+            "name" : "Jerod Santo",
             "screen_name" : "jerodsanto",
             "indices" : [
               "11",
@@ -23363,7 +25515,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "0",
@@ -23424,7 +25576,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "0",
@@ -23486,7 +25638,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "0",
@@ -23747,7 +25899,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "@aboodman@hachyderm.io",
+            "name" : "Aaron Boodman",
             "screen_name" : "aboodman",
             "indices" : [
               "3",
@@ -24228,7 +26380,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Possibly Tim Sweeney",
+            "name" : "Tim Sweeney",
             "screen_name" : "TimSweeneyEpic",
             "indices" : [
               "3",
@@ -24380,6 +26532,1005 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1594333790201315328"
+          ],
+          "editableUntil" : "2022-11-20T14:46:11.530Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mastodon (@Mastodon@mastodon.social)",
+            "screen_name" : "joinmastodon",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "875882643614814208",
+            "id" : "875882643614814208"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594333790201315328",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594333790201315328",
+      "created_at" : "Sun Nov 20 14:16:11 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @joinmastodon: Mastodon has just passed over 2 million active monthly users, a new record! People are voting with their feet. The future…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594224619313061888"
+          ],
+          "editableUntil" : "2022-11-20T07:32:23.162Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Irish",
+            "screen_name" : "paul_irish",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "1671811",
+            "id" : "1671811"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "106"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594224619313061888",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594224619313061888",
+      "created_at" : "Sun Nov 20 07:02:23 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @paul_irish: Yeah, fuuuuck this.  \n\nYou can find me on mastodon. \n\nI'm not gonna hang out on Parler 2.0",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594202328105717760"
+          ],
+          "editableUntil" : "2022-11-20T06:03:48.524Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mike Masnick",
+            "screen_name" : "mmasnick",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "1270191",
+            "id" : "1270191"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594202328105717760",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594202328105717760",
+      "created_at" : "Sun Nov 20 05:33:48 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @mmasnick: I'm still here, but my Mastodon has reached such a critical mass that I will likely be using it as my main venue for thinking…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594201873866625025"
+          ],
+          "editableUntil" : "2022-11-20T06:02:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "southpaw",
+            "screen_name" : "nycsouthpaw",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "22429979",
+            "id" : "22429979"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "87"
+      ],
+      "favorite_count" : "5",
+      "in_reply_to_status_id_str" : "1594134008807698432",
+      "id_str" : "1594201873866625025",
+      "in_reply_to_user_id" : "22429979",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594201873866625025",
+      "in_reply_to_status_id" : "1594134008807698432",
+      "created_at" : "Sun Nov 20 05:32:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@nycsouthpaw The real content moderation council was the friends we made along the way.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "nycsouthpaw",
+      "in_reply_to_user_id_str" : "22429979"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594182360215552000"
+          ],
+          "editableUntil" : "2022-11-20T04:44:27.808Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "southpaw",
+            "screen_name" : "nycsouthpaw",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "22429979",
+            "id" : "22429979"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/nycsouthpaw/status/1594134008807698432/photo/1",
+            "source_status_id" : "1594134008807698432",
+            "indices" : [
+              "106",
+              "129"
+            ],
+            "url" : "https://t.co/lu7vODNS1C",
+            "media_url" : "http://pbs.twimg.com/media/Fh-Abj0UoAAvHgx.jpg",
+            "id_str" : "1594134004071964672",
+            "source_user_id" : "22429979",
+            "id" : "1594134004071964672",
+            "media_url_https" : "https://pbs.twimg.com/media/Fh-Abj0UoAAvHgx.jpg",
+            "source_user_id_str" : "22429979",
+            "sizes" : {
+              "large" : {
+                "w" : "1170",
+                "h" : "1051",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "1170",
+                "h" : "1051",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "611",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1594134008807698432",
+            "display_url" : "pic.twitter.com/lu7vODNS1C"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "129"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594182360215552000",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594182360215552000",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Nov 20 04:14:27 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @nycsouthpaw: We have met the content moderation council, and it is a massively brigaded twitter poll. https://t.co/lu7vODNS1C",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/nycsouthpaw/status/1594134008807698432/photo/1",
+            "source_status_id" : "1594134008807698432",
+            "indices" : [
+              "106",
+              "129"
+            ],
+            "url" : "https://t.co/lu7vODNS1C",
+            "media_url" : "http://pbs.twimg.com/media/Fh-Abj0UoAAvHgx.jpg",
+            "id_str" : "1594134004071964672",
+            "source_user_id" : "22429979",
+            "id" : "1594134004071964672",
+            "media_url_https" : "https://pbs.twimg.com/media/Fh-Abj0UoAAvHgx.jpg",
+            "source_user_id_str" : "22429979",
+            "sizes" : {
+              "large" : {
+                "w" : "1170",
+                "h" : "1051",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "1170",
+                "h" : "1051",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "611",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1594134008807698432",
+            "display_url" : "pic.twitter.com/lu7vODNS1C"
+          },
+          {
+            "expanded_url" : "https://twitter.com/nycsouthpaw/status/1594134008807698432/photo/1",
+            "source_status_id" : "1594134008807698432",
+            "indices" : [
+              "106",
+              "129"
+            ],
+            "url" : "https://t.co/lu7vODNS1C",
+            "media_url" : "http://pbs.twimg.com/media/Fh-Abj2VIAAoYwb.jpg",
+            "id_str" : "1594134004080386048",
+            "source_user_id" : "22429979",
+            "id" : "1594134004080386048",
+            "media_url_https" : "https://pbs.twimg.com/media/Fh-Abj2VIAAoYwb.jpg",
+            "source_user_id_str" : "22429979",
+            "sizes" : {
+              "medium" : {
+                "w" : "1040",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "589",
+                "h" : "680",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1170",
+                "h" : "1350",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1594134008807698432",
+            "display_url" : "pic.twitter.com/lu7vODNS1C"
+          },
+          {
+            "expanded_url" : "https://twitter.com/nycsouthpaw/status/1594134008807698432/photo/1",
+            "source_status_id" : "1594134008807698432",
+            "indices" : [
+              "106",
+              "129"
+            ],
+            "url" : "https://t.co/lu7vODNS1C",
+            "media_url" : "http://pbs.twimg.com/media/Fh-Abj1UUAEnQf5.jpg",
+            "id_str" : "1594134004076138497",
+            "source_user_id" : "22429979",
+            "id" : "1594134004076138497",
+            "media_url_https" : "https://pbs.twimg.com/media/Fh-Abj1UUAEnQf5.jpg",
+            "source_user_id_str" : "22429979",
+            "sizes" : {
+              "large" : {
+                "w" : "1170",
+                "h" : "1187",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "670",
+                "h" : "680",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "medium" : {
+                "w" : "1170",
+                "h" : "1187",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1594134008807698432",
+            "display_url" : "pic.twitter.com/lu7vODNS1C"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594178208852844545"
+          ],
+          "editableUntil" : "2022-11-20T04:27:58.046Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Scott Hanselman",
+            "screen_name" : "shanselman",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "5676102",
+            "id" : "5676102"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "53"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594178208852844545",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594178208852844545",
+      "created_at" : "Sun Nov 20 03:57:58 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @shanselman: Wait so now the popular vote matters?",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594177654936293376"
+          ],
+          "editableUntil" : "2022-11-20T04:25:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/jWlACTHbsk",
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1593449514626478081?s=20&t=iu_m3mnAZe5KKFaquTePcw",
+            "display_url" : "twitter.com/develwoutacaus…",
+            "indices" : [
+              "86",
+              "109"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1594177653623427074",
+      "id_str" : "1594177654936293376",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594177654936293376",
+      "in_reply_to_status_id" : "1594177653623427074",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Nov 20 03:55:45 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Do stay in touch, it's not the platform which made this special, it's all of you. ♥️\n\nhttps://t.co/jWlACTHbsk",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594177653623427074"
+          ],
+          "editableUntil" : "2022-11-20T04:25:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "248"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1594177651966623745",
+      "id_str" : "1594177653623427074",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594177653623427074",
+      "in_reply_to_status_id" : "1594177651966623745",
+      "created_at" : "Sun Nov 20 03:55:45 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Instead, I'll just be retweeting anyone else moving on, whether emotionally or physically. After a couple days I'll delete this account.\n\nMight stay a little longer if the \"export Tweet archive\" continues to miss it's SLO. But after that, I'm done.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594177651966623745"
+          ],
+          "editableUntil" : "2022-11-20T04:25:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "empathize",
+            "indices" : [
+              "172",
+              "182"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "203"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1594177650352082946",
+      "id_str" : "1594177651966623745",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594177651966623745",
+      "in_reply_to_status_id" : "1594177650352082946",
+      "created_at" : "Sun Nov 20 03:55:45 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I was hoping to hang around and laugh at it, but it stopped being funny a while ago. Too many innocent people are caught in the crossfire, and I can't do anything but just #empathize for their suffering.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594177650352082946"
+          ],
+          "editableUntil" : "2022-11-20T04:25:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "ChiefTwit",
+            "indices" : [
+              "116",
+              "126"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "275"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1594177647982317568",
+      "id_str" : "1594177650352082946",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594177650352082946",
+      "in_reply_to_status_id" : "1594177647982317568",
+      "created_at" : "Sun Nov 20 03:55:44 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I considered writing a whole thread about my reasoning, but there's so much fundamentally wrong with everything the #ChiefTwit is doing that I can't. I just don't have the energy in me anymore.\n\nI've been checked out of Twitter for a while now, but this really just broke me.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594177647982317568"
+          ],
+          "editableUntil" : "2022-11-20T04:25:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "GoodByeTwitter",
+            "indices" : [
+              "29",
+              "44"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/jWlACTHJhS",
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1593449514626478081?s=20&t=iu_m3mnAZe5KKFaquTePcw",
+            "display_url" : "twitter.com/develwoutacaus…",
+            "indices" : [
+              "184",
+              "207"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "207"
+      ],
+      "favorite_count" : "4",
+      "id_str" : "1594177647982317568",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594177647982317568",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Nov 20 03:55:44 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Whelp, that's officially it. #GoodByeTwitter\n\nI refuse to share a platform with the... *motions broadly at everything* that he represents.\n\nYou can find me at various places below. 👇\n\nhttps://t.co/jWlACTHJhS",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594173306747469829"
+          ],
+          "editableUntil" : "2022-11-20T04:08:29.293Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Marco Rogers",
+            "screen_name" : "polotek",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "20079975",
+            "id" : "20079975"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594173306747469829",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594173306747469829",
+      "created_at" : "Sun Nov 20 03:38:29 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @polotek: Reinstating a certain person’s account has always been my line to actually leave twitter. I’m gonna wait to see what happens t…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594173199675113473"
+          ],
+          "editableUntil" : "2022-11-20T04:08:03.765Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "David Shevitz",
+            "screen_name" : "aikithoughts",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "26105329",
+            "id" : "26105329"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "33"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594173199675113473",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594173199675113473",
+      "created_at" : "Sun Nov 20 03:38:03 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @aikithoughts: No longer here.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594122439943929857"
+          ],
+          "editableUntil" : "2022-11-20T00:46:21.702Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular Community Meetup",
+            "screen_name" : "angular_meetup",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "1384570324734283776",
+            "id" : "1384570324734283776"
+          },
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "20",
+              "28"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/377vFwbdpV",
+            "expanded_url" : "http://bit.ly/3GtRZPE",
+            "display_url" : "bit.ly/3GtRZPE",
+            "indices" : [
+              "78",
+              "101"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1594122439943929857",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594122439943929857",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Nov 20 00:16:21 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular_meetup: @Angular v15 Launch Event 🎉 | Live with the Angular Team\n\nhttps://t.co/377vFwbdpV\n\nJeremy E. @jelbourn\nJessica J. @TheP…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594122378191273984"
+          ],
+          "editableUntil" : "2022-11-20T00:46:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "idea",
+            "indices" : [
+              "12",
+              "17"
+            ]
+          },
+          {
+            "text" : "PapersPlease",
+            "indices" : [
+              "24",
+              "37"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1594122376077197314",
+      "id_str" : "1594122378191273984",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594122378191273984",
+      "in_reply_to_status_id" : "1594122376077197314",
+      "created_at" : "Sun Nov 20 00:16:06 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Alternative #idea: Go a #PapersPlease direction and make the game impossible to win due to random events.\n\n* Video taken down for unspecified reasons.\n* Drama about partnership with abuser.\n* Platform suspends you and you have to diversify revenue.\n* GamerGate-y community split.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1594122376077197314"
+          ],
+          "editableUntil" : "2022-11-20T00:46:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "VideoGame",
+            "indices" : [
+              "0",
+              "10"
+            ]
+          },
+          {
+            "text" : "Idea",
+            "indices" : [
+              "11",
+              "16"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "252"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1594122376077197314",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1594122376077197314",
+      "created_at" : "Sun Nov 20 00:16:06 +0000 2022",
+      "favorited" : false,
+      "full_text" : "#VideoGame #Idea A cookie clicker game as a social media influencer, where you're trying to amass followers, likes, subscriptions, revenue, etc.\n\nCookie clickers are literally all about \"make number go up\", exactly in line with social media engagement.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593856650003161089"
+          ],
+          "editableUntil" : "2022-11-19T07:10:12.442Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "3",
+              "17"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "53"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1593856650003161089",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593856650003161089",
+      "created_at" : "Sat Nov 19 06:40:12 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @justinfagnani: If Trump is allowed back, I'm out.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1521940525296742401"
           ],
           "editableUntil" : "2022-05-04T20:21:12.175Z",
@@ -24523,7 +27674,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "sMyle is OOO",
+            "name" : "sMyle",
             "screen_name" : "MylesBorins",
             "indices" : [
               "0",
@@ -25812,7 +28963,7 @@ module.exports = [
             "id" : "229237555"
           },
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "26",
@@ -26776,997 +29927,6 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1591635866761691137"
-          ],
-          "editableUntil" : "2022-11-13T04:05:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "272"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1591633837897183232",
-      "id_str" : "1591635866761691137",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591635866761691137",
-      "in_reply_to_status_id" : "1591633837897183232",
-      "created_at" : "Sun Nov 13 03:35:36 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Also the \"restore from a previous device\" feature just hung for over 2 hours and had to be skipped.\n\nIt also pulled up a credit card (from Google Pay?) and asked me to set it up, but picked the tier-3 card that I basically never use with no alternatives to choose amongst.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591633837897183232"
-          ],
-          "editableUntil" : "2022-11-13T03:57:32.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "141"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1591633541879967747",
-      "id_str" : "1591633837897183232",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591633837897183232",
-      "in_reply_to_status_id" : "1591633541879967747",
-      "created_at" : "Sun Nov 13 03:27:32 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I'm going to assume that the default option is \"on\" for all these, and that's ball on the right.\n\nThat honestly looks like \"off\" to me but 🤷.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591633541879967747"
-          ],
-          "editableUntil" : "2022-11-13T03:56:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "0",
-              "7"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "225"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1591632912830504960",
-      "id_str" : "1591633541879967747",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591633541879967747",
-      "in_reply_to_status_id" : "1591632912830504960",
-      "created_at" : "Sun Nov 13 03:26:22 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@Google Ironically, the video makes it look like the ball on the right is on, but in person looking at the phone I think the ball on the left looks brighter and is actually the one that's \"on\" which only adds to my confusion.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591632912830504960"
-          ],
-          "editableUntil" : "2022-11-13T03:53:52.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "48",
-              "55"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1591632912830504960/video/1",
-            "indices" : [
-              "83",
-              "106"
-            ],
-            "url" : "https://t.co/bjIgHPlRO3",
-            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1591632503667712000/pu/img/jleL20qc6ppyvqMS.jpg",
-            "id_str" : "1591632503667712000",
-            "id" : "1591632503667712000",
-            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1591632503667712000/pu/img/jleL20qc6ppyvqMS.jpg",
-            "sizes" : {
-              "medium" : {
-                "w" : "675",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "1080",
-                "h" : "1920",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "383",
-                "h" : "680",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/bjIgHPlRO3"
-          }
-        ],
-        "hashtags" : [
-          {
-            "text" : "Pixel6",
-            "indices" : [
-              "56",
-              "63"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "106"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1591632912830504960",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591632912830504960",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Nov 13 03:23:52 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Pop quiz: Which option is on and which is off?\n\n@Google #Pixel6 set up experience. https://t.co/bjIgHPlRO3",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1591632912830504960/video/1",
-            "indices" : [
-              "83",
-              "106"
-            ],
-            "url" : "https://t.co/bjIgHPlRO3",
-            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1591632503667712000/pu/img/jleL20qc6ppyvqMS.jpg",
-            "id_str" : "1591632503667712000",
-            "video_info" : {
-              "aspect_ratio" : [
-                "9",
-                "16"
-              ],
-              "duration_millis" : "5862",
-              "variants" : [
-                {
-                  "bitrate" : "632000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/ext_tw_video/1591632503667712000/pu/vid/320x568/w9dNU-LMS6J2p9qY.mp4?tag=12"
-                },
-                {
-                  "content_type" : "application/x-mpegURL",
-                  "url" : "https://video.twimg.com/ext_tw_video/1591632503667712000/pu/pl/ePLrcoZ_TPmRE69q.m3u8?tag=12&container=fmp4"
-                },
-                {
-                  "bitrate" : "950000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/ext_tw_video/1591632503667712000/pu/vid/480x852/pYPGnuOf9V2vqT8Y.mp4?tag=12"
-                },
-                {
-                  "bitrate" : "2176000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/ext_tw_video/1591632503667712000/pu/vid/720x1280/NX1Y1En0uRYRZZKQ.mp4?tag=12"
-                }
-              ]
-            },
-            "additional_media_info" : {
-              "monetizable" : false
-            },
-            "id" : "1591632503667712000",
-            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1591632503667712000/pu/img/jleL20qc6ppyvqMS.jpg",
-            "sizes" : {
-              "medium" : {
-                "w" : "675",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "1080",
-                "h" : "1920",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "383",
-                "h" : "680",
-                "resize" : "fit"
-              }
-            },
-            "type" : "video",
-            "display_url" : "pic.twitter.com/bjIgHPlRO3"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591620945239998465"
-          ],
-          "editableUntil" : "2022-11-13T03:06:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Sarah Drasner",
-            "screen_name" : "sarah_edo",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "813333008",
-            "id" : "813333008"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "51"
-      ],
-      "favorite_count" : "2",
-      "in_reply_to_status_id_str" : "1591620676657369090",
-      "id_str" : "1591620945239998465",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591620945239998465",
-      "in_reply_to_status_id" : "1591620676657369090",
-      "created_at" : "Sun Nov 13 02:36:18 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@sarah_edo More seriously, I hope your thumb is ok!",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591620676657369090"
-          ],
-          "editableUntil" : "2022-11-13T03:05:14.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Sarah Drasner",
-            "screen_name" : "sarah_edo",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "813333008",
-            "id" : "813333008"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "55"
-      ],
-      "favorite_count" : "3",
-      "in_reply_to_status_id_str" : "1591619323914641408",
-      "id_str" : "1591620676657369090",
-      "in_reply_to_user_id" : "813333008",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591620676657369090",
-      "in_reply_to_status_id" : "1591619323914641408",
-      "created_at" : "Sun Nov 13 02:35:14 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@sarah_edo I think you mean two 9s of thumbs-up time. 👍",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "sarah_edo",
-      "in_reply_to_user_id_str" : "813333008"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591513531975102464"
-          ],
-          "editableUntil" : "2022-11-12T19:59:29.571Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Nicholas C. Zakas",
-            "screen_name" : "slicknet",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "17633960",
-            "id" : "17633960"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1591513531975102464",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591513531975102464",
-      "created_at" : "Sat Nov 12 19:29:29 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @slicknet: I'm not a fan of the Rust convention of having unit tests inside the same file as source. I find I'm constantly scrolling up…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591510668632821760"
-          ],
-          "editableUntil" : "2022-11-12T19:48:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Pawel Kozlowski",
-            "screen_name" : "pkozlowski_os",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "700882453",
-            "id" : "700882453"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "214"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1591346819468251136",
-      "id_str" : "1591510668632821760",
-      "in_reply_to_user_id" : "700882453",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591510668632821760",
-      "in_reply_to_status_id" : "1591346819468251136",
-      "created_at" : "Sat Nov 12 19:18:06 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@pkozlowski_os So do components automatically dispose their signals when they clean themselves up as part of `createRoot()`? I'm not seeing that in the source, but I'm also not really following all these callbacks.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "pkozlowski_os",
-      "in_reply_to_user_id_str" : "700882453"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591238547717361664"
-          ],
-          "editableUntil" : "2022-11-12T01:46:48.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "130"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1591238546295521281",
-      "id_str" : "1591238547717361664",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591238547717361664",
-      "in_reply_to_status_id" : "1591238546295521281",
-      "created_at" : "Sat Nov 12 01:16:48 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Is a mark-and-sweep GC strategy able to handle signals with this data structure or am I missing an implicit unsubscribe somewhere?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591238546295521281"
-          ],
-          "editableUntil" : "2022-11-12T01:46:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/yWU1hbzfSH",
-            "expanded_url" : "https://github.com/solidjs/solid/blob/40d6db6029efcb2e68d4df2b4cdf1b3644a771bb/packages/solid/src/reactive/signal.ts#L44",
-            "display_url" : "github.com/solidjs/solid/…",
-            "indices" : [
-              "205",
-              "228"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "228"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1591238545150447616",
-      "id_str" : "1591238546295521281",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591238546295521281",
-      "in_reply_to_status_id" : "1591238545150447616",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Nov 12 01:16:47 +0000 2022",
-      "favorited" : false,
-      "full_text" : "AFAICT, each signal in the graph contains a list of all its reverse dependencies (all signals who depend on it). This feels circular to me and I don't see how the browser could clean up those references.\n\nhttps://t.co/yWU1hbzfSH",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1591238545150447616"
-          ],
-          "editableUntil" : "2022-11-12T01:46:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "SolidJS",
-            "indices" : [
-              "21",
-              "29"
-            ]
-          },
-          {
-            "text" : "signals",
-            "indices" : [
-              "30",
-              "38"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "128"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1591238545150447616",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1591238545150447616",
-      "created_at" : "Sat Nov 12 01:16:47 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Anyone familiar with #SolidJS #signals able to help me understand why they don't leak memory? Why don't you need to unsubscribe?",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590960473260036096"
-          ],
-          "editableUntil" : "2022-11-11T07:21:50.098Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Open Web Advocacy",
-            "screen_name" : "OpenWebAdvocacy",
-            "indices" : [
-              "3",
-              "19"
-            ],
-            "id_str" : "1443933752757915650",
-            "id" : "1443933752757915650"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1590960473260036096",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590960473260036096",
-      "created_at" : "Fri Nov 11 06:51:50 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @OpenWebAdvocacy: The ACCC, The Australian Regulator 🇦🇺 has published a paper which has great news for competition in Browsers and Web A…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590959013944229888"
-          ],
-          "editableUntil" : "2022-11-11T07:16:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "GodOfWarRagnarok",
-            "indices" : [
-              "0",
-              "17"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "45"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1590959013944229888",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590959013944229888",
-      "created_at" : "Fri Nov 11 06:46:02 +0000 2022",
-      "favorited" : false,
-      "full_text" : "#GodOfWarRagnarok - Why is the compass drunk?",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590888550874374144"
-          ],
-          "editableUntil" : "2022-11-11T02:36:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "WebDev",
-            "indices" : [
-              "154",
-              "161"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/OfURSPnKEP",
-            "expanded_url" : "http://techhub.social",
-            "display_url" : "techhub.social",
-            "indices" : [
-              "53",
-              "76"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "191"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1590887596821196800",
-      "id_str" : "1590888550874374144",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590888550874374144",
-      "in_reply_to_status_id" : "1590887596821196800",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Nov 11 02:06:02 +0000 2022",
-      "favorited" : false,
-      "full_text" : "And literally as soon as I posted this it looks like https://t.co/OfURSPnKEP is down. 🤦\n\nTBH I picked the server kinda arbitrarily. Would love to see the #WebDev community land on a good one.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590887604836511744"
-          ],
-          "editableUntil" : "2022-11-11T02:32:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "252"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1590887603272036353",
-      "id_str" : "1590887604836511744",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590887604836511744",
-      "in_reply_to_status_id" : "1590887603272036353",
-      "created_at" : "Fri Nov 11 02:02:16 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I'll probably hang out here for at least a bit since this whole fiasco is nothing if not entertaining. Definitely hoping to wind it down though.\n\nDo follow me on Mastodon though if you're at all interested in shitposts of things *other* than Twitter. 😅",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590887603272036353"
-          ],
-          "editableUntil" : "2022-11-11T02:32:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "205"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1590887601820807170",
-      "id_str" : "1590887603272036353",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590887603272036353",
-      "in_reply_to_status_id" : "1590887601820807170",
-      "created_at" : "Fri Nov 11 02:02:16 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I also have no faith Twitter can respect and maintain user privacy or security anymore given exactly how the change in ownership went down. I'm honestly debating deleting this account just for that reason.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590887601820807170"
-          ],
-          "editableUntil" : "2022-11-11T02:32:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "221"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1590887600277295106",
-      "id_str" : "1590887601820807170",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590887601820807170",
-      "in_reply_to_status_id" : "1590887600277295106",
-      "created_at" : "Fri Nov 11 02:02:16 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Moderation *is* Twitter's key feature yet it's new owner has zero understanding of that, which I think spells long term doom. I just feel terrible for everyone who worked/works at Twitter and hope they land on their feet.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590887600277295106"
-          ],
-          "editableUntil" : "2022-11-11T02:32:15.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "ChiefTwit",
-            "indices" : [
-              "117",
-              "127"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "271"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1590887598624747520",
-      "id_str" : "1590887600277295106",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590887600277295106",
-      "in_reply_to_status_id" : "1590887598624747520",
-      "created_at" : "Fri Nov 11 02:02:15 +0000 2022",
-      "favorited" : false,
-      "full_text" : "For the record, I'm not convinced Mastodon will ever go mainstream or that Twitter will die anytime soon (though the #ChiefTwit has surprised me before). I think it's more likely that the next big social media gimmick will just have an easier time taking Twitter's users.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590887598624747520"
-          ],
-          "editableUntil" : "2022-11-11T02:32:15.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "239"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1590887596821196800",
-      "id_str" : "1590887598624747520",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590887598624747520",
-      "in_reply_to_status_id" : "1590887596821196800",
-      "created_at" : "Fri Nov 11 02:02:15 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I've never personally been very tied to Twitter. I mainly joined to be a part of the web community, but I really don't care where that community goes. I'm just happy to be part of it, and I think we can build something similar on Mastodon.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1514802602059345925"
           ],
           "editableUntil" : "2022-04-15T03:37:38.659Z",
@@ -28577,18 +30737,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -28607,7 +30756,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman Interesting. You'd think the company that built React would invest in a scraper that can read CSR content?",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -29179,28 +31327,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          },
-          {
-            "name" : "Jeremy Elbourn",
-            "screen_name" : "jelbourn",
-            "indices" : [
-              "16",
-              "25"
-            ],
-            "id_str" : "66845001",
-            "id" : "66845001"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -29219,7 +31346,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman @jelbourn, you've failed your job. SASS lives another day!",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -30585,7 +32711,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "@jsparty@changelog.social",
+            "name" : "JS Party 🪩",
             "screen_name" : "JSPartyFM",
             "indices" : [
               "26",
@@ -31973,7 +34099,7 @@ module.exports = [
         "0",
         "273"
       ],
-      "favorite_count" : "114",
+      "favorite_count" : "112",
       "id_str" : "1504601354395795456",
       "truncated" : false,
       "retweet_count" : "8",
@@ -36499,6 +38625,1186 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1593712578043125760"
+          ],
+          "editableUntil" : "2022-11-18T21:37:43.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "34"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1593694501989539840",
+      "id_str" : "1593712578043125760",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593712578043125760",
+      "in_reply_to_status_id" : "1593694501989539840",
+      "created_at" : "Fri Nov 18 21:07:43 +0000 2022",
+      "favorited" : false,
+      "full_text" : "My coworker Nate had a great time!",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593696836006555650"
+          ],
+          "editableUntil" : "2022-11-18T20:35:09.816Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1593696836006555650",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593696836006555650",
+      "created_at" : "Fri Nov 18 20:05:09 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular: The Angular v15 launch event is starting right now! Join us for the latest news, product updates and live Q/A.\n\nThis is going…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593694501989539840"
+          ],
+          "editableUntil" : "2022-11-18T20:25:53.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Angular",
+            "indices" : [
+              "0",
+              "8"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/6BtZz1I6Rw",
+            "expanded_url" : "https://www.youtube.com/watch?v=j2_NnV7nU6s",
+            "display_url" : "youtube.com/watch?v=j2_NnV…",
+            "indices" : [
+              "121",
+              "144"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "144"
+      ],
+      "favorite_count" : "4",
+      "id_str" : "1593694501989539840",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593694501989539840",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Nov 18 19:55:53 +0000 2022",
+      "favorited" : false,
+      "full_text" : "#Angular v15 launch event going on in *five* minutes! I'll be there with the rest of the team to answer your questions.\n\nhttps://t.co/6BtZz1I6Rw",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593490809290051585"
+          ],
+          "editableUntil" : "2022-11-18T06:56:29.219Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Scott Hanselman",
+            "screen_name" : "shanselman",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "5676102",
+            "id" : "5676102"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/uY9DduEzHT",
+            "expanded_url" : "https://www.hanselman.com/blog/your-words-are-wasted",
+            "display_url" : "hanselman.com/blog/your-word…",
+            "indices" : [
+              "31",
+              "54"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "54"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1593490809290051585",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593490809290051585",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Nov 18 06:26:29 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @shanselman: Own your words https://t.co/uY9DduEzHT",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593468584197431296"
+          ],
+          "editableUntil" : "2022-11-18T05:28:10.344Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "KBall",
+            "screen_name" : "kbal11",
+            "indices" : [
+              "3",
+              "10"
+            ],
+            "id_str" : "16795825",
+            "id" : "16795825"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "112"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1593468584197431296",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593468584197431296",
+      "created_at" : "Fri Nov 18 04:58:10 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @kbal11: I guess probably last chance before Twitter goes down I set up on mastodon as kball@changelog.social",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593468438483111936"
+          ],
+          "editableUntil" : "2022-11-18T05:27:35.603Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Alex Heath",
+            "screen_name" : "alexeheath",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "14752818",
+            "id" : "14752818"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1593468438483111936",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593468438483111936",
+      "created_at" : "Fri Nov 18 04:57:35 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @alexeheath: Thread here is collecting resignation tweets from Twitter engineers, many of whom are senior / have been at the company for…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593467765339303942"
+          ],
+          "editableUntil" : "2022-11-18T05:24:55.113Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Marco Rogers",
+            "screen_name" : "polotek",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "20079975",
+            "id" : "20079975"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1593467765339303942",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593467765339303942",
+      "created_at" : "Fri Nov 18 04:54:55 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @polotek: I haven't figured out if I'm going to have a new home on the internet. I'll probably figure it out tomorrow. But part of the r…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593467643238883328"
+          ],
+          "editableUntil" : "2022-11-18T05:24:26.002Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "3",
+              "17"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "81"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1593467643238883328",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593467643238883328",
+      "created_at" : "Fri Nov 18 04:54:26 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @justinfagnani: Once again, @justinfagnani@fosstodon.org\n\nJoin us on Mastodon!",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593449514626478081"
+          ],
+          "editableUntil" : "2022-11-18T04:12:23.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Er9FJrVHIK",
+            "expanded_url" : "https://blog.dwac.dev",
+            "display_url" : "blog.dwac.dev",
+            "indices" : [
+              "78",
+              "101"
+            ]
+          },
+          {
+            "url" : "https://t.co/Y51jGYTpZd",
+            "expanded_url" : "https://techhub.social/@develwithoutacause",
+            "display_url" : "techhub.social/@develwithouta…",
+            "indices" : [
+              "112",
+              "135"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1593449514626478081/photo/1",
+            "indices" : [
+              "272",
+              "295"
+            ],
+            "url" : "https://t.co/d9ZXq3Tfbu",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/Fh0R4rNUYAE2G6H.jpg",
+            "id_str" : "1593449508527955969",
+            "id" : "1593449508527955969",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/Fh0R4rNUYAE2G6H.jpg",
+            "sizes" : {
+              "medium" : {
+                "w" : "498",
+                "h" : "280",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "498",
+                "h" : "280",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "498",
+                "h" : "280",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/d9ZXq3Tfbu"
+          }
+        ],
+        "hashtags" : [
+          {
+            "text" : "Angular",
+            "indices" : [
+              "153",
+              "161"
+            ]
+          },
+          {
+            "text" : "Bazel",
+            "indices" : [
+              "163",
+              "169"
+            ]
+          },
+          {
+            "text" : "WebComponents",
+            "indices" : [
+              "175",
+              "189"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "295"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1593449514626478081",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1593449514626478081",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Nov 18 03:42:23 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Even if Twitter does survive, I don't think I want to be a part of it.\n\nBlog: https://t.co/Er9FJrVHIK\nMastodon: https://t.co/Y51jGYTpZd\n\nI'm also in the #Angular, #Bazel, and #WebComponents Slacks.\n\nAt this point I'm just here to ride the ship down. It's been a pleasure. https://t.co/d9ZXq3Tfbu",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1593449514626478081/photo/1",
+            "indices" : [
+              "272",
+              "295"
+            ],
+            "url" : "https://t.co/d9ZXq3Tfbu",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/Fh0R4rNUYAE2G6H.jpg",
+            "id_str" : "1593449508527955969",
+            "video_info" : {
+              "aspect_ratio" : [
+                "249",
+                "140"
+              ],
+              "variants" : [
+                {
+                  "bitrate" : "0",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/tweet_video/Fh0R4rNUYAE2G6H.mp4"
+                }
+              ]
+            },
+            "id" : "1593449508527955969",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/Fh0R4rNUYAE2G6H.jpg",
+            "sizes" : {
+              "medium" : {
+                "w" : "498",
+                "h" : "280",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "498",
+                "h" : "280",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "498",
+                "h" : "280",
+                "resize" : "fit"
+              }
+            },
+            "type" : "animated_gif",
+            "display_url" : "pic.twitter.com/d9ZXq3Tfbu"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1593421904622125056"
+          ],
+          "editableUntil" : "2022-11-18T02:22:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1593421904622125056",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1593421904622125056",
+      "created_at" : "Fri Nov 18 01:52:41 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I just want to say: you matter.\n\nYou're a human being with dreams and feelings and you deserve the best.\n\nYou're not defined by where you work and you deserve leadership who cares about you and treats you with respect. Refuse abuse and mistreatment, and stand up for each other.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592999511152283649"
+          ],
+          "editableUntil" : "2022-11-16T22:24:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "0",
+              "8"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          },
+          {
+            "name" : "Chrome Developers",
+            "screen_name" : "ChromiumDev",
+            "indices" : [
+              "9",
+              "21"
+            ],
+            "id_str" : "113713261",
+            "id" : "113713261"
+          },
+          {
+            "name" : "Chrome DevTools",
+            "screen_name" : "ChromeDevTools",
+            "indices" : [
+              "22",
+              "37"
+            ],
+            "id_str" : "2862241270",
+            "id" : "2862241270"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "72"
+      ],
+      "favorite_count" : "2",
+      "in_reply_to_status_id_str" : "1592998543257632770",
+      "id_str" : "1592999511152283649",
+      "in_reply_to_user_id" : "202230373",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592999511152283649",
+      "in_reply_to_status_id" : "1592998543257632770",
+      "created_at" : "Wed Nov 16 21:54:14 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@angular @ChromiumDev @ChromeDevTools *Duel of the fates starts playing*",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "angular",
+      "in_reply_to_user_id_str" : "202230373"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592998867565678593"
+          ],
+          "editableUntil" : "2022-11-16T22:21:41.172Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          },
+          {
+            "name" : "Chrome Developers",
+            "screen_name" : "ChromiumDev",
+            "indices" : [
+              "125",
+              "137"
+            ],
+            "id_str" : "113713261",
+            "id" : "113713261"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1592998867565678593",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592998867565678593",
+      "created_at" : "Wed Nov 16 21:51:41 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular: Angular v15\n\n✅ Standalone components are stable!\n🌲 More tree-shakable standalone APIs\n🎆 `NgOptimizedImage` with @ChromiumDev\n🕸…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592998772711178241"
+          ],
+          "editableUntil" : "2022-11-16T22:21:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/SWFtnDFNVD",
+            "expanded_url" : "https://github.com/angular/angular/pull/48087#pullrequestreview-1183053924",
+            "display_url" : "github.com/angular/angula…",
+            "indices" : [
+              "191",
+              "214"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "214"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1592998772711178241",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592998772711178241",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Nov 16 21:51:18 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Huge shout out to ArcDev09 for so graciously approving the Angular v15 release! I'm glad we were able to live up to their high standards and deliver the quality release they demanded of us!\n\nhttps://t.co/SWFtnDFNVD",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592997242180620288"
+          ],
+          "editableUntil" : "2022-11-16T22:15:13.650Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "bazelcon",
+            "indices" : [
+              "72",
+              "81"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Alex 🦅 Eagle",
+            "screen_name" : "Jakeherringbone",
+            "indices" : [
+              "3",
+              "19"
+            ],
+            "id_str" : "8124762",
+            "id" : "8124762"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/0DbsYAf1iO",
+            "expanded_url" : "https://aspect.build",
+            "display_url" : "aspect.build",
+            "indices" : [
+              "36",
+              "59"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1592997242180620288",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592997242180620288",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Nov 16 21:45:13 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @Jakeherringbone: Just announced https://t.co/0DbsYAf1iO on-stage at #bazelcon.\n\nAspect CLI now GA! Make the bazel command fit within yo…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592996891511640065"
+          ],
+          "editableUntil" : "2022-11-16T22:13:50.044Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "Jenia \"JeB\" Barabanov",
+            "screen_name" : "jebbacca",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "965546076701954048",
+            "id" : "965546076701954048"
+          },
+          {
+            "name" : "Chrome DevTools",
+            "screen_name" : "ChromeDevTools",
+            "indices" : [
+              "58",
+              "73"
+            ],
+            "id_str" : "2862241270",
+            "id" : "2862241270"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/jebbacca/status/1592570231414984704/photo/1",
+            "source_status_id" : "1592570231414984704",
+            "indices" : [
+              "75",
+              "98"
+            ],
+            "url" : "https://t.co/fCnweqLcQ7",
+            "media_url" : "http://pbs.twimg.com/media/FhnxfiGWAAImBWO.jpg",
+            "id_str" : "1592569467283832834",
+            "source_user_id" : "965546076701954048",
+            "id" : "1592569467283832834",
+            "media_url_https" : "https://pbs.twimg.com/media/FhnxfiGWAAImBWO.jpg",
+            "source_user_id_str" : "965546076701954048",
+            "sizes" : {
+              "medium" : {
+                "w" : "1200",
+                "h" : "796",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "1772",
+                "h" : "1176",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "451",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1592570231414984704",
+            "display_url" : "pic.twitter.com/fCnweqLcQ7"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "98"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1592996891511640065",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592996891511640065",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Nov 16 21:43:50 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @jebbacca: Test your page eligibility for bfcache with @ChromeDevTools: https://t.co/fCnweqLcQ7",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/jebbacca/status/1592570231414984704/photo/1",
+            "source_status_id" : "1592570231414984704",
+            "indices" : [
+              "75",
+              "98"
+            ],
+            "url" : "https://t.co/fCnweqLcQ7",
+            "media_url" : "http://pbs.twimg.com/media/FhnxfiGWAAImBWO.jpg",
+            "id_str" : "1592569467283832834",
+            "source_user_id" : "965546076701954048",
+            "id" : "1592569467283832834",
+            "media_url_https" : "https://pbs.twimg.com/media/FhnxfiGWAAImBWO.jpg",
+            "source_user_id_str" : "965546076701954048",
+            "sizes" : {
+              "medium" : {
+                "w" : "1200",
+                "h" : "796",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "1772",
+                "h" : "1176",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "451",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1592570231414984704",
+            "display_url" : "pic.twitter.com/fCnweqLcQ7"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592370545076887552"
+          ],
+          "editableUntil" : "2022-11-15T04:44:57.417Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Madleina",
+            "screen_name" : "Madleina_S",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "1454199609253777414",
+            "id" : "1454199609253777414"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1592370545076887552",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592370545076887552",
+      "created_at" : "Tue Nov 15 04:14:57 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @Madleina_S: I am now also on Mastodon: @Madleina_S@hackyderm.io\n\nUntil I have more clarity on how the safety and security of Twitter is…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592280178876907520"
+          ],
+          "editableUntil" : "2022-11-14T22:45:52.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "130"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1592280176658116608",
+      "id_str" : "1592280178876907520",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592280178876907520",
+      "in_reply_to_status_id" : "1592280176658116608",
+      "created_at" : "Mon Nov 14 22:15:52 +0000 2022",
+      "favorited" : false,
+      "full_text" : "You have to do `Array.from(set.values())` to fully snapshot the state first, before you can safely iterate over it with mutations.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592280176658116608"
+          ],
+          "editableUntil" : "2022-11-14T22:45:51.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [ ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1592280176658116608/photo/1",
+            "indices" : [
+              "231",
+              "254"
+            ],
+            "url" : "https://t.co/pS9yufYrZ0",
+            "media_url" : "http://pbs.twimg.com/media/FhjqLAPVEAEMlCE.jpg",
+            "id_str" : "1592279943039225857",
+            "id" : "1592279943039225857",
+            "media_url_https" : "https://pbs.twimg.com/media/FhjqLAPVEAEMlCE.jpg",
+            "sizes" : {
+              "large" : {
+                "w" : "1720",
+                "h" : "1204",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "1200",
+                "h" : "840",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "476",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/pS9yufYrZ0"
+          }
+        ],
+        "hashtags" : [
+          {
+            "text" : "WTF",
+            "indices" : [
+              "8",
+              "12"
+            ]
+          },
+          {
+            "text" : "JavaScript",
+            "indices" : [
+              "13",
+              "24"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "254"
+      ],
+      "favorite_count" : "4",
+      "id_str" : "1592280176658116608",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592280176658116608",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Nov 14 22:15:51 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Today's #WTF #JavaScript snippet. The following code loops infinitely.\n\nApparently the `Set` iterator dynamically updates with new data added to the `Set`. This applies *even* when you explicitly call `.values()` before iterating. https://t.co/pS9yufYrZ0",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1592280176658116608/photo/1",
+            "indices" : [
+              "231",
+              "254"
+            ],
+            "url" : "https://t.co/pS9yufYrZ0",
+            "media_url" : "http://pbs.twimg.com/media/FhjqLAPVEAEMlCE.jpg",
+            "id_str" : "1592279943039225857",
+            "id" : "1592279943039225857",
+            "media_url_https" : "https://pbs.twimg.com/media/FhjqLAPVEAEMlCE.jpg",
+            "sizes" : {
+              "large" : {
+                "w" : "1720",
+                "h" : "1204",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "1200",
+                "h" : "840",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "476",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/pS9yufYrZ0"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1492382252272996355"
           ],
           "editableUntil" : "2022-02-12T06:47:10.720Z",
@@ -37745,16 +41051,6 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Jeremy Elbourn",
-            "screen_name" : "jelbourn",
-            "indices" : [
-              "77",
-              "86"
-            ],
-            "id_str" : "66845001",
-            "id" : "66845001"
-          },
-          {
             "name" : "synalx",
             "screen_name" : "synalx",
             "indices" : [
@@ -37943,7 +41239,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "orta@mastodon.social --leave-this-site",
+            "name" : "orta@webtoo.ls --leave-this-site",
             "screen_name" : "orta",
             "indices" : [
               "3",
@@ -38919,967 +42215,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "Remember: 100 hours invested in building your own tool can save you 5 minutes of installing and configuring an existing tool.",
       "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590887596821196800"
-          ],
-          "editableUntil" : "2022-11-11T02:32:15.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Mastodon",
-            "indices" : [
-              "25",
-              "34"
-            ]
-          },
-          {
-            "text" : "WebDev",
-            "indices" : [
-              "92",
-              "99"
-            ]
-          },
-          {
-            "text" : "Twitter",
-            "indices" : [
-              "240",
-              "248"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Y51jGYCmXd",
-            "expanded_url" : "https://techhub.social/@develwithoutacause",
-            "display_url" : "techhub.social/@develwithouta…",
-            "indices" : [
-              "251",
-              "274"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "274"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1590887596821196800",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1590887596821196800",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Nov 11 02:02:15 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Like many of you, I'm on #Mastodon now!\n\n@develwithoutacause@techhub.social\n\nI'm hoping the #WebDev community can find a new home there.\n\nI'll probably cross-post here for at least a little while and see how I actually enjoy it compared to #Twitter.\n\nhttps://t.co/Y51jGYCmXd",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590854934500872193"
-          ],
-          "editableUntil" : "2022-11-11T00:22:27.697Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Grady Booch",
-            "screen_name" : "Grady_Booch",
-            "indices" : [
-              "3",
-              "15"
-            ],
-            "id_str" : "397689316",
-            "id" : "397689316"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1590854934500872193",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590854934500872193",
-      "created_at" : "Thu Nov 10 23:52:27 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @Grady_Booch: I have to agree with Quentin.\n\nAs a developer, you have to not only do great tech, you have to consider the legal and ethi…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590790217451319298"
-          ],
-          "editableUntil" : "2022-11-10T20:05:17.950Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Angular",
-            "screen_name" : "angular",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "202230373",
-            "id" : "202230373"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1590790217451319298",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590790217451319298",
-      "created_at" : "Thu Nov 10 19:35:17 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @angular: Want to learn how to get started with Standalone Components AND build a chatbot powered by Google Cloud Platform? \n\nThen you'r…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1590094648814755840"
-          ],
-          "editableUntil" : "2022-11-08T22:01:21.464Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Alex Russell",
-            "screen_name" : "slightlylate",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "229237555",
-            "id" : "229237555"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/S2avStd1Ew",
-            "expanded_url" : "https://chromestatus.com/feature/5743740178137088",
-            "display_url" : "chromestatus.com/feature/574374…",
-            "indices" : [
-              "99",
-              "122"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1590094648814755840",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1590094648814755840",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Nov 08 21:31:21 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @slightlylate: It would be funny if it wasn't sad. Inline replies shipped in Chromium in 2018:\n\nhttps://t.co/S2avStd1Ew\n\nNotification Ac…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1589797083036684289"
-          ],
-          "editableUntil" : "2022-11-08T02:18:56.254Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Mark \"Mayor\" Techson",
-            "screen_name" : "marktechson",
-            "indices" : [
-              "3",
-              "15"
-            ],
-            "id_str" : "4184075433",
-            "id" : "4184075433"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1589797083036684289",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1589797083036684289",
-      "created_at" : "Tue Nov 08 01:48:56 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @marktechson: I got super frustrated with an issue and I was ready to toss my keyboard across the room.\n\nI got up, walked away and asked…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1589765548120092672"
-          ],
-          "editableUntil" : "2022-11-08T00:13:37.744Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Steve Krenzel",
-            "screen_name" : "stevekrenzel",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "950920933",
-            "id" : "950920933"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1589765548120092672",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1589765548120092672",
-      "created_at" : "Mon Nov 07 23:43:37 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @stevekrenzel: With Twitter's change in ownership last week, I'm probably in the clear to talk about the most unethical thing I was aske…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1589002009071734784"
-          ],
-          "editableUntil" : "2022-11-05T21:39:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Sensible Politics",
-            "screen_name" : "SensiblePoliti9",
-            "indices" : [
-              "0",
-              "16"
-            ],
-            "id_str" : "1320211854405390336",
-            "id" : "1320211854405390336"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "297"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1588991667423825920",
-      "id_str" : "1589002009071734784",
-      "in_reply_to_user_id" : "1320211854405390336",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1589002009071734784",
-      "in_reply_to_status_id" : "1588991667423825920",
-      "created_at" : "Sat Nov 05 21:09:35 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@SensiblePoliti9 \"Not going to disappear\" and \"moderates content\" both sound like pretty important things and both reasons why I'd prefer the biggest one maintained by the creator.\n\nBeyond that, none of the other servers really stand out as particularly relevant to me. Am I looking at this wrong?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "SensiblePoliti9",
-      "in_reply_to_user_id_str" : "1320211854405390336"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1588989451069722625"
-          ],
-          "editableUntil" : "2022-11-05T20:49:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Sensible Politics",
-            "screen_name" : "SensiblePoliti9",
-            "indices" : [
-              "0",
-              "16"
-            ],
-            "id_str" : "1320211854405390336",
-            "id" : "1320211854405390336"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/bG1TnaevRD",
-            "expanded_url" : "http://mastodon.social",
-            "display_url" : "mastodon.social",
-            "indices" : [
-              "244",
-              "267"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "268"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1588989155044098048",
-      "id_str" : "1588989451069722625",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1588989451069722625",
-      "in_reply_to_status_id" : "1588989155044098048",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Nov 05 20:19:41 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@SensiblePoliti9 I guess the messaging feels contradictory of \"you must pick a server for your account\", but also \"the server doesn't matter so don't worry about it\".\n\nIs it weird that people naturally gravitate towards the \"default\" option of https://t.co/bG1TnaevRD?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1588989155044098048"
-          ],
-          "editableUntil" : "2022-11-05T20:48:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Sensible Politics",
-            "screen_name" : "SensiblePoliti9",
-            "indices" : [
-              "0",
-              "16"
-            ],
-            "id_str" : "1320211854405390336",
-            "id" : "1320211854405390336"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "239"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1588988717867618304",
-      "id_str" : "1588989155044098048",
-      "in_reply_to_user_id" : "1320211854405390336",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1588989155044098048",
-      "in_reply_to_status_id" : "1588988717867618304",
-      "created_at" : "Sat Nov 05 20:18:31 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@SensiblePoliti9 I definitely don't want to invest in building and moderating my own community. I could see a server just to host my own account with my own domain (if that's the right term?), like an email address for a personal web site.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "SensiblePoliti9",
-      "in_reply_to_user_id_str" : "1320211854405390336"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1588987985059778560"
-          ],
-          "editableUntil" : "2022-11-05T20:43:52.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "WebDevTwitter",
-            "indices" : [
-              "44",
-              "58"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/bG1TnaevRD",
-            "expanded_url" : "http://mastodon.social",
-            "display_url" : "mastodon.social",
-            "indices" : [
-              "148",
-              "171"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "172"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1588987983663071232",
-      "id_str" : "1588987985059778560",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1588987985059778560",
-      "in_reply_to_status_id" : "1588987983663071232",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Nov 05 20:13:52 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Alternatively, is there a particular server #WebDevTwitter is migrating towards? I see a lot of movement in my timeline, but it's generally towards https://t.co/bG1TnaevRD.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1588987983663071232"
-          ],
-          "editableUntil" : "2022-11-05T20:43:51.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Mastodon",
-            "indices" : [
-              "21",
-              "30"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/bG1TnaevRD",
-            "expanded_url" : "http://mastodon.social",
-            "display_url" : "mastodon.social",
-            "indices" : [
-              "88",
-              "111"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "271"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1588987983663071232",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1588987983663071232",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Nov 05 20:13:51 +0000 2022",
-      "favorited" : false,
-      "full_text" : "So I tried to make a #Mastodon account yesterday, but apparently it's \"not possible\" on https://t.co/bG1TnaevRD right now.\n\nI know I can use any server, but the choice seems kind of arbitrary and I don't want to move my account later unnecessarily. Should I keep waiting?",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1588722026591977472"
-          ],
-          "editableUntil" : "2022-11-05T03:07:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "94"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1588722026591977472",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1588722026591977472",
-      "created_at" : "Sat Nov 05 02:37:02 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I think I submitted more changelists this week than I have all year.\n\nThanks no meetings week!",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1588612241582325760"
-          ],
-          "editableUntil" : "2022-11-04T19:50:48.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "TwitterLayoffs",
-            "indices" : [
-              "46",
-              "61"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "259"
-      ],
-      "favorite_count" : "6",
-      "id_str" : "1588612241582325760",
-      "truncated" : false,
-      "retweet_count" : "2",
-      "id" : "1588612241582325760",
-      "created_at" : "Fri Nov 04 19:20:48 +0000 2022",
-      "favorited" : false,
-      "full_text" : "My heart goes out to everyone affected by the #TwitterLayoffs. You were the unfortunate pawns in a billionaire's game of chicken.\n\nTo everyone still there: You don't owe him or the company *anything*. There are better bosses out there, and you deserve better.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1588418378842394625"
-          ],
-          "editableUntil" : "2022-11-04T07:00:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "261"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1588418377432694784",
-      "id_str" : "1588418378842394625",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1588418378842394625",
-      "in_reply_to_status_id" : "1588418377432694784",
-      "created_at" : "Fri Nov 04 06:30:27 +0000 2022",
-      "favorited" : false,
-      "full_text" : "It ends diving into import maps and how browser support isn't quite there yet but you don't need a bundler anymore or any other module systems.\n\nThe Junior eng says \"Ok, I did it!\"\n\n\"What approach did you choose?\"\n\n\"I added a second `script` tag with a global.\"",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1588418377432694784"
-          ],
-          "editableUntil" : "2022-11-04T07:00:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "TikTok",
-            "indices" : [
-              "17",
-              "24"
-            ]
-          },
-          {
-            "text" : "JavaScript",
-            "indices" : [
-              "151",
-              "162"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1588418377432694784",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1588418377432694784",
-      "created_at" : "Fri Nov 04 06:30:27 +0000 2022",
-      "favorited" : false,
-      "full_text" : "If I ever make a #TikTok, I'm absolutely going to make a back-and-forth discussion between a senior and junior dev explaining \"how to import a file in #JavaScript\".\n\nSenior explains the different options and their trade-offs and history while Junior utterly fails to understand.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1588357930201796608"
-          ],
-          "editableUntil" : "2022-11-04T03:00:15.480Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Martin Fowler",
-            "screen_name" : "martinfowler",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "16665197",
-            "id" : "16665197"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1588357930201796608",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1588357930201796608",
-      "created_at" : "Fri Nov 04 02:30:15 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @martinfowler: I agree, this is as good as people say. An amusing and fast summary of why content moderation is so hard \n\nhttps://t.co/F…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1587905305303662592"
-          ],
-          "editableUntil" : "2022-11-02T21:01:41.295Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jake Bailey",
-            "screen_name" : "andhaveaniceday",
-            "indices" : [
-              "3",
-              "19"
-            ],
-            "id_str" : "1391857179863306241",
-            "id" : "1391857179863306241"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1587905305303662592",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1587905305303662592",
-      "created_at" : "Wed Nov 02 20:31:41 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @andhaveaniceday: After months of work (and years before me!), I've just sent the PR that converts TypeScript itself to modules. The com…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1587529406506934272"
-          ],
-          "editableUntil" : "2022-11-01T20:08:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "121"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1587529406506934272",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1587529406506934272",
-      "created_at" : "Tue Nov 01 19:38:00 +0000 2022",
-      "favorited" : false,
-      "full_text" : "My pet peeve is CLI commands which look like:\n\nmy-cmd do-a-thing --actually-do-a-completely-different-thing-instead-sorry",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1587258030680289280"
-          ],
-          "editableUntil" : "2022-11-01T02:09:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "130"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1587258029497495553",
-      "id_str" : "1587258030680289280",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1587258030680289280",
-      "in_reply_to_status_id" : "1587258029497495553",
-      "created_at" : "Tue Nov 01 01:39:38 +0000 2022",
-      "favorited" : false,
-      "full_text" : "What were the genuinely new innovations in Elden Ring beyond the open world? I'm kind of curious what the big design changes were?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1587258029497495553"
-          ],
-          "editableUntil" : "2022-11-01T02:09:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "271"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1587258028151013376",
-      "id_str" : "1587258029497495553",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1587258029497495553",
-      "in_reply_to_status_id" : "1587258028151013376",
-      "created_at" : "Tue Nov 01 01:39:38 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Allocating flasks, stronger glowy eyed enemies, death spitting frogs, knight enemies, the Falchion sword, etc.\n\nI'm all for reusing content where appropriate, but now I feel like all the innovation I *thought* was in Elden Ring was actually in DS3 and I just didn't know.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
     }
   },
   {
@@ -41310,7 +43645,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Laurie Voss moved to @seldo@mastodon.social",
+            "name" : "Laurie Voss moved to @seldo@alpaca.gold",
             "screen_name" : "seldo",
             "indices" : [
               "0",
@@ -41675,7 +44010,7 @@ module.exports = [
             "id" : "229237555"
           },
           {
-            "name" : "@criswell@mastodon.social",
+            "name" : "@criswell@fosstodon.org",
             "screen_name" : "crswll",
             "indices" : [
               "14",
@@ -41788,7 +44123,7 @@ module.exports = [
       "favorite_count" : "35",
       "id_str" : "1486466770416275458",
       "truncated" : false,
-      "retweet_count" : "5",
+      "retweet_count" : "4",
       "id" : "1486466770416275458",
       "possibly_sensitive" : false,
       "created_at" : "Wed Jan 26 22:31:09 +0000 2022",
@@ -42616,7 +44951,7 @@ module.exports = [
         "0",
         "277"
       ],
-      "favorite_count" : "1",
+      "favorite_count" : "0",
       "id_str" : "1485461774123950082",
       "truncated" : false,
       "retweet_count" : "0",
@@ -43199,16 +45534,6 @@ module.exports = [
             ],
             "id_str" : "242521242",
             "id" : "242521242"
-          },
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "78",
-              "93"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
           }
         ],
         "urls" : [ ]
@@ -43856,7 +46181,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Sacha Greif",
+            "name" : "Sacha Greif @sachagreif@hachyderm.io",
             "screen_name" : "SachaGreif",
             "indices" : [
               "3",
@@ -46374,18 +48699,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -46425,18 +48739,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -46455,7 +48758,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman Spread can be clearer in more elaborate cases like:\n\n[first, ...rest, last]\n\nIt's just the singular [...x] where I think Array.from() is a clear winner.\n\nI guess array conversion should be verbose for clarity, but concatenation should use spread to reduce noise.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -47011,7 +49313,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Laurie Voss moved to @seldo@mastodon.social",
+            "name" : "Laurie Voss moved to @seldo@alpaca.gold",
             "screen_name" : "seldo",
             "indices" : [
               "3",
@@ -48206,7 +50508,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Laurie Voss moved to @seldo@mastodon.social",
+            "name" : "Laurie Voss moved to @seldo@alpaca.gold",
             "screen_name" : "seldo",
             "indices" : [
               "3",
@@ -48364,6 +50666,991 @@ module.exports = [
       "created_at" : "Wed Dec 08 02:36:20 +0000 2021",
       "favorited" : false,
       "full_text" : "Or... maybe it's a brilliant idea and it's all cover for a hidden cryptocurrency scheme named #Angular with seemingly legit #SEO. 🤔",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592258831731789824"
+          ],
+          "editableUntil" : "2022-11-14T21:21:02.880Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Eleventy 🎈🐘 fosstodon.org/@eleventy",
+            "screen_name" : "eleven_ty",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "949639269433380864",
+            "id" : "949639269433380864"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "146"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1592258831731789824",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592258831731789824",
+      "created_at" : "Mon Nov 14 20:51:02 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @eleven_ty: Now shipping: &lt;is-land&gt; v3.0.0\n\nAdds support for Declarative Shadow DOM, `defer-hydration` attribute, performance improvemen…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592206888279900160"
+          ],
+          "editableUntil" : "2022-11-14T17:54:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "171"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1592206888279900160",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592206888279900160",
+      "created_at" : "Mon Nov 14 17:24:38 +0000 2022",
+      "favorited" : false,
+      "full_text" : "It's a real shame that humans have 10 fingers instead of 8.\n\nProgrammers could do everything in octal *and* artists could draw fewer fingers. It would have been a win-win!",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592179422446354432"
+          ],
+          "editableUntil" : "2022-11-14T16:05:30.231Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sarah Drasner",
+            "screen_name" : "sarah_edo",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "813333008",
+            "id" : "813333008"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1592179422446354432",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592179422446354432",
+      "created_at" : "Mon Nov 14 15:35:30 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @sarah_edo: I’m not leaving for good, but the security and privacy issues are concerning me.\n\nI’ll be over on mastodon as sarah_edo@hach…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1592007861517053953"
+          ],
+          "editableUntil" : "2022-11-14T04:43:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "235"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1592007861517053953",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1592007861517053953",
+      "created_at" : "Mon Nov 14 04:13:46 +0000 2022",
+      "favorited" : false,
+      "full_text" : "My favorite part of setting up a new phone is turning off all the notifications which get enabled by default.\n\nIt truly is incredible the amount of bullshit features PMs can make up to justify throwing their logo in front of your face.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591635867894153219"
+          ],
+          "editableUntil" : "2022-11-13T04:05:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "58"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1591635866761691137",
+      "id_str" : "1591635867894153219",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591635867894153219",
+      "in_reply_to_status_id" : "1591635866761691137",
+      "created_at" : "Sun Nov 13 03:35:36 +0000 2022",
+      "favorited" : false,
+      "full_text" : "So really just a great onboarding experience all around. 🙃",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591635866761691137"
+          ],
+          "editableUntil" : "2022-11-13T04:05:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1591633837897183232",
+      "id_str" : "1591635866761691137",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591635866761691137",
+      "in_reply_to_status_id" : "1591633837897183232",
+      "created_at" : "Sun Nov 13 03:35:36 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Also the \"restore from a previous device\" feature just hung for over 2 hours and had to be skipped.\n\nIt also pulled up a credit card (from Google Pay?) and asked me to set it up, but picked the tier-3 card that I basically never use with no alternatives to choose amongst.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591633837897183232"
+          ],
+          "editableUntil" : "2022-11-13T03:57:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "141"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1591633541879967747",
+      "id_str" : "1591633837897183232",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591633837897183232",
+      "in_reply_to_status_id" : "1591633541879967747",
+      "created_at" : "Sun Nov 13 03:27:32 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I'm going to assume that the default option is \"on\" for all these, and that's ball on the right.\n\nThat honestly looks like \"off\" to me but 🤷.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591633541879967747"
+          ],
+          "editableUntil" : "2022-11-13T03:56:22.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "0",
+              "7"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "225"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1591632912830504960",
+      "id_str" : "1591633541879967747",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591633541879967747",
+      "in_reply_to_status_id" : "1591632912830504960",
+      "created_at" : "Sun Nov 13 03:26:22 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@Google Ironically, the video makes it look like the ball on the right is on, but in person looking at the phone I think the ball on the left looks brighter and is actually the one that's \"on\" which only adds to my confusion.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591632912830504960"
+          ],
+          "editableUntil" : "2022-11-13T03:53:52.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "48",
+              "55"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1591632912830504960/video/1",
+            "indices" : [
+              "83",
+              "106"
+            ],
+            "url" : "https://t.co/bjIgHPlRO3",
+            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1591632503667712000/pu/img/jleL20qc6ppyvqMS.jpg",
+            "id_str" : "1591632503667712000",
+            "id" : "1591632503667712000",
+            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1591632503667712000/pu/img/jleL20qc6ppyvqMS.jpg",
+            "sizes" : {
+              "medium" : {
+                "w" : "675",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1080",
+                "h" : "1920",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "383",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/bjIgHPlRO3"
+          }
+        ],
+        "hashtags" : [
+          {
+            "text" : "Pixel6",
+            "indices" : [
+              "56",
+              "63"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "106"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1591632912830504960",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591632912830504960",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Nov 13 03:23:52 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Pop quiz: Which option is on and which is off?\n\n@Google #Pixel6 set up experience. https://t.co/bjIgHPlRO3",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1591632912830504960/video/1",
+            "indices" : [
+              "83",
+              "106"
+            ],
+            "url" : "https://t.co/bjIgHPlRO3",
+            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1591632503667712000/pu/img/jleL20qc6ppyvqMS.jpg",
+            "id_str" : "1591632503667712000",
+            "video_info" : {
+              "aspect_ratio" : [
+                "9",
+                "16"
+              ],
+              "duration_millis" : "5862",
+              "variants" : [
+                {
+                  "bitrate" : "632000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1591632503667712000/pu/vid/320x568/w9dNU-LMS6J2p9qY.mp4?tag=12"
+                },
+                {
+                  "content_type" : "application/x-mpegURL",
+                  "url" : "https://video.twimg.com/ext_tw_video/1591632503667712000/pu/pl/ePLrcoZ_TPmRE69q.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate" : "950000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1591632503667712000/pu/vid/480x852/pYPGnuOf9V2vqT8Y.mp4?tag=12"
+                },
+                {
+                  "bitrate" : "2176000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1591632503667712000/pu/vid/720x1280/NX1Y1En0uRYRZZKQ.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info" : {
+              "monetizable" : false
+            },
+            "id" : "1591632503667712000",
+            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1591632503667712000/pu/img/jleL20qc6ppyvqMS.jpg",
+            "sizes" : {
+              "medium" : {
+                "w" : "675",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1080",
+                "h" : "1920",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "383",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "video",
+            "display_url" : "pic.twitter.com/bjIgHPlRO3"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591620945239998465"
+          ],
+          "editableUntil" : "2022-11-13T03:06:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sarah Drasner",
+            "screen_name" : "sarah_edo",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "813333008",
+            "id" : "813333008"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "51"
+      ],
+      "favorite_count" : "2",
+      "in_reply_to_status_id_str" : "1591620676657369090",
+      "id_str" : "1591620945239998465",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591620945239998465",
+      "in_reply_to_status_id" : "1591620676657369090",
+      "created_at" : "Sun Nov 13 02:36:18 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@sarah_edo More seriously, I hope your thumb is ok!",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591620676657369090"
+          ],
+          "editableUntil" : "2022-11-13T03:05:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sarah Drasner",
+            "screen_name" : "sarah_edo",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "813333008",
+            "id" : "813333008"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "55"
+      ],
+      "favorite_count" : "3",
+      "in_reply_to_status_id_str" : "1591619323914641408",
+      "id_str" : "1591620676657369090",
+      "in_reply_to_user_id" : "813333008",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591620676657369090",
+      "in_reply_to_status_id" : "1591619323914641408",
+      "created_at" : "Sun Nov 13 02:35:14 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@sarah_edo I think you mean two 9s of thumbs-up time. 👍",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "sarah_edo",
+      "in_reply_to_user_id_str" : "813333008"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591513531975102464"
+          ],
+          "editableUntil" : "2022-11-12T19:59:29.571Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nicholas C. Zakas",
+            "screen_name" : "slicknet",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "17633960",
+            "id" : "17633960"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1591513531975102464",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591513531975102464",
+      "created_at" : "Sat Nov 12 19:29:29 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @slicknet: I'm not a fan of the Rust convention of having unit tests inside the same file as source. I find I'm constantly scrolling up…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591510668632821760"
+          ],
+          "editableUntil" : "2022-11-12T19:48:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Pawel Kozlowski",
+            "screen_name" : "pkozlowski_os",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "700882453",
+            "id" : "700882453"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "214"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1591346819468251136",
+      "id_str" : "1591510668632821760",
+      "in_reply_to_user_id" : "700882453",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591510668632821760",
+      "in_reply_to_status_id" : "1591346819468251136",
+      "created_at" : "Sat Nov 12 19:18:06 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@pkozlowski_os So do components automatically dispose their signals when they clean themselves up as part of `createRoot()`? I'm not seeing that in the source, but I'm also not really following all these callbacks.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "pkozlowski_os",
+      "in_reply_to_user_id_str" : "700882453"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591238547717361664"
+          ],
+          "editableUntil" : "2022-11-12T01:46:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "130"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1591238546295521281",
+      "id_str" : "1591238547717361664",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591238547717361664",
+      "in_reply_to_status_id" : "1591238546295521281",
+      "created_at" : "Sat Nov 12 01:16:48 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Is a mark-and-sweep GC strategy able to handle signals with this data structure or am I missing an implicit unsubscribe somewhere?",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591238546295521281"
+          ],
+          "editableUntil" : "2022-11-12T01:46:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/yWU1hbzfSH",
+            "expanded_url" : "https://github.com/solidjs/solid/blob/40d6db6029efcb2e68d4df2b4cdf1b3644a771bb/packages/solid/src/reactive/signal.ts#L44",
+            "display_url" : "github.com/solidjs/solid/…",
+            "indices" : [
+              "205",
+              "228"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "228"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1591238545150447616",
+      "id_str" : "1591238546295521281",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591238546295521281",
+      "in_reply_to_status_id" : "1591238545150447616",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Nov 12 01:16:47 +0000 2022",
+      "favorited" : false,
+      "full_text" : "AFAICT, each signal in the graph contains a list of all its reverse dependencies (all signals who depend on it). This feels circular to me and I don't see how the browser could clean up those references.\n\nhttps://t.co/yWU1hbzfSH",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1591238545150447616"
+          ],
+          "editableUntil" : "2022-11-12T01:46:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "SolidJS",
+            "indices" : [
+              "21",
+              "29"
+            ]
+          },
+          {
+            "text" : "signals",
+            "indices" : [
+              "30",
+              "38"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "128"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1591238545150447616",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1591238545150447616",
+      "created_at" : "Sat Nov 12 01:16:47 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Anyone familiar with #SolidJS #signals able to help me understand why they don't leak memory? Why don't you need to unsubscribe?",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590960473260036096"
+          ],
+          "editableUntil" : "2022-11-11T07:21:50.098Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Open Web Advocacy",
+            "screen_name" : "OpenWebAdvocacy",
+            "indices" : [
+              "3",
+              "19"
+            ],
+            "id_str" : "1443933752757915650",
+            "id" : "1443933752757915650"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1590960473260036096",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590960473260036096",
+      "created_at" : "Fri Nov 11 06:51:50 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @OpenWebAdvocacy: The ACCC, The Australian Regulator 🇦🇺 has published a paper which has great news for competition in Browsers and Web A…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590959013944229888"
+          ],
+          "editableUntil" : "2022-11-11T07:16:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "GodOfWarRagnarok",
+            "indices" : [
+              "0",
+              "17"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "45"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1590959013944229888",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590959013944229888",
+      "created_at" : "Fri Nov 11 06:46:02 +0000 2022",
+      "favorited" : false,
+      "full_text" : "#GodOfWarRagnarok - Why is the compass drunk?",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590888550874374144"
+          ],
+          "editableUntil" : "2022-11-11T02:36:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "WebDev",
+            "indices" : [
+              "154",
+              "161"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/OfURSPnKEP",
+            "expanded_url" : "http://techhub.social",
+            "display_url" : "techhub.social",
+            "indices" : [
+              "53",
+              "76"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "191"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1590887596821196800",
+      "id_str" : "1590888550874374144",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590888550874374144",
+      "in_reply_to_status_id" : "1590887596821196800",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Nov 11 02:06:02 +0000 2022",
+      "favorited" : false,
+      "full_text" : "And literally as soon as I posted this it looks like https://t.co/OfURSPnKEP is down. 🤦\n\nTBH I picked the server kinda arbitrarily. Would love to see the #WebDev community land on a good one.",
       "lang" : "en",
       "in_reply_to_screen_name" : "develwoutacause",
       "in_reply_to_user_id_str" : "1189618278848532480"
@@ -49492,18 +52779,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -49522,7 +52798,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman For a scarier number, how many trees are cut down annually for \"black friday deals\" mail and spammed to customers who immediately throw them away?",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -50317,7 +53592,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Laurie Voss moved to @seldo@mastodon.social",
+            "name" : "Laurie Voss moved to @seldo@alpaca.gold",
             "screen_name" : "seldo",
             "indices" : [
               "3",
@@ -50978,1051 +54253,6 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1587258028151013376"
-          ],
-          "editableUntil" : "2022-11-01T02:09:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "DarkSouls",
-            "indices" : [
-              "26",
-              "36"
-            ]
-          },
-          {
-            "text" : "Bloodbourne",
-            "indices" : [
-              "70",
-              "82"
-            ]
-          },
-          {
-            "text" : "EldenRing",
-            "indices" : [
-              "87",
-              "97"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "223"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1587258028151013376",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1587258028151013376",
-      "created_at" : "Tue Nov 01 01:39:38 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I never got too much into #DarkSouls. I did play a bit of DS1, all of #Bloodbourne and #EldenRing. Now, watching a DS3 playthrough I realize how much of Elden Ring was just copied from DS3: mechanics, enemies, weapons, etc.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1587241798304337920"
-          ],
-          "editableUntil" : "2022-11-01T01:05:08.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "MineCraft",
-            "indices" : [
-              "40",
-              "50"
-            ]
-          },
-          {
-            "text" : "ComputerCraft",
-            "indices" : [
-              "53",
-              "67"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Mark \"Mayor\" Techson",
-            "screen_name" : "marktechson",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "4184075433",
-            "id" : "4184075433"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/wqTacElbiW",
-            "expanded_url" : "https://www.computercraft.info/",
-            "display_url" : "computercraft.info",
-            "indices" : [
-              "268",
-              "291"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "291"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1587210964193013760",
-      "id_str" : "1587241798304337920",
-      "in_reply_to_user_id" : "4184075433",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1587241798304337920",
-      "in_reply_to_status_id" : "1587210964193013760",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Nov 01 00:35:08 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@marktechson I learned a bit of Lua for #MineCraft's #ComputerCraft mod, it wasn't too bad. I made a door which only opened to player-specific logins.\n\nThat said, if you want to build a small game, there are enough engines that you can probably pick your lang right?\n\nhttps://t.co/wqTacElbiW",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "marktechson",
-      "in_reply_to_user_id_str" : "4184075433"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1587163943100825600"
-          ],
-          "editableUntil" : "2022-10-31T19:55:46.772Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Marco Rogers",
-            "screen_name" : "polotek",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "20079975",
-            "id" : "20079975"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1587163943100825600",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1587163943100825600",
-      "created_at" : "Mon Oct 31 19:25:46 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @polotek: I was just about to tell people what I see. I'm going to try to be as candid as I can be. And this is also coming from the per…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1586487328779821056"
-          ],
-          "editableUntil" : "2022-10-29T23:07:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "49"
-      ],
-      "favorite_count" : "5",
-      "id_str" : "1586487328779821056",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1586487328779821056",
-      "created_at" : "Sat Oct 29 22:37:09 +0000 2022",
-      "favorited" : false,
-      "full_text" : "git commit -m \"Feeling cute, might revert later.\"",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1586438959428616192"
-          ],
-          "editableUntil" : "2022-10-29T19:54:57.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Dylan Hunn",
-            "screen_name" : "dylhunn",
-            "indices" : [
-              "131",
-              "139"
-            ],
-            "id_str" : "67345995",
-            "id" : "67345995"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/EDjFiLPGg9",
-            "expanded_url" : "https://twitter.com/dylhunn/status/1579861723611246592",
-            "display_url" : "twitter.com/dylhunn/status…",
-            "indices" : [
-              "141",
-              "164"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "164"
-      ],
-      "favorite_count" : "44",
-      "id_str" : "1586438959428616192",
-      "truncated" : false,
-      "retweet_count" : "4",
-      "id" : "1586438959428616192",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Oct 29 19:24:57 +0000 2022",
-      "favorited" : false,
-      "full_text" : "This is a game changer for Angular development and removes a whole class of \"how do I depend on this thing\" issues.\n\nAwesome stuff @dylhunn! https://t.co/EDjFiLPGg9",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1586098601549144064"
-          ],
-          "editableUntil" : "2022-10-28T21:22:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [ ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1586098601549144064/photo/1",
-            "indices" : [
-              "49",
-              "72"
-            ],
-            "url" : "https://t.co/8o60SjMZBu",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/FgL0RKdVEAA0y-F.jpg",
-            "id_str" : "1586098594490159104",
-            "id" : "1586098594490159104",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/FgL0RKdVEAA0y-F.jpg",
-            "sizes" : {
-              "small" : {
-                "w" : "260",
-                "h" : "172",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "260",
-                "h" : "172",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "medium" : {
-                "w" : "260",
-                "h" : "172",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/8o60SjMZBu"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "72"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1586098592220991489",
-      "id_str" : "1586098601549144064",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1586098601549144064",
-      "in_reply_to_status_id" : "1586098592220991489",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Oct 28 20:52:29 +0000 2022",
-      "favorited" : false,
-      "full_text" : "It's basically this feeling given a formal name. https://t.co/8o60SjMZBu",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1586098601549144064/photo/1",
-            "indices" : [
-              "49",
-              "72"
-            ],
-            "url" : "https://t.co/8o60SjMZBu",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/FgL0RKdVEAA0y-F.jpg",
-            "id_str" : "1586098594490159104",
-            "video_info" : {
-              "aspect_ratio" : [
-                "65",
-                "43"
-              ],
-              "variants" : [
-                {
-                  "bitrate" : "0",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/tweet_video/FgL0RKdVEAA0y-F.mp4"
-                }
-              ]
-            },
-            "id" : "1586098594490159104",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/FgL0RKdVEAA0y-F.jpg",
-            "sizes" : {
-              "small" : {
-                "w" : "260",
-                "h" : "172",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "260",
-                "h" : "172",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "medium" : {
-                "w" : "260",
-                "h" : "172",
-                "resize" : "fit"
-              }
-            },
-            "type" : "animated_gif",
-            "display_url" : "pic.twitter.com/8o60SjMZBu"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1586098592220991489"
-          ],
-          "editableUntil" : "2022-10-28T21:22:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "135"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1586098590971092992",
-      "id_str" : "1586098592220991489",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1586098592220991489",
-      "in_reply_to_status_id" : "1586098590971092992",
-      "created_at" : "Fri Oct 28 20:52:27 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Example: I don't interview candidates, but I have gone through interview training, because I was robotold and couldn't find an opt-out.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1586098590971092992"
-          ],
-          "editableUntil" : "2022-10-28T21:22:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "189"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1586098590971092992",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1586098590971092992",
-      "created_at" : "Fri Oct 28 20:52:27 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I'd like to define a new word: \"Robotold\"\n\nVerb. Derived from \"voluntold\", it means \"to be obligated to do something for reasons known only to a computer or which don't make logical sense\".",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1586087590683242496"
-          ],
-          "editableUntil" : "2022-10-28T20:38:44.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Dionatan",
-            "screen_name" : "Dionatang_",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "159810035",
-            "id" : "159810035"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Tr6kiF8amC",
-            "expanded_url" : "https://twitter.com/reckless/status/1585980717103972364?s=20&t=v0DhMbp6qLW2-sSnQxR3Hg",
-            "display_url" : "twitter.com/reckless/statu…",
-            "indices" : [
-              "149",
-              "172"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "172"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1585827984031633408",
-      "id_str" : "1586087590683242496",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1586087590683242496",
-      "in_reply_to_status_id" : "1585827984031633408",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Oct 28 20:08:44 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@Dionatang_ Pretty much exactly my thoughts on the matter:\n\n\"The essential truth of every social network is that the product is content moderation\"\n\nhttps://t.co/Tr6kiF8amC",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1585886921527476224"
-          ],
-          "editableUntil" : "2022-10-28T07:21:21.103Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Patrick Balestra",
-            "screen_name" : "BalestraPatrick",
-            "indices" : [
-              "3",
-              "19"
-            ],
-            "id_str" : "344822973",
-            "id" : "344822973"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/LECQiF5IsR",
-            "expanded_url" : "https://timetoplayfair.com/audiobooks/",
-            "display_url" : "timetoplayfair.com/audiobooks/",
-            "indices" : [
-              "108",
-              "131"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1585886921527476224",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1585886921527476224",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Oct 28 06:51:21 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @BalestraPatrick: If you’re wondering why there was no Spotify iOS update in the last month, here’s why. https://t.co/LECQiF5IsR https:/…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1585827984031633408"
-          ],
-          "editableUntil" : "2022-10-28T03:27:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Dionatan",
-            "screen_name" : "Dionatang_",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "159810035",
-            "id" : "159810035"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "274"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1585805877684076545",
-      "id_str" : "1585827984031633408",
-      "in_reply_to_user_id" : "159810035",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1585827984031633408",
-      "in_reply_to_status_id" : "1585805877684076545",
-      "created_at" : "Fri Oct 28 02:57:09 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@Dionatang_ I have plenty of doubts about Elon as a leader.\n\nIn this case, it's primarily because he doesn't seem to have the slightest understanding of content moderation, despite that being the very foundational problem a social media platform like Twitter needs to solve.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "Dionatang_",
-      "in_reply_to_user_id_str" : "159810035"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1585780833197006850"
-          ],
-          "editableUntil" : "2022-10-28T00:19:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1585780537909686272",
-      "id_str" : "1585780833197006850",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1585780833197006850",
-      "in_reply_to_status_id" : "1585780537909686272",
-      "created_at" : "Thu Oct 27 23:49:47 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Also whatever the new thing is needs a damn edit button. I still don't have one!",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1585780541093122048"
-          ],
-          "editableUntil" : "2022-10-28T00:18:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "WebDevTwitter",
-            "indices" : [
-              "180",
-              "194"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "195"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1585780539725737985",
-      "id_str" : "1585780541093122048",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1585780541093122048",
-      "in_reply_to_status_id" : "1585780539725737985",
-      "created_at" : "Thu Oct 27 23:48:38 +0000 2022",
-      "favorited" : false,
-      "full_text" : "That said, I'm not particularly tied to this platform. I'm on board to jump ship if we find something *not* owned by a sociopath and can reach critical mass.\n\nSo where we droppin' #WebDevTwitter?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1585780539725737985"
-          ],
-          "editableUntil" : "2022-10-28T00:18:37.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "221"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1585780537909686272",
-      "id_str" : "1585780539725737985",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1585780539725737985",
-      "in_reply_to_status_id" : "1585780537909686272",
-      "created_at" : "Thu Oct 27 23:48:37 +0000 2022",
-      "favorited" : false,
-      "full_text" : "That said, I doubt this app will die overnight. Most people won't suddenly leave because revenue goes to a new person.\n\nThey'll leave slowly, as that person progressively destroys all value they were getting from the app.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1585780537909686272"
-          ],
-          "editableUntil" : "2022-10-28T00:18:37.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "99"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1585780537909686272",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1585780537909686272",
-      "created_at" : "Thu Oct 27 23:48:37 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I'll put my stake down now thag Elon Musk is a terrible fit to run Twitter and this will end badly.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1585413546526969856"
-          ],
-          "editableUntil" : "2022-10-27T00:00:19.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "102"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1585413546526969856",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1585413546526969856",
-      "created_at" : "Wed Oct 26 23:30:19 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I'll never understand why we don't have logical `xor` as a standard operator in programming languages.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1585394490302672896"
-          ],
-          "editableUntil" : "2022-10-26T22:44:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1585394490302672896",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1585394490302672896",
-      "created_at" : "Wed Oct 26 22:14:36 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Is there a standard term for an HTTP request/response pair? Best I've got is \"HTTP connection\", but that's a bit vague.\n\nIs there a standard term for \"either an HTTP request or an HTTP response\"? No idea for this one.\n\nIt's so hard to communicate ideas without the right language.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584782585808719873"
-          ],
-          "editableUntil" : "2022-10-25T06:13:06.950Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Eric Seufert",
-            "screen_name" : "eric_seufert",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "167771431",
-            "id" : "167771431"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1584782585808719873",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584782585808719873",
-      "created_at" : "Tue Oct 25 05:43:06 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @eric_seufert: Apple has update its App Store guidelines to require that social media post “boosts” be purchased as IAPs, entitling Appl…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584646721308884992"
-          ],
-          "editableUntil" : "2022-10-24T21:13:14.329Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "AngularDay",
-            "indices" : [
-              "119",
-              "130"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Angular",
-            "screen_name" : "angular",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "202230373",
-            "id" : "202230373"
-          },
-          {
-            "name" : "Madleina",
-            "screen_name" : "Madleina_S",
-            "indices" : [
-              "86",
-              "97"
-            ],
-            "id_str" : "1454199609253777414",
-            "id" : "1454199609253777414"
-          },
-          {
-            "name" : "Minko Gechev",
-            "screen_name" : "mgechev",
-            "indices" : [
-              "102",
-              "110"
-            ],
-            "id_str" : "178817640",
-            "id" : "178817640"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1584646721308884992",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584646721308884992",
-      "created_at" : "Mon Oct 24 20:43:14 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @angular: Wondering what's going on in the world of Angular? You're in luck!\n\nJoin @Madleina_S and @mgechev in this #AngularDay session…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584637211555028994"
-          ],
-          "editableUntil" : "2022-10-24T20:35:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Google",
-            "indices" : [
-              "29",
-              "36"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "272"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1584637211555028994",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584637211555028994",
-      "created_at" : "Mon Oct 24 20:05:27 +0000 2022",
-      "favorited" : false,
-      "full_text" : "The worst part of working at #Google is that you'll do a search for \"publish internal-only Chrome extension\" and get a bunch of design docs from the Chrome team about supporting enterprise extensions and no content at all about how to make a Google-internal extension.🤦‍♂️",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1462923180662616064"
           ],
           "editableUntil" : "2021-11-22T23:47:20.725Z",
@@ -52188,7 +54418,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "@changelog@changelog.social",
+            "name" : "Changelog",
             "screen_name" : "changelog",
             "indices" : [
               "0",
@@ -57054,7 +59284,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "@shipit@changelog.social",
+            "name" : "Ship It! 🚀",
             "screen_name" : "ShipItFM",
             "indices" : [
               "3",
@@ -58293,7 +60523,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "3",
@@ -59074,7 +61304,7 @@ module.exports = [
       "entities" : {
         "user_mentions" : [
           {
-            "name" : "Leo Balter",
+            "name" : "Balter",
             "screen_name" : "leobalter",
             "indices" : [
               "0",
@@ -59219,7 +61449,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "0",
@@ -59270,7 +61500,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "0",
@@ -60685,7 +62915,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Adri tropicadri@indieweb.social",
+            "name" : "Adri tropicadri@hachyderm.io",
             "screen_name" : "tropicadri",
             "indices" : [
               "3",
@@ -61276,6 +63506,968 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1590887604836511744"
+          ],
+          "editableUntil" : "2022-11-11T02:32:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "252"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1590887603272036353",
+      "id_str" : "1590887604836511744",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590887604836511744",
+      "in_reply_to_status_id" : "1590887603272036353",
+      "created_at" : "Fri Nov 11 02:02:16 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I'll probably hang out here for at least a bit since this whole fiasco is nothing if not entertaining. Definitely hoping to wind it down though.\n\nDo follow me on Mastodon though if you're at all interested in shitposts of things *other* than Twitter. 😅",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590887603272036353"
+          ],
+          "editableUntil" : "2022-11-11T02:32:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "205"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1590887601820807170",
+      "id_str" : "1590887603272036353",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590887603272036353",
+      "in_reply_to_status_id" : "1590887601820807170",
+      "created_at" : "Fri Nov 11 02:02:16 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I also have no faith Twitter can respect and maintain user privacy or security anymore given exactly how the change in ownership went down. I'm honestly debating deleting this account just for that reason.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590887601820807170"
+          ],
+          "editableUntil" : "2022-11-11T02:32:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "221"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1590887600277295106",
+      "id_str" : "1590887601820807170",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590887601820807170",
+      "in_reply_to_status_id" : "1590887600277295106",
+      "created_at" : "Fri Nov 11 02:02:16 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Moderation *is* Twitter's key feature yet it's new owner has zero understanding of that, which I think spells long term doom. I just feel terrible for everyone who worked/works at Twitter and hope they land on their feet.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590887600277295106"
+          ],
+          "editableUntil" : "2022-11-11T02:32:15.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "ChiefTwit",
+            "indices" : [
+              "117",
+              "127"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "271"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1590887598624747520",
+      "id_str" : "1590887600277295106",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590887600277295106",
+      "in_reply_to_status_id" : "1590887598624747520",
+      "created_at" : "Fri Nov 11 02:02:15 +0000 2022",
+      "favorited" : false,
+      "full_text" : "For the record, I'm not convinced Mastodon will ever go mainstream or that Twitter will die anytime soon (though the #ChiefTwit has surprised me before). I think it's more likely that the next big social media gimmick will just have an easier time taking Twitter's users.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590887598624747520"
+          ],
+          "editableUntil" : "2022-11-11T02:32:15.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "239"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1590887596821196800",
+      "id_str" : "1590887598624747520",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590887598624747520",
+      "in_reply_to_status_id" : "1590887596821196800",
+      "created_at" : "Fri Nov 11 02:02:15 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I've never personally been very tied to Twitter. I mainly joined to be a part of the web community, but I really don't care where that community goes. I'm just happy to be part of it, and I think we can build something similar on Mastodon.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590887596821196800"
+          ],
+          "editableUntil" : "2022-11-11T02:32:15.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Mastodon",
+            "indices" : [
+              "25",
+              "34"
+            ]
+          },
+          {
+            "text" : "WebDev",
+            "indices" : [
+              "92",
+              "99"
+            ]
+          },
+          {
+            "text" : "Twitter",
+            "indices" : [
+              "240",
+              "248"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Y51jGYCmXd",
+            "expanded_url" : "https://techhub.social/@develwithoutacause",
+            "display_url" : "techhub.social/@develwithouta…",
+            "indices" : [
+              "251",
+              "274"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "274"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1590887596821196800",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1590887596821196800",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Nov 11 02:02:15 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Like many of you, I'm on #Mastodon now!\n\n@develwithoutacause@techhub.social\n\nI'm hoping the #WebDev community can find a new home there.\n\nI'll probably cross-post here for at least a little while and see how I actually enjoy it compared to #Twitter.\n\nhttps://t.co/Y51jGYCmXd",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590854934500872193"
+          ],
+          "editableUntil" : "2022-11-11T00:22:27.697Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Grady Booch",
+            "screen_name" : "Grady_Booch",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "397689316",
+            "id" : "397689316"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1590854934500872193",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590854934500872193",
+      "created_at" : "Thu Nov 10 23:52:27 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @Grady_Booch: I have to agree with Quentin.\n\nAs a developer, you have to not only do great tech, you have to consider the legal and ethi…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590790217451319298"
+          ],
+          "editableUntil" : "2022-11-10T20:05:17.950Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1590790217451319298",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590790217451319298",
+      "created_at" : "Thu Nov 10 19:35:17 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular: Want to learn how to get started with Standalone Components AND build a chatbot powered by Google Cloud Platform? \n\nThen you'r…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1590094648814755840"
+          ],
+          "editableUntil" : "2022-11-08T22:01:21.464Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Alex Russell",
+            "screen_name" : "slightlylate",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "229237555",
+            "id" : "229237555"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/S2avStd1Ew",
+            "expanded_url" : "https://chromestatus.com/feature/5743740178137088",
+            "display_url" : "chromestatus.com/feature/574374…",
+            "indices" : [
+              "99",
+              "122"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1590094648814755840",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1590094648814755840",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Nov 08 21:31:21 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @slightlylate: It would be funny if it wasn't sad. Inline replies shipped in Chromium in 2018:\n\nhttps://t.co/S2avStd1Ew\n\nNotification Ac…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1589797083036684289"
+          ],
+          "editableUntil" : "2022-11-08T02:18:56.254Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mark \"Mayor\" Techson",
+            "screen_name" : "marktechson",
+            "indices" : [
+              "3",
+              "15"
+            ],
+            "id_str" : "4184075433",
+            "id" : "4184075433"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1589797083036684289",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1589797083036684289",
+      "created_at" : "Tue Nov 08 01:48:56 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @marktechson: I got super frustrated with an issue and I was ready to toss my keyboard across the room.\n\nI got up, walked away and asked…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1589765548120092672"
+          ],
+          "editableUntil" : "2022-11-08T00:13:37.744Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Steve Krenzel",
+            "screen_name" : "stevekrenzel",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "950920933",
+            "id" : "950920933"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1589765548120092672",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1589765548120092672",
+      "created_at" : "Mon Nov 07 23:43:37 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @stevekrenzel: With Twitter's change in ownership last week, I'm probably in the clear to talk about the most unethical thing I was aske…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1589002009071734784"
+          ],
+          "editableUntil" : "2022-11-05T21:39:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sensible Politics",
+            "screen_name" : "SensiblePoliti9",
+            "indices" : [
+              "0",
+              "16"
+            ],
+            "id_str" : "1320211854405390336",
+            "id" : "1320211854405390336"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "297"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1588991667423825920",
+      "id_str" : "1589002009071734784",
+      "in_reply_to_user_id" : "1320211854405390336",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1589002009071734784",
+      "in_reply_to_status_id" : "1588991667423825920",
+      "created_at" : "Sat Nov 05 21:09:35 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@SensiblePoliti9 \"Not going to disappear\" and \"moderates content\" both sound like pretty important things and both reasons why I'd prefer the biggest one maintained by the creator.\n\nBeyond that, none of the other servers really stand out as particularly relevant to me. Am I looking at this wrong?",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "SensiblePoliti9",
+      "in_reply_to_user_id_str" : "1320211854405390336"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1588989451069722625"
+          ],
+          "editableUntil" : "2022-11-05T20:49:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sensible Politics",
+            "screen_name" : "SensiblePoliti9",
+            "indices" : [
+              "0",
+              "16"
+            ],
+            "id_str" : "1320211854405390336",
+            "id" : "1320211854405390336"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/bG1TnaevRD",
+            "expanded_url" : "http://mastodon.social",
+            "display_url" : "mastodon.social",
+            "indices" : [
+              "244",
+              "267"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "268"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1588989155044098048",
+      "id_str" : "1588989451069722625",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1588989451069722625",
+      "in_reply_to_status_id" : "1588989155044098048",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Nov 05 20:19:41 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@SensiblePoliti9 I guess the messaging feels contradictory of \"you must pick a server for your account\", but also \"the server doesn't matter so don't worry about it\".\n\nIs it weird that people naturally gravitate towards the \"default\" option of https://t.co/bG1TnaevRD?",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1588989155044098048"
+          ],
+          "editableUntil" : "2022-11-05T20:48:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sensible Politics",
+            "screen_name" : "SensiblePoliti9",
+            "indices" : [
+              "0",
+              "16"
+            ],
+            "id_str" : "1320211854405390336",
+            "id" : "1320211854405390336"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "239"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1588988717867618304",
+      "id_str" : "1588989155044098048",
+      "in_reply_to_user_id" : "1320211854405390336",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1588989155044098048",
+      "in_reply_to_status_id" : "1588988717867618304",
+      "created_at" : "Sat Nov 05 20:18:31 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@SensiblePoliti9 I definitely don't want to invest in building and moderating my own community. I could see a server just to host my own account with my own domain (if that's the right term?), like an email address for a personal web site.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "SensiblePoliti9",
+      "in_reply_to_user_id_str" : "1320211854405390336"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1588987985059778560"
+          ],
+          "editableUntil" : "2022-11-05T20:43:52.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "WebDevTwitter",
+            "indices" : [
+              "44",
+              "58"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/bG1TnaevRD",
+            "expanded_url" : "http://mastodon.social",
+            "display_url" : "mastodon.social",
+            "indices" : [
+              "148",
+              "171"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "172"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1588987983663071232",
+      "id_str" : "1588987985059778560",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1588987985059778560",
+      "in_reply_to_status_id" : "1588987983663071232",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Nov 05 20:13:52 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Alternatively, is there a particular server #WebDevTwitter is migrating towards? I see a lot of movement in my timeline, but it's generally towards https://t.co/bG1TnaevRD.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1588987983663071232"
+          ],
+          "editableUntil" : "2022-11-05T20:43:51.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Mastodon",
+            "indices" : [
+              "21",
+              "30"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/bG1TnaevRD",
+            "expanded_url" : "http://mastodon.social",
+            "display_url" : "mastodon.social",
+            "indices" : [
+              "88",
+              "111"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "271"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1588987983663071232",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1588987983663071232",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Nov 05 20:13:51 +0000 2022",
+      "favorited" : false,
+      "full_text" : "So I tried to make a #Mastodon account yesterday, but apparently it's \"not possible\" on https://t.co/bG1TnaevRD right now.\n\nI know I can use any server, but the choice seems kind of arbitrary and I don't want to move my account later unnecessarily. Should I keep waiting?",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1588722026591977472"
+          ],
+          "editableUntil" : "2022-11-05T03:07:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "94"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1588722026591977472",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1588722026591977472",
+      "created_at" : "Sat Nov 05 02:37:02 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I think I submitted more changelists this week than I have all year.\n\nThanks no meetings week!",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1588612241582325760"
+          ],
+          "editableUntil" : "2022-11-04T19:50:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "TwitterLayoffs",
+            "indices" : [
+              "46",
+              "61"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "259"
+      ],
+      "favorite_count" : "6",
+      "id_str" : "1588612241582325760",
+      "truncated" : false,
+      "retweet_count" : "2",
+      "id" : "1588612241582325760",
+      "created_at" : "Fri Nov 04 19:20:48 +0000 2022",
+      "favorited" : false,
+      "full_text" : "My heart goes out to everyone affected by the #TwitterLayoffs. You were the unfortunate pawns in a billionaire's game of chicken.\n\nTo everyone still there: You don't owe him or the company *anything*. There are better bosses out there, and you deserve better.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1588418378842394625"
+          ],
+          "editableUntil" : "2022-11-04T07:00:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "261"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1588418377432694784",
+      "id_str" : "1588418378842394625",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1588418378842394625",
+      "in_reply_to_status_id" : "1588418377432694784",
+      "created_at" : "Fri Nov 04 06:30:27 +0000 2022",
+      "favorited" : false,
+      "full_text" : "It ends diving into import maps and how browser support isn't quite there yet but you don't need a bundler anymore or any other module systems.\n\nThe Junior eng says \"Ok, I did it!\"\n\n\"What approach did you choose?\"\n\n\"I added a second `script` tag with a global.\"",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1588418377432694784"
+          ],
+          "editableUntil" : "2022-11-04T07:00:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "TikTok",
+            "indices" : [
+              "17",
+              "24"
+            ]
+          },
+          {
+            "text" : "JavaScript",
+            "indices" : [
+              "151",
+              "162"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1588418377432694784",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1588418377432694784",
+      "created_at" : "Fri Nov 04 06:30:27 +0000 2022",
+      "favorited" : false,
+      "full_text" : "If I ever make a #TikTok, I'm absolutely going to make a back-and-forth discussion between a senior and junior dev explaining \"how to import a file in #JavaScript\".\n\nSenior explains the different options and their trade-offs and history while Junior utterly fails to understand.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1420884859111710722"
           ],
           "editableUntil" : "2021-07-29T23:42:03.833Z",
@@ -61812,18 +65004,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -61842,7 +65023,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman \"[The U.S.] does not feel like a safe place to be in the long term, and I’m honestly not sure what to do about it.\"\n\nIt saddens me so much knowing that you and so many others feel this way. I hope this country turns things around, but make sure to take care of yourself first.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -63800,1022 +66980,6 @@ module.exports = [
       "lang" : "en",
       "in_reply_to_screen_name" : "develwoutacause",
       "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584095531676053505"
-          ],
-          "editableUntil" : "2022-10-23T08:43:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "205"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1584095530283515904",
-      "id_str" : "1584095531676053505",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584095531676053505",
-      "in_reply_to_status_id" : "1584095530283515904",
-      "created_at" : "Sun Oct 23 08:13:00 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I eventually just gave up as it's not worth the effort. I can't recall any other game I liked this much which was so thoroughly ruined by it's ending.\n\nI think I'm good on Metroid games for a little while.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584095530283515904"
-          ],
-          "editableUntil" : "2022-10-23T08:43:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "262"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1584095528865832961",
-      "id_str" : "1584095530283515904",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584095530283515904",
-      "in_reply_to_status_id" : "1584095528865832961",
-      "created_at" : "Sun Oct 23 08:13:00 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Metroid Prime itself is reasonably designed (again abusing the colored enemy mechanic), but at 140 missiles I clearly don't have enough and run out with 2/3 of his health remaining.\n\nThe plasma beam misses 80% of it's shots, and the white form chain freezes you.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584095528865832961"
-          ],
-          "editableUntil" : "2022-10-23T08:42:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "258"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1584095527443931136",
-      "id_str" : "1584095528865832961",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584095528865832961",
-      "in_reply_to_status_id" : "1584095527443931136",
-      "created_at" : "Sun Oct 23 08:12:59 +0000 2022",
-      "favorited" : false,
-      "full_text" : "The room after that is the worst in the game. Fission metroids suck, as they split into two with different resistances, so it takes 5-7 charge shots each. Nuanced platforming means you can't dodge without falling, so the only option is to just run past them.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584095527443931136"
-          ],
-          "editableUntil" : "2022-10-23T08:42:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "179"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1584095526043078657",
-      "id_str" : "1584095527443931136",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584095527443931136",
-      "in_reply_to_status_id" : "1584095526043078657",
-      "created_at" : "Sun Oct 23 08:12:59 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Eventually I discovered I was supposed to be using the plasma beam, but again, the game doesn't really communicate which weapon you're supposed to use outside the colored enemies.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584095526043078657"
-          ],
-          "editableUntil" : "2022-10-23T08:42:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "260"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1584095524654747649",
-      "id_str" : "1584095526043078657",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584095526043078657",
-      "in_reply_to_status_id" : "1584095524654747649",
-      "created_at" : "Sun Oct 23 08:12:59 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I didn't actually beat it though. The end of the game was just too frustrating.\n\nMeta Ridley took way too long because his final stage repeats a dash attack where he perfectly covers his mouth (the critical weak point) making it unreasonably difficult to stun.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584095524654747649"
-          ],
-          "editableUntil" : "2022-10-23T08:42:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "159"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1584095523161587712",
-      "id_str" : "1584095524654747649",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584095524654747649",
-      "in_reply_to_status_id" : "1584095523161587712",
-      "created_at" : "Sun Oct 23 08:12:58 +0000 2022",
-      "favorited" : false,
-      "full_text" : "There's also waaaay too much platforming for a single-stick FPS game. Too easy to fall and so much backtracking that certain rooms are infuriatingly memorable.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584095523161587712"
-          ],
-          "editableUntil" : "2022-10-23T08:42:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "250"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1584095521274150913",
-      "id_str" : "1584095523161587712",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584095523161587712",
-      "in_reply_to_status_id" : "1584095521274150913",
-      "created_at" : "Sun Oct 23 08:12:58 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Combat is the biggest complaint, single stick FPS just sucks.\n\nDifferent beam and super missiles mostly work, but do get tiring. It's hard to know which beam is actually the best for a given enemy except for the pirates who *require* a specific beam.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584095521274150913"
-          ],
-          "editableUntil" : "2022-10-23T08:42:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "153"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1584095519676039169",
-      "id_str" : "1584095521274150913",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584095521274150913",
-      "in_reply_to_status_id" : "1584095519676039169",
-      "created_at" : "Sun Oct 23 08:12:58 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Generally navigation and the hint system mostly worked fine, though I did need a walkthrough for a couple bits (fuck those invisible floating platforms).",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1584095519676039169"
-          ],
-          "editableUntil" : "2022-10-23T08:42:57.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "MetroidPrime",
-            "indices" : [
-              "20",
-              "33"
-            ]
-          },
-          {
-            "text" : "Metroid",
-            "indices" : [
-              "180",
-              "188"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "203"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1584095519676039169",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1584095519676039169",
-      "created_at" : "Sun Oct 23 08:12:57 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I've been replaying #MetroidPrime the last few weeks now that I'm an adult with critical thinking skills. Overall really enjoyed it. Definitely a very direct interpretation of the #Metroid formula to 3D.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1583654964752093184"
-          ],
-          "editableUntil" : "2022-10-22T03:32:21.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "42"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1583555109400690689",
-      "id_str" : "1583654964752093184",
-      "in_reply_to_user_id" : "102513397",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1583654964752093184",
-      "in_reply_to_status_id" : "1583555109400690689",
-      "created_at" : "Sat Oct 22 03:02:21 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@justinfagnani *Laughs in ibazel*\n\nSo yes.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "justinfagnani",
-      "in_reply_to_user_id_str" : "102513397"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1582838407461367808"
-          ],
-          "editableUntil" : "2022-10-19T21:27:38.711Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "3",
-              "17"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1582838407461367808",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1582838407461367808",
-      "created_at" : "Wed Oct 19 20:57:38 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @justinfagnani: In web development people so often reach for tooling to address complexity and perf problems.\n\nThat's usually just addin…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1582614173594243074"
-          ],
-          "editableUntil" : "2022-10-19T06:36:37.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "82"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1582614173594243074",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1582614173594243074",
-      "created_at" : "Wed Oct 19 06:06:37 +0000 2022",
-      "favorited" : false,
-      "full_text" : "The existence of \"content creators\" implies the existence of \"content destroyers\".",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1582009142918934528"
-          ],
-          "editableUntil" : "2022-10-17T14:32:26.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/dDCQXl6JWx",
-            "expanded_url" : "https://twitter.com/angular/status/1575019452445339648",
-            "display_url" : "twitter.com/angular/status…",
-            "indices" : [
-              "81",
-              "104"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "104"
-      ],
-      "favorite_count" : "4",
-      "id_str" : "1582009142918934528",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1582009142918934528",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Oct 17 14:02:26 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Lol at the community having just as much trouble with this question as we did. 🤣 https://t.co/dDCQXl6JWx",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1581678106158370816"
-          ],
-          "editableUntil" : "2022-10-16T16:37:01.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "179"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1581678105206194184",
-      "id_str" : "1581678106158370816",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1581678106158370816",
-      "in_reply_to_status_id" : "1581678105206194184",
-      "created_at" : "Sun Oct 16 16:07:01 +0000 2022",
-      "favorited" : false,
-      "full_text" : "So while I think this is ultimately a failed experiment, I figured I'd still share it to keep the conversation going and give another perspective on this particular problem space.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1581678105206194184"
-          ],
-          "editableUntil" : "2022-10-16T16:37:01.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Vite",
-            "indices" : [
-              "158",
-              "163"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "254"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1581678104207974400",
-      "id_str" : "1581678105206194184",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1581678105206194184",
-      "in_reply_to_status_id" : "1581678104207974400",
-      "created_at" : "Sun Oct 16 16:07:01 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Instead, I came to the conclusion that browsers don't have the necessary context to strip types effectively and this is better done in an ESM dev server like #Vite.  Such a server actually has all the same tooling usability benefits as the TC39 proposal.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1581678104207974400"
-          ],
-          "editableUntil" : "2022-10-16T16:37:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "TypeScript",
-            "indices" : [
-              "94",
-              "105"
-            ]
-          },
-          {
-            "text" : "JavaScript",
-            "indices" : [
-              "179",
-              "190"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1581678102731579394",
-      "id_str" : "1581678104207974400",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1581678104207974400",
-      "in_reply_to_status_id" : "1581678102731579394",
-      "created_at" : "Sun Oct 16 16:07:00 +0000 2022",
-      "favorited" : false,
-      "full_text" : "The core issue is that there's no clear mechanism for determining which scripts on a page are #TypeScript which needs to be transformed by the browser, and which scripts are real #JavaScript.\n\nThe obvious approaches (file extensions, `Content-Type`, attributes) have major flaws.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1581678102731579394"
-          ],
-          "editableUntil" : "2022-10-16T16:37:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "TC39",
-            "indices" : [
-              "70",
-              "75"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/9aPqxu6pfF",
-            "expanded_url" : "https://github.com/dgp1130/ts-transformer-extension/",
-            "display_url" : "github.com/dgp1130/ts-tra…",
-            "indices" : [
-              "235",
-              "258"
-            ]
-          },
-          {
-            "url" : "https://t.co/lj7MoZ3DfR",
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1569883800263610369",
-            "display_url" : "twitter.com/develwoutacaus…",
-            "indices" : [
-              "259",
-              "282"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "282"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1581678102731579394",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1581678102731579394",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Oct 16 16:07:00 +0000 2022",
-      "favorited" : false,
-      "full_text" : "So I decided to build this browser extension as an alternative to the #TC39 type annotations proposals to prototype the approach. It mostly works though I've come to the conclusion that this is not as workable as I initially thought.\n\nhttps://t.co/9aPqxu6pfF https://t.co/lj7MoZ3DfR",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1580357476909662209"
-          ],
-          "editableUntil" : "2022-10-13T01:09:18.774Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Angular",
-            "screen_name" : "angular",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "202230373",
-            "id" : "202230373"
-          },
-          {
-            "name" : "Dylan Hunn",
-            "screen_name" : "dylhunn",
-            "indices" : [
-              "62",
-              "70"
-            ],
-            "id_str" : "67345995",
-            "id" : "67345995"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1580357476909662209",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1580357476909662209",
-      "created_at" : "Thu Oct 13 00:39:18 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @angular: Are you using Typed Forms in your applications?\n\n@dylhunn walks us through Typed Forms, the most upvoted feature request for A…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1579924442855055360"
-          ],
-          "editableUntil" : "2022-10-11T20:28:35.410Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Angular",
-            "screen_name" : "angular",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "202230373",
-            "id" : "202230373"
-          },
-          {
-            "name" : "Doug Parker",
-            "screen_name" : "develwoutacause",
-            "indices" : [
-              "105",
-              "121"
-            ],
-            "id_str" : "1189618278848532480",
-            "id" : "1189618278848532480"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1579924442855055360",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1579924442855055360",
-      "created_at" : "Tue Oct 11 19:58:35 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @angular: Have you been frustrated when debugging a problem without a good error message? \n\nFear not! @develwoutacause takes you through…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1579373831919403008"
-          ],
-          "editableUntil" : "2022-10-10T08:00:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "Google Cloud",
-            "screen_name" : "googlecloud",
-            "indices" : [
-              "151",
-              "163"
-            ],
-            "id_str" : "19367815",
-            "id" : "19367815"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/jjsBqB05XO",
-            "expanded_url" : "http://g.co/cloudnext",
-            "display_url" : "g.co/cloudnext",
-            "indices" : [
-              "173",
-              "196"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1579373831919403008/photo/1",
-            "indices" : [
-              "197",
-              "220"
-            ],
-            "url" : "https://t.co/Msf4L14wAS",
-            "media_url" : "http://pbs.twimg.com/media/FesQIGKVEAA86ib.jpg",
-            "id_str" : "1579373825602424832",
-            "id" : "1579373825602424832",
-            "media_url_https" : "https://pbs.twimg.com/media/FesQIGKVEAA86ib.jpg",
-            "sizes" : {
-              "small" : {
-                "w" : "680",
-                "h" : "342",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "1024",
-                "h" : "515",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "medium" : {
-                "w" : "1024",
-                "h" : "515",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/Msf4L14wAS"
-          }
-        ],
-        "hashtags" : [
-          {
-            "text" : "GoogleCloudNext",
-            "indices" : [
-              "30",
-              "46"
-            ]
-          },
-          {
-            "text" : "MongoDBAtlas",
-            "indices" : [
-              "121",
-              "134"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "220"
-      ],
-      "favorite_count" : "7",
-      "id_str" : "1579373831919403008",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1579373831919403008",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Oct 10 07:30:39 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Check out my upcoming talk at #GoogleCloudNext about building and deploying a MEAN stack application using Cloud Run and #MongoDBAtlas.\n\nRegister with @GoogleCloud to join →https://t.co/jjsBqB05XO https://t.co/Msf4L14wAS",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1579373831919403008/photo/1",
-            "indices" : [
-              "197",
-              "220"
-            ],
-            "url" : "https://t.co/Msf4L14wAS",
-            "media_url" : "http://pbs.twimg.com/media/FesQIGKVEAA86ib.jpg",
-            "id_str" : "1579373825602424832",
-            "id" : "1579373825602424832",
-            "media_url_https" : "https://pbs.twimg.com/media/FesQIGKVEAA86ib.jpg",
-            "sizes" : {
-              "small" : {
-                "w" : "680",
-                "h" : "342",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "1024",
-                "h" : "515",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "medium" : {
-                "w" : "1024",
-                "h" : "515",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/Msf4L14wAS"
-          }
-        ]
-      }
     }
   },
   {
@@ -67819,18 +69983,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -67849,7 +70002,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman Why is it that so many games these days require a CS degree just to play?",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -70055,7 +72207,7 @@ module.exports = [
         "0",
         "244"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "in_reply_to_status_id_str" : "1393854143635214338",
       "id_str" : "1393854144872521731",
       "in_reply_to_user_id" : "1189618278848532480",
@@ -70306,18 +72458,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -70336,7 +72477,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman Ugh, you make me want to replay this again.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -70402,16 +72542,6 @@ module.exports = [
             ],
             "id_str" : "4184075433",
             "id" : "4184075433"
-          },
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "13",
-              "28"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
           }
         ],
         "urls" : [ ]
@@ -70641,7 +72771,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Tillery (they/them) @AreTillery@infosec.exchange",
+            "name" : "Tillery (they/them) @aretillery@infosec.exchange",
             "screen_name" : "AreTillery",
             "indices" : [
               "0",
@@ -70754,18 +72884,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -70784,7 +72903,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman 👆 The right way to celebrate Star Wars day.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
     }
   },
@@ -70832,52 +72950,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "🤣🤣🤣 https://t.co/5FhHF7fdA1",
       "lang" : "art"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1389506611878658048"
-          ],
-          "editableUntil" : "2021-05-04T09:36:06.713Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Thomas Wilburn",
-            "screen_name" : "thomaswilburn",
-            "indices" : [
-              "3",
-              "17"
-            ],
-            "id_str" : "14924086",
-            "id" : "14924086"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1389506611878658048",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1389506611878658048",
-      "created_at" : "Tue May 04 09:06:06 +0000 2021",
-      "favorited" : false,
-      "full_text" : "RT @thomaswilburn: In the '90s, you would see people put up a little tag that said something like \"best viewed in Internet Explorer\" or \"sw…",
-      "lang" : "en"
     }
   },
   {
@@ -72643,6 +74715,1025 @@ module.exports = [
       "created_at" : "Thu Apr 15 19:14:50 +0000 2021",
       "favorited" : false,
       "full_text" : "Why are #markdown tables so overly complex? I feel like I spend 80% of my brain power on getting the syntax / style right and only 20% on the actual content.\n\nIsn't markdown as a language supposed to get out of the way of writing content? Tables seem to be the one exception.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1588357930201796608"
+          ],
+          "editableUntil" : "2022-11-04T03:00:15.480Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Martin Fowler",
+            "screen_name" : "martinfowler",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "16665197",
+            "id" : "16665197"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1588357930201796608",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1588357930201796608",
+      "created_at" : "Fri Nov 04 02:30:15 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @martinfowler: I agree, this is as good as people say. An amusing and fast summary of why content moderation is so hard \n\nhttps://t.co/F…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1587905305303662592"
+          ],
+          "editableUntil" : "2022-11-02T21:01:41.295Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jake Bailey",
+            "screen_name" : "andhaveaniceday",
+            "indices" : [
+              "3",
+              "19"
+            ],
+            "id_str" : "1391857179863306241",
+            "id" : "1391857179863306241"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1587905305303662592",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1587905305303662592",
+      "created_at" : "Wed Nov 02 20:31:41 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @andhaveaniceday: After months of work (and years before me!), I've just sent the PR that converts TypeScript itself to modules. The com…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1587529406506934272"
+          ],
+          "editableUntil" : "2022-11-01T20:08:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "121"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1587529406506934272",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1587529406506934272",
+      "created_at" : "Tue Nov 01 19:38:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "My pet peeve is CLI commands which look like:\n\nmy-cmd do-a-thing --actually-do-a-completely-different-thing-instead-sorry",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1587258030680289280"
+          ],
+          "editableUntil" : "2022-11-01T02:09:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "130"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1587258029497495553",
+      "id_str" : "1587258030680289280",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1587258030680289280",
+      "in_reply_to_status_id" : "1587258029497495553",
+      "created_at" : "Tue Nov 01 01:39:38 +0000 2022",
+      "favorited" : false,
+      "full_text" : "What were the genuinely new innovations in Elden Ring beyond the open world? I'm kind of curious what the big design changes were?",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1587258029497495553"
+          ],
+          "editableUntil" : "2022-11-01T02:09:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "271"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1587258028151013376",
+      "id_str" : "1587258029497495553",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1587258029497495553",
+      "in_reply_to_status_id" : "1587258028151013376",
+      "created_at" : "Tue Nov 01 01:39:38 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Allocating flasks, stronger glowy eyed enemies, death spitting frogs, knight enemies, the Falchion sword, etc.\n\nI'm all for reusing content where appropriate, but now I feel like all the innovation I *thought* was in Elden Ring was actually in DS3 and I just didn't know.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1587258028151013376"
+          ],
+          "editableUntil" : "2022-11-01T02:09:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "DarkSouls",
+            "indices" : [
+              "26",
+              "36"
+            ]
+          },
+          {
+            "text" : "Bloodbourne",
+            "indices" : [
+              "70",
+              "82"
+            ]
+          },
+          {
+            "text" : "EldenRing",
+            "indices" : [
+              "87",
+              "97"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "223"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1587258028151013376",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1587258028151013376",
+      "created_at" : "Tue Nov 01 01:39:38 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I never got too much into #DarkSouls. I did play a bit of DS1, all of #Bloodbourne and #EldenRing. Now, watching a DS3 playthrough I realize how much of Elden Ring was just copied from DS3: mechanics, enemies, weapons, etc.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1587241798304337920"
+          ],
+          "editableUntil" : "2022-11-01T01:05:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "MineCraft",
+            "indices" : [
+              "40",
+              "50"
+            ]
+          },
+          {
+            "text" : "ComputerCraft",
+            "indices" : [
+              "53",
+              "67"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mark \"Mayor\" Techson",
+            "screen_name" : "marktechson",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "4184075433",
+            "id" : "4184075433"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/wqTacElbiW",
+            "expanded_url" : "https://www.computercraft.info/",
+            "display_url" : "computercraft.info",
+            "indices" : [
+              "268",
+              "291"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "291"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1587210964193013760",
+      "id_str" : "1587241798304337920",
+      "in_reply_to_user_id" : "4184075433",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1587241798304337920",
+      "in_reply_to_status_id" : "1587210964193013760",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Nov 01 00:35:08 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@marktechson I learned a bit of Lua for #MineCraft's #ComputerCraft mod, it wasn't too bad. I made a door which only opened to player-specific logins.\n\nThat said, if you want to build a small game, there are enough engines that you can probably pick your lang right?\n\nhttps://t.co/wqTacElbiW",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "marktechson",
+      "in_reply_to_user_id_str" : "4184075433"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1587163943100825600"
+          ],
+          "editableUntil" : "2022-10-31T19:55:46.772Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Marco Rogers",
+            "screen_name" : "polotek",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "20079975",
+            "id" : "20079975"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1587163943100825600",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1587163943100825600",
+      "created_at" : "Mon Oct 31 19:25:46 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @polotek: I was just about to tell people what I see. I'm going to try to be as candid as I can be. And this is also coming from the per…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1586487328779821056"
+          ],
+          "editableUntil" : "2022-10-29T23:07:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "49"
+      ],
+      "favorite_count" : "5",
+      "id_str" : "1586487328779821056",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1586487328779821056",
+      "created_at" : "Sat Oct 29 22:37:09 +0000 2022",
+      "favorited" : false,
+      "full_text" : "git commit -m \"Feeling cute, might revert later.\"",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1586438959428616192"
+          ],
+          "editableUntil" : "2022-10-29T19:54:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Dylan Hunn",
+            "screen_name" : "dylhunn",
+            "indices" : [
+              "131",
+              "139"
+            ],
+            "id_str" : "67345995",
+            "id" : "67345995"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/EDjFiLPGg9",
+            "expanded_url" : "https://twitter.com/dylhunn/status/1579861723611246592",
+            "display_url" : "twitter.com/dylhunn/status…",
+            "indices" : [
+              "141",
+              "164"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "164"
+      ],
+      "favorite_count" : "43",
+      "id_str" : "1586438959428616192",
+      "truncated" : false,
+      "retweet_count" : "4",
+      "id" : "1586438959428616192",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Oct 29 19:24:57 +0000 2022",
+      "favorited" : false,
+      "full_text" : "This is a game changer for Angular development and removes a whole class of \"how do I depend on this thing\" issues.\n\nAwesome stuff @dylhunn! https://t.co/EDjFiLPGg9",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1586098601549144064"
+          ],
+          "editableUntil" : "2022-10-28T21:22:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [ ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1586098601549144064/photo/1",
+            "indices" : [
+              "49",
+              "72"
+            ],
+            "url" : "https://t.co/8o60SjMZBu",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/FgL0RKdVEAA0y-F.jpg",
+            "id_str" : "1586098594490159104",
+            "id" : "1586098594490159104",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/FgL0RKdVEAA0y-F.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "260",
+                "h" : "172",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "260",
+                "h" : "172",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "medium" : {
+                "w" : "260",
+                "h" : "172",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/8o60SjMZBu"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "72"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1586098592220991489",
+      "id_str" : "1586098601549144064",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1586098601549144064",
+      "in_reply_to_status_id" : "1586098592220991489",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Oct 28 20:52:29 +0000 2022",
+      "favorited" : false,
+      "full_text" : "It's basically this feeling given a formal name. https://t.co/8o60SjMZBu",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1586098601549144064/photo/1",
+            "indices" : [
+              "49",
+              "72"
+            ],
+            "url" : "https://t.co/8o60SjMZBu",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/FgL0RKdVEAA0y-F.jpg",
+            "id_str" : "1586098594490159104",
+            "video_info" : {
+              "aspect_ratio" : [
+                "65",
+                "43"
+              ],
+              "variants" : [
+                {
+                  "bitrate" : "0",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/tweet_video/FgL0RKdVEAA0y-F.mp4"
+                }
+              ]
+            },
+            "id" : "1586098594490159104",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/FgL0RKdVEAA0y-F.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "260",
+                "h" : "172",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "260",
+                "h" : "172",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "medium" : {
+                "w" : "260",
+                "h" : "172",
+                "resize" : "fit"
+              }
+            },
+            "type" : "animated_gif",
+            "display_url" : "pic.twitter.com/8o60SjMZBu"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1586098592220991489"
+          ],
+          "editableUntil" : "2022-10-28T21:22:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "135"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1586098590971092992",
+      "id_str" : "1586098592220991489",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1586098592220991489",
+      "in_reply_to_status_id" : "1586098590971092992",
+      "created_at" : "Fri Oct 28 20:52:27 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Example: I don't interview candidates, but I have gone through interview training, because I was robotold and couldn't find an opt-out.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1586098590971092992"
+          ],
+          "editableUntil" : "2022-10-28T21:22:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "189"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1586098590971092992",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1586098590971092992",
+      "created_at" : "Fri Oct 28 20:52:27 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I'd like to define a new word: \"Robotold\"\n\nVerb. Derived from \"voluntold\", it means \"to be obligated to do something for reasons known only to a computer or which don't make logical sense\".",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1586087590683242496"
+          ],
+          "editableUntil" : "2022-10-28T20:38:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Dionatan",
+            "screen_name" : "Dionatang_",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "159810035",
+            "id" : "159810035"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Tr6kiF8amC",
+            "expanded_url" : "https://twitter.com/reckless/status/1585980717103972364?s=20&t=v0DhMbp6qLW2-sSnQxR3Hg",
+            "display_url" : "twitter.com/reckless/statu…",
+            "indices" : [
+              "149",
+              "172"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "172"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1585827984031633408",
+      "id_str" : "1586087590683242496",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1586087590683242496",
+      "in_reply_to_status_id" : "1585827984031633408",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Oct 28 20:08:44 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@Dionatang_ Pretty much exactly my thoughts on the matter:\n\n\"The essential truth of every social network is that the product is content moderation\"\n\nhttps://t.co/Tr6kiF8amC",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1585886921527476224"
+          ],
+          "editableUntil" : "2022-10-28T07:21:21.103Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Patrick Balestra",
+            "screen_name" : "BalestraPatrick",
+            "indices" : [
+              "3",
+              "19"
+            ],
+            "id_str" : "344822973",
+            "id" : "344822973"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/LECQiF5IsR",
+            "expanded_url" : "https://timetoplayfair.com/audiobooks/",
+            "display_url" : "timetoplayfair.com/audiobooks/",
+            "indices" : [
+              "108",
+              "131"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1585886921527476224",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1585886921527476224",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Oct 28 06:51:21 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @BalestraPatrick: If you’re wondering why there was no Spotify iOS update in the last month, here’s why. https://t.co/LECQiF5IsR https:/…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1585827984031633408"
+          ],
+          "editableUntil" : "2022-10-28T03:27:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Dionatan",
+            "screen_name" : "Dionatang_",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "159810035",
+            "id" : "159810035"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "274"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1585805877684076545",
+      "id_str" : "1585827984031633408",
+      "in_reply_to_user_id" : "159810035",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1585827984031633408",
+      "in_reply_to_status_id" : "1585805877684076545",
+      "created_at" : "Fri Oct 28 02:57:09 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@Dionatang_ I have plenty of doubts about Elon as a leader.\n\nIn this case, it's primarily because he doesn't seem to have the slightest understanding of content moderation, despite that being the very foundational problem a social media platform like Twitter needs to solve.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "Dionatang_",
+      "in_reply_to_user_id_str" : "159810035"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1585780833197006850"
+          ],
+          "editableUntil" : "2022-10-28T00:19:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1585780537909686272",
+      "id_str" : "1585780833197006850",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1585780833197006850",
+      "in_reply_to_status_id" : "1585780537909686272",
+      "created_at" : "Thu Oct 27 23:49:47 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Also whatever the new thing is needs a damn edit button. I still don't have one!",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1585780541093122048"
+          ],
+          "editableUntil" : "2022-10-28T00:18:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "WebDevTwitter",
+            "indices" : [
+              "180",
+              "194"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "195"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1585780539725737985",
+      "id_str" : "1585780541093122048",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1585780541093122048",
+      "in_reply_to_status_id" : "1585780539725737985",
+      "created_at" : "Thu Oct 27 23:48:38 +0000 2022",
+      "favorited" : false,
+      "full_text" : "That said, I'm not particularly tied to this platform. I'm on board to jump ship if we find something *not* owned by a sociopath and can reach critical mass.\n\nSo where we droppin' #WebDevTwitter?",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1585780539725737985"
+          ],
+          "editableUntil" : "2022-10-28T00:18:37.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "221"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1585780537909686272",
+      "id_str" : "1585780539725737985",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1585780539725737985",
+      "in_reply_to_status_id" : "1585780537909686272",
+      "created_at" : "Thu Oct 27 23:48:37 +0000 2022",
+      "favorited" : false,
+      "full_text" : "That said, I doubt this app will die overnight. Most people won't suddenly leave because revenue goes to a new person.\n\nThey'll leave slowly, as that person progressively destroys all value they were getting from the app.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1585780537909686272"
+          ],
+          "editableUntil" : "2022-10-28T00:18:37.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "99"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1585780537909686272",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1585780537909686272",
+      "created_at" : "Thu Oct 27 23:48:37 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I'll put my stake down now thag Elon Musk is a terrible fit to run Twitter and this will end badly.",
       "lang" : "en"
     }
   },
@@ -74700,7 +77791,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Marijn Haverbeke",
+            "name" : "Marijn Haverbeke (inactive)",
             "screen_name" : "MarijnJH",
             "indices" : [
               "3",
@@ -75019,18 +78110,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -75049,940 +78129,7 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@ThePunderWoman I was on the verge of asking you. Fortunately, I understood relatively quickly once I saw the pattern in the magic date. It was explaining how and why it works this way that was so challenging.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "ThePunderWoman",
       "in_reply_to_user_id_str" : "21218969"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1578888391118102531"
-          ],
-          "editableUntil" : "2022-10-08T23:51:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/v9TSWAHF5u",
-            "expanded_url" : "https://twitter.com/mountain_ghosts/status/1577234271236165632",
-            "display_url" : "twitter.com/mountain_ghost…",
-            "indices" : [
-              "90",
-              "113"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "113"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1578888391118102531",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1578888391118102531",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Oct 08 23:21:41 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Why supply chain security and open source sustainability are fundamentally intertwined. 👇 https://t.co/v9TSWAHF5u",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1578450691906883584"
-          ],
-          "editableUntil" : "2022-10-07T18:52:25.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Barry Phillips",
-            "screen_name" : "bap47",
-            "indices" : [
-              "0",
-              "6"
-            ],
-            "id_str" : "173594616",
-            "id" : "173594616"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "158"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1578412045015580674",
-      "id_str" : "1578450691906883584",
-      "in_reply_to_user_id" : "173594616",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1578450691906883584",
-      "in_reply_to_status_id" : "1578412045015580674",
-      "created_at" : "Fri Oct 07 18:22:25 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@bap47 All iOS browsers, including Duck Duck Go are skins of WebKit as required by App Store policy. Apple does not allow alternative browser implementations.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "bap47",
-      "in_reply_to_user_id_str" : "173594616"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1577057318910324736"
-          ],
-          "editableUntil" : "2022-10-03T22:35:39.793Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Surma",
-            "screen_name" : "DasSurma",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "15180856",
-            "id" : "15180856"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1577057318910324736",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1577057318910324736",
-      "created_at" : "Mon Oct 03 22:05:39 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @DasSurma: 🆕 Blog post 📣 \n\nI wanted to run JavaScript in WebAssembly, so I decided to turn JavaScript into a compiled language by buildi…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576316102505746432"
-          ],
-          "editableUntil" : "2022-10-01T21:30:20.031Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roderick Gadellaa",
-            "screen_name" : "RGadellaa",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "211862760",
-            "id" : "211862760"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1576316102505746432",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576316102505746432",
-      "created_at" : "Sat Oct 01 21:00:20 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @RGadellaa: FB is going to ship its own chromium engine to power their IAB instead of using the system-provided webview. None of this so…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576315245483565056"
-          ],
-          "editableUntil" : "2022-10-01T21:26:55.701Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "The Real Charlie Warzel (Parody Account)",
-            "screen_name" : "cwarzel",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "20178419",
-            "id" : "20178419"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1576315245483565056",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576315245483565056",
-      "created_at" : "Sat Oct 01 20:56:55 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @cwarzel: Wrote about the Musk texts. What I found illuminating about the messages is just how unimpressive, unimaginative, and sycophan…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576068038197096448"
-          ],
-          "editableUntil" : "2022-10-01T05:04:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "ChromeCustomTabs",
-            "indices" : [
-              "241",
-              "258"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1576068036016021506",
-      "id_str" : "1576068038197096448",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576068038197096448",
-      "in_reply_to_status_id" : "1576068036016021506",
-      "created_at" : "Sat Oct 01 04:34:36 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Overall, not convinced at all that this is the right architecture or that it improves user experience (especially security).\n\nThe improvement over System WebView is debatable at best, and none of the problems would exist at all if they used #ChromeCustomTabs in the first place.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576068036016021506"
-          ],
-          "editableUntil" : "2022-10-01T05:04:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "259"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1576068033851686913",
-      "id_str" : "1576068036016021506",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576068036016021506",
-      "in_reply_to_status_id" : "1576068033851686913",
-      "created_at" : "Sat Oct 01 04:34:36 +0000 2022",
-      "favorited" : false,
-      "full_text" : "While I agree it's a pain point, I'm not sure why Meta feels positioned to solve that particular problem?\n\nFacebook still crashes on update, it just won't crash on WebView update, so the \"update everything\" or \"update nothing\" users are relatively unaffected.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576068033851686913"
-          ],
-          "editableUntil" : "2022-10-01T05:04:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Android",
-            "screen_name" : "Android",
-            "indices" : [
-              "162",
-              "170"
-            ],
-            "id_str" : "382267114",
-            "id" : "382267114"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "213"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1576068031813328896",
-      "id_str" : "1576068033851686913",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576068033851686913",
-      "in_reply_to_status_id" : "1576068031813328896",
-      "created_at" : "Sat Oct 01 04:34:35 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I will concede that the \"crash on update\" behavior is super annoying, and WebView in particular is the worst offender just because it's widely used across apps.\n\n@Android really needs to get around to fixing that.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576068031813328896"
-          ],
-          "editableUntil" : "2022-10-01T05:04:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "270"
-      ],
-      "favorite_count" : "2",
-      "in_reply_to_status_id_str" : "1576068029628047360",
-      "id_str" : "1576068031813328896",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576068031813328896",
-      "in_reply_to_status_id" : "1576068029628047360",
-      "created_at" : "Sat Oct 01 04:34:35 +0000 2022",
-      "favorited" : false,
-      "full_text" : "The \"Mozilla and Edge already do this\" argument is particularly disingenuous because THOSE ARE REAL BROWSERS!\n\nTheir purpose is to browse the web. Facebook's purpose is to radicalize your uncle. We stay in our lanes and work together to provide value for both use cases.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576068029628047360"
-          ],
-          "editableUntil" : "2022-10-01T05:04:34.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Android",
-            "indices" : [
-              "161",
-              "169"
-            ]
-          },
-          {
-            "text" : "Meta",
-            "indices" : [
-              "200",
-              "205"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "260"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1576068027606450177",
-      "id_str" : "1576068029628047360",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576068029628047360",
-      "in_reply_to_status_id" : "1576068027606450177",
-      "created_at" : "Sat Oct 01 04:34:34 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I'm not familiar enough with rendering performance to know if that's a good argument for doing this, but I do feel like it could easily be a flag contributed to #Android's real WebView and enabled by #Meta. I don't see why they'd need to fork it just for that.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576068027606450177"
-          ],
-          "editableUntil" : "2022-10-01T05:04:34.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "269"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1576068025379266560",
-      "id_str" : "1576068027606450177",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576068027606450177",
-      "in_reply_to_status_id" : "1576068025379266560",
-      "created_at" : "Sat Oct 01 04:34:34 +0000 2022",
-      "favorited" : false,
-      "full_text" : "The one exception is when something breaks, users might update that app specifically.\n\nBut if it's broken because it's out of date then they're already so far out of date in so many apps (Chrome and WebView specifically), that there's little value in prioritizing them.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576068025379266560"
-          ],
-          "editableUntil" : "2022-10-01T05:04:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Facebook",
-            "indices" : [
-              "98",
-              "107"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "196"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1576068022950690817",
-      "id_str" : "1576068025379266560",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576068025379266560",
-      "in_reply_to_status_id" : "1576068022950690817",
-      "created_at" : "Sat Oct 01 04:34:33 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I'll also need to see some data to believe the claim that users go out of their way to update the #Facebook app specifically and nothing else.\n\nI can only see users updating everything or nothing.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576068022950690817"
-          ],
-          "editableUntil" : "2022-10-01T05:04:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "276"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1576068020098674688",
-      "id_str" : "1576068022950690817",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576068022950690817",
-      "in_reply_to_status_id" : "1576068020098674688",
-      "created_at" : "Sat Oct 01 04:34:33 +0000 2022",
-      "favorited" : false,
-      "full_text" : "It also means users need to update one more browser to stay safe online.\n\n\"To protect yourself from this vulnerability, update Chrome to version X, but if you use Facebook also update that to version Y because they made architectural decisions which sacrificed your security.\"",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1576068020098674688"
-          ],
-          "editableUntil" : "2022-10-01T05:04:32.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Chrome",
-            "indices" : [
-              "173",
-              "180"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Meta",
-            "screen_name" : "Meta",
-            "indices" : [
-              "97",
-              "102"
-            ],
-            "id_str" : "2425151",
-            "id" : "2425151"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/3P8Oq6M92y",
-            "expanded_url" : "https://twitter.com/tomayac/status/1575943083732058112",
-            "display_url" : "twitter.com/tomayac/status…",
-            "indices" : [
-              "208",
-              "231"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "231"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1576068020098674688",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1576068020098674688",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Oct 01 04:34:32 +0000 2022",
-      "favorited" : false,
-      "full_text" : "These are some BS arguments.\n\nThis actually makes user security *worse* IMHO because it requires @Meta to rebase and release their app when users could immediately download #Chrome or System WebView updates. https://t.co/3P8Oq6M92y",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1575597612756922368"
-          ],
-          "editableUntil" : "2022-09-29T21:55:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/DYRPWrnNgj",
-            "expanded_url" : "https://blog.google/products/stadia/message-on-stadia-streaming-strategy/",
-            "display_url" : "blog.google/products/stadi…",
-            "indices" : [
-              "3",
-              "26"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "3",
-      "id_str" : "1575597612756922368",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1575597612756922368",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Sep 29 21:25:18 +0000 2022",
-      "favorited" : false,
-      "full_text" : "😞\n\nhttps://t.co/DYRPWrnNgj",
-      "lang" : "und"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1575369062208528384"
-          ],
-          "editableUntil" : "2022-09-29T06:47:08.029Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "The Real Charlie Warzel (Parody Account)",
-            "screen_name" : "cwarzel",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "20178419",
-            "id" : "20178419"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1575369062208528384",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1575369062208528384",
-      "created_at" : "Thu Sep 29 06:17:08 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @cwarzel: I wrote about the batshit Texas law that mandates that big social media platforms no longer have First Amendment rights regard…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1575248216706064384"
-          ],
-          "editableUntil" : "2022-09-28T22:46:56.216Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Angular",
-            "screen_name" : "angular",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "202230373",
-            "id" : "202230373"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1575248216706064384",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1575248216706064384",
-      "created_at" : "Wed Sep 28 22:16:56 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @angular: Experimental ESM Application Builds 👀\n\nWe're introducing an experimental esbuild-based support with pure ESM output.\n\nTry `ng…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1575090219157577728"
-          ],
-          "editableUntil" : "2022-09-28T12:19:06.665Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Angular",
-            "screen_name" : "angular",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "202230373",
-            "id" : "202230373"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1575090219157577728",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1575090219157577728",
-      "created_at" : "Wed Sep 28 11:49:06 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @angular: The Angular tooling team is looking to simplify the output of `ng generate component`, and would like your feedback!\n\n`ng gene…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1574524461423788032"
-          ],
-          "editableUntil" : "2022-09-26T22:50:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/3mOY7alcYr",
-            "expanded_url" : "https://twitter.com/dgrammatiko/status/1574385485970956288",
-            "display_url" : "twitter.com/dgrammatiko/st…",
-            "indices" : [
-              "5",
-              "28"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "28"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1574524461423788032",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1574524461423788032",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Sep 26 22:20:59 +0000 2022",
-      "favorited" : false,
-      "full_text" : "😁🥰😍🤩 https://t.co/3mOY7alcYr",
-      "lang" : "art"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573731749170884608"
-          ],
-          "editableUntil" : "2022-09-24T18:21:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "210"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1573731747354710016",
-      "id_str" : "1573731749170884608",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573731749170884608",
-      "in_reply_to_status_id" : "1573731747354710016",
-      "created_at" : "Sat Sep 24 17:51:02 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Ironically I probably couldn't have used native DSD support for `createHTMLDocument` anyways because shadow roots can't be cloned across documents, and that's a major challenge I had to overcome in the process.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
     }
   },
   {
@@ -76047,7 +78194,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "🎻",
+            "name" : "🎻 Eric Lawrence",
             "screen_name" : "ericlaw",
             "indices" : [
               "3",
@@ -76681,16 +78828,6 @@ module.exports = [
         "hashtags" : [ ],
         "symbols" : [ ],
         "user_mentions" : [
-          {
-            "name" : "Jessica Janiuk 🏳️‍🌈",
-            "screen_name" : "ThePunderWoman",
-            "indices" : [
-              "152",
-              "167"
-            ],
-            "id_str" : "21218969",
-            "id" : "21218969"
-          },
           {
             "name" : "Igor Minar",
             "screen_name" : "IgorMinar",
@@ -78999,7 +81136,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Prince",
+            "name" : "Prince Wilson",
             "screen_name" : "maxcell",
             "indices" : [
               "3",
@@ -83977,6 +86114,875 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1585413546526969856"
+          ],
+          "editableUntil" : "2022-10-27T00:00:19.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "102"
+      ],
+      "favorite_count" : "2",
+      "id_str" : "1585413546526969856",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1585413546526969856",
+      "created_at" : "Wed Oct 26 23:30:19 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I'll never understand why we don't have logical `xor` as a standard operator in programming languages.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1585394490302672896"
+          ],
+          "editableUntil" : "2022-10-26T22:44:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1585394490302672896",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1585394490302672896",
+      "created_at" : "Wed Oct 26 22:14:36 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Is there a standard term for an HTTP request/response pair? Best I've got is \"HTTP connection\", but that's a bit vague.\n\nIs there a standard term for \"either an HTTP request or an HTTP response\"? No idea for this one.\n\nIt's so hard to communicate ideas without the right language.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584782585808719873"
+          ],
+          "editableUntil" : "2022-10-25T06:13:06.950Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Eric Seufert",
+            "screen_name" : "eric_seufert",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "167771431",
+            "id" : "167771431"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1584782585808719873",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584782585808719873",
+      "created_at" : "Tue Oct 25 05:43:06 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @eric_seufert: Apple has update its App Store guidelines to require that social media post “boosts” be purchased as IAPs, entitling Appl…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584646721308884992"
+          ],
+          "editableUntil" : "2022-10-24T21:13:14.329Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "AngularDay",
+            "indices" : [
+              "119",
+              "130"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          },
+          {
+            "name" : "Madleina",
+            "screen_name" : "Madleina_S",
+            "indices" : [
+              "86",
+              "97"
+            ],
+            "id_str" : "1454199609253777414",
+            "id" : "1454199609253777414"
+          },
+          {
+            "name" : "Minko Gechev",
+            "screen_name" : "mgechev",
+            "indices" : [
+              "102",
+              "110"
+            ],
+            "id_str" : "178817640",
+            "id" : "178817640"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1584646721308884992",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584646721308884992",
+      "created_at" : "Mon Oct 24 20:43:14 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular: Wondering what's going on in the world of Angular? You're in luck!\n\nJoin @Madleina_S and @mgechev in this #AngularDay session…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584637211555028994"
+          ],
+          "editableUntil" : "2022-10-24T20:35:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Google",
+            "indices" : [
+              "29",
+              "36"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1584637211555028994",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584637211555028994",
+      "created_at" : "Mon Oct 24 20:05:27 +0000 2022",
+      "favorited" : false,
+      "full_text" : "The worst part of working at #Google is that you'll do a search for \"publish internal-only Chrome extension\" and get a bunch of design docs from the Chrome team about supporting enterprise extensions and no content at all about how to make a Google-internal extension.🤦‍♂️",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584095531676053505"
+          ],
+          "editableUntil" : "2022-10-23T08:43:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "205"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1584095530283515904",
+      "id_str" : "1584095531676053505",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584095531676053505",
+      "in_reply_to_status_id" : "1584095530283515904",
+      "created_at" : "Sun Oct 23 08:13:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I eventually just gave up as it's not worth the effort. I can't recall any other game I liked this much which was so thoroughly ruined by it's ending.\n\nI think I'm good on Metroid games for a little while.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584095530283515904"
+          ],
+          "editableUntil" : "2022-10-23T08:43:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "262"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1584095528865832961",
+      "id_str" : "1584095530283515904",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584095530283515904",
+      "in_reply_to_status_id" : "1584095528865832961",
+      "created_at" : "Sun Oct 23 08:13:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Metroid Prime itself is reasonably designed (again abusing the colored enemy mechanic), but at 140 missiles I clearly don't have enough and run out with 2/3 of his health remaining.\n\nThe plasma beam misses 80% of it's shots, and the white form chain freezes you.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584095528865832961"
+          ],
+          "editableUntil" : "2022-10-23T08:42:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "258"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1584095527443931136",
+      "id_str" : "1584095528865832961",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584095528865832961",
+      "in_reply_to_status_id" : "1584095527443931136",
+      "created_at" : "Sun Oct 23 08:12:59 +0000 2022",
+      "favorited" : false,
+      "full_text" : "The room after that is the worst in the game. Fission metroids suck, as they split into two with different resistances, so it takes 5-7 charge shots each. Nuanced platforming means you can't dodge without falling, so the only option is to just run past them.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584095527443931136"
+          ],
+          "editableUntil" : "2022-10-23T08:42:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "179"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1584095526043078657",
+      "id_str" : "1584095527443931136",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584095527443931136",
+      "in_reply_to_status_id" : "1584095526043078657",
+      "created_at" : "Sun Oct 23 08:12:59 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Eventually I discovered I was supposed to be using the plasma beam, but again, the game doesn't really communicate which weapon you're supposed to use outside the colored enemies.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584095526043078657"
+          ],
+          "editableUntil" : "2022-10-23T08:42:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "260"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1584095524654747649",
+      "id_str" : "1584095526043078657",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584095526043078657",
+      "in_reply_to_status_id" : "1584095524654747649",
+      "created_at" : "Sun Oct 23 08:12:59 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I didn't actually beat it though. The end of the game was just too frustrating.\n\nMeta Ridley took way too long because his final stage repeats a dash attack where he perfectly covers his mouth (the critical weak point) making it unreasonably difficult to stun.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584095524654747649"
+          ],
+          "editableUntil" : "2022-10-23T08:42:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "159"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1584095523161587712",
+      "id_str" : "1584095524654747649",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584095524654747649",
+      "in_reply_to_status_id" : "1584095523161587712",
+      "created_at" : "Sun Oct 23 08:12:58 +0000 2022",
+      "favorited" : false,
+      "full_text" : "There's also waaaay too much platforming for a single-stick FPS game. Too easy to fall and so much backtracking that certain rooms are infuriatingly memorable.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584095523161587712"
+          ],
+          "editableUntil" : "2022-10-23T08:42:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "250"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1584095521274150913",
+      "id_str" : "1584095523161587712",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584095523161587712",
+      "in_reply_to_status_id" : "1584095521274150913",
+      "created_at" : "Sun Oct 23 08:12:58 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Combat is the biggest complaint, single stick FPS just sucks.\n\nDifferent beam and super missiles mostly work, but do get tiring. It's hard to know which beam is actually the best for a given enemy except for the pirates who *require* a specific beam.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584095521274150913"
+          ],
+          "editableUntil" : "2022-10-23T08:42:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "153"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1584095519676039169",
+      "id_str" : "1584095521274150913",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584095521274150913",
+      "in_reply_to_status_id" : "1584095519676039169",
+      "created_at" : "Sun Oct 23 08:12:58 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Generally navigation and the hint system mostly worked fine, though I did need a walkthrough for a couple bits (fuck those invisible floating platforms).",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1584095519676039169"
+          ],
+          "editableUntil" : "2022-10-23T08:42:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "MetroidPrime",
+            "indices" : [
+              "20",
+              "33"
+            ]
+          },
+          {
+            "text" : "Metroid",
+            "indices" : [
+              "180",
+              "188"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "203"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1584095519676039169",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1584095519676039169",
+      "created_at" : "Sun Oct 23 08:12:57 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I've been replaying #MetroidPrime the last few weeks now that I'm an adult with critical thinking skills. Overall really enjoyed it. Definitely a very direct interpretation of the #Metroid formula to 3D.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1583654964752093184"
+          ],
+          "editableUntil" : "2022-10-22T03:32:21.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "42"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1583555109400690689",
+      "id_str" : "1583654964752093184",
+      "in_reply_to_user_id" : "102513397",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1583654964752093184",
+      "in_reply_to_status_id" : "1583555109400690689",
+      "created_at" : "Sat Oct 22 03:02:21 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@justinfagnani *Laughs in ibazel*\n\nSo yes.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "justinfagnani",
+      "in_reply_to_user_id_str" : "102513397"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1582838407461367808"
+          ],
+          "editableUntil" : "2022-10-19T21:27:38.711Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Justin Fagnani",
+            "screen_name" : "justinfagnani",
+            "indices" : [
+              "3",
+              "17"
+            ],
+            "id_str" : "102513397",
+            "id" : "102513397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1582838407461367808",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1582838407461367808",
+      "created_at" : "Wed Oct 19 20:57:38 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @justinfagnani: In web development people so often reach for tooling to address complexity and perf problems.\n\nThat's usually just addin…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1582614173594243074"
+          ],
+          "editableUntil" : "2022-10-19T06:36:37.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "82"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1582614173594243074",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1582614173594243074",
+      "created_at" : "Wed Oct 19 06:06:37 +0000 2022",
+      "favorited" : false,
+      "full_text" : "The existence of \"content creators\" implies the existence of \"content destroyers\".",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1582009142918934528"
+          ],
+          "editableUntil" : "2022-10-17T14:32:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/dDCQXl6JWx",
+            "expanded_url" : "https://twitter.com/angular/status/1575019452445339648",
+            "display_url" : "twitter.com/angular/status…",
+            "indices" : [
+              "81",
+              "104"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "104"
+      ],
+      "favorite_count" : "4",
+      "id_str" : "1582009142918934528",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1582009142918934528",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Oct 17 14:02:26 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Lol at the community having just as much trouble with this question as we did. 🤣 https://t.co/dDCQXl6JWx",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1581678106158370816"
+          ],
+          "editableUntil" : "2022-10-16T16:37:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "179"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1581678105206194184",
+      "id_str" : "1581678106158370816",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1581678106158370816",
+      "in_reply_to_status_id" : "1581678105206194184",
+      "created_at" : "Sun Oct 16 16:07:01 +0000 2022",
+      "favorited" : false,
+      "full_text" : "So while I think this is ultimately a failed experiment, I figured I'd still share it to keep the conversation going and give another perspective on this particular problem space.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1581678105206194184"
+          ],
+          "editableUntil" : "2022-10-16T16:37:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Vite",
+            "indices" : [
+              "158",
+              "163"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "254"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1581678104207974400",
+      "id_str" : "1581678105206194184",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1581678105206194184",
+      "in_reply_to_status_id" : "1581678104207974400",
+      "created_at" : "Sun Oct 16 16:07:01 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Instead, I came to the conclusion that browsers don't have the necessary context to strip types effectively and this is better done in an ESM dev server like #Vite.  Such a server actually has all the same tooling usability benefits as the TC39 proposal.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1327777634298675200"
           ],
           "editableUntil" : "2020-11-15T01:27:11.589Z",
@@ -86924,1089 +89930,6 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1573731747354710016"
-          ],
-          "editableUntil" : "2022-09-24T18:21:01.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/WNCkmQf1VD",
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1573688712059359232?s=20&t=SsRXtK8wPpdDjvawy1RrNQ",
-            "display_url" : "twitter.com/develwoutacaus…",
-            "indices" : [
-              "163",
-              "186"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "186"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1568762916719177729",
-      "id_str" : "1573731747354710016",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573731747354710016",
-      "in_reply_to_status_id" : "1568762916719177729",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Sep 24 17:51:01 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Finally got something working though I needed quite a few hacks to make declarative shadow DOM work. I wrote down some details and learnings from the experience.\n\nhttps://t.co/WNCkmQf1VD",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573728582869794816"
-          ],
-          "editableUntil" : "2022-09-24T18:08:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/WNCkmQf1VD",
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1573688712059359232?s=20&t=SsRXtK8wPpdDjvawy1RrNQ",
-            "display_url" : "twitter.com/develwoutacaus…",
-            "indices" : [
-              "197",
-              "220"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "220"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571047001172889601",
-      "id_str" : "1573728582869794816",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573728582869794816",
-      "in_reply_to_status_id" : "1571047001172889601",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Sep 24 17:38:27 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I did a more thorough investigation into this behavior and wrote a post going into detail on it. Turns out there are at least *three* independent behaviors coming together in this unexpected way.\n\nhttps://t.co/WNCkmQf1VD",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573727698311970817"
-          ],
-          "editableUntil" : "2022-09-24T18:04:56.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/WNCkmQf1VD",
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1573688712059359232?s=20&t=SsRXtK8wPpdDjvawy1RrNQ",
-            "display_url" : "twitter.com/develwoutacaus…",
-            "indices" : [
-              "117",
-              "140"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1573496290230431744",
-      "id_str" : "1573727698311970817",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573727698311970817",
-      "in_reply_to_status_id" : "1573496290230431744",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Sep 24 17:34:56 +0000 2022",
-      "favorited" : false,
-      "full_text" : "If you're curious to learn *how* this snippet is so cursed, take a look at this post which goes into detail on it.👇\n\nhttps://t.co/WNCkmQf1VD",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573725099806535680"
-          ],
-          "editableUntil" : "2022-09-24T17:54:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jared White 👋 @jaredwhite@indieweb.social",
-            "screen_name" : "jaredcwhite",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "18657020",
-            "id" : "18657020"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1573698149105160194",
-      "id_str" : "1573725099806535680",
-      "in_reply_to_user_id" : "18657020",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573725099806535680",
-      "in_reply_to_status_id" : "1573698149105160194",
-      "created_at" : "Sat Sep 24 17:24:36 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@jaredcwhite 😅 Sorry, I'm very long-winded.\n\nYep, that seems like the exact same issue. An event when shadow DOM is attached seems like a major gap in the spec today.\n\nMy workaround was to delay the upgrade until the element was fully parsed so devs don't have to think about it.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "jaredcwhite",
-      "in_reply_to_user_id_str" : "18657020"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573688712059359232"
-          ],
-          "editableUntil" : "2022-09-24T15:30:01.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/WN5k4ZDUkf",
-            "expanded_url" : "https://blog.dwac.dev/posts/streamable-html-fragments/",
-            "display_url" : "blog.dwac.dev/posts/streamab…",
-            "indices" : [
-              "257",
-              "280"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "37",
-      "id_str" : "1573688712059359232",
-      "truncated" : false,
-      "retweet_count" : "9",
-      "id" : "1573688712059359232",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Sep 24 15:00:01 +0000 2022",
-      "favorited" : false,
-      "full_text" : "New blog post! \"Streamable HTML Fragments\" discusses how we can update the HTML fragments architecture to support streaming live data directly into the DOM.\n\nInterested in weird bugs and understanding perplexing web standards? Lots of \"fun\" along the way!\n\nhttps://t.co/WN5k4ZDUkf",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573496290230431744"
-          ],
-          "editableUntil" : "2022-09-24T02:45:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/LXP9PzuLdw",
-            "expanded_url" : "https://stackblitz.com/edit/typescript-2k5dgd?file=index.ts",
-            "display_url" : "stackblitz.com/edit/typescrip…",
-            "indices" : [
-              "60",
-              "83"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1573496290230431744/photo/1",
-            "indices" : [
-              "84",
-              "107"
-            ],
-            "url" : "https://t.co/BYIsYt8Vgz",
-            "media_url" : "http://pbs.twimg.com/media/FdYuZbrVUAAKZGX.jpg",
-            "id_str" : "1573496134273683456",
-            "id" : "1573496134273683456",
-            "media_url_https" : "https://pbs.twimg.com/media/FdYuZbrVUAAKZGX.jpg",
-            "sizes" : {
-              "medium" : {
-                "w" : "1200",
-                "h" : "675",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "382",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "1268",
-                "h" : "713",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/BYIsYt8Vgz"
-          }
-        ],
-        "hashtags" : [
-          {
-            "text" : "JavaScript",
-            "indices" : [
-              "22",
-              "33"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "107"
-      ],
-      "favorite_count" : "3",
-      "id_str" : "1573496290230431744",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573496290230431744",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Sep 24 02:15:24 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Cursed code snippets: #JavaScript custom elements edition.\n\nhttps://t.co/LXP9PzuLdw https://t.co/BYIsYt8Vgz",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1573496290230431744/photo/1",
-            "indices" : [
-              "84",
-              "107"
-            ],
-            "url" : "https://t.co/BYIsYt8Vgz",
-            "media_url" : "http://pbs.twimg.com/media/FdYuZbrVUAAKZGX.jpg",
-            "id_str" : "1573496134273683456",
-            "id" : "1573496134273683456",
-            "media_url_https" : "https://pbs.twimg.com/media/FdYuZbrVUAAKZGX.jpg",
-            "sizes" : {
-              "medium" : {
-                "w" : "1200",
-                "h" : "675",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "382",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "1268",
-                "h" : "713",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/BYIsYt8Vgz"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573339471286005760"
-          ],
-          "editableUntil" : "2022-09-23T16:22:15.845Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "David Buchanan",
-            "screen_name" : "David3141593",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "2242426383",
-            "id" : "2242426383"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1573339471286005760",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573339471286005760",
-      "created_at" : "Fri Sep 23 15:52:15 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @David3141593: The image in this tweet displays its own MD5 hash.\n\nYou can download and hash it yourself, and it should still match - 13…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573214792344653826"
-          ],
-          "editableUntil" : "2022-09-23T08:06:50.069Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Open Web Advocacy",
-            "screen_name" : "OpenWebAdvocacy",
-            "indices" : [
-              "3",
-              "19"
-            ],
-            "id_str" : "1443933752757915650",
-            "id" : "1443933752757915650"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1573214792344653826",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573214792344653826",
-      "created_at" : "Fri Sep 23 07:36:50 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @OpenWebAdvocacy: Mozilla has just released a truly excellent paper on browser competition labelled “Five Walled Gardens” containing key…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573213625946615808"
-          ],
-          "editableUntil" : "2022-09-23T08:02:11.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "ChromeWebStore",
-            "indices" : [
-              "23",
-              "38"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "0",
-              "6"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "7",
-              "14"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "187"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1573065043775987712",
-      "id_str" : "1573213625946615808",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573213625946615808",
-      "in_reply_to_status_id" : "1573065043775987712",
-      "created_at" : "Fri Sep 23 07:32:11 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@Apple @Google Update: #ChromeWebStore reinstated the app and \"apologize[s] for the inconvenience\" without any explanation.\n\nI still have no idea why it was taken down in the first place?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573123953803071488"
-          ],
-          "editableUntil" : "2022-09-23T02:05:52.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Dinesh Pandiyan",
-            "screen_name" : "flexdinesh",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "115411943",
-            "id" : "115411943"
-          },
-          {
-            "name" : "Cory LaViska",
-            "screen_name" : "claviska",
-            "indices" : [
-              "12",
-              "21"
-            ],
-            "id_str" : "10238842",
-            "id" : "10238842"
-          },
-          {
-            "name" : "David Walsh",
-            "screen_name" : "davidwalshblog",
-            "indices" : [
-              "22",
-              "37"
-            ],
-            "id_str" : "15759583",
-            "id" : "15759583"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "249"
-      ],
-      "favorite_count" : "5",
-      "in_reply_to_status_id_str" : "1573076105229213696",
-      "id_str" : "1573123953803071488",
-      "in_reply_to_user_id" : "115411943",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1573123953803071488",
-      "in_reply_to_status_id" : "1573076105229213696",
-      "created_at" : "Fri Sep 23 01:35:52 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@flexdinesh @claviska @davidwalshblog I like this a lot because the semantics let web scrapers index the text, while telling them not to surface it to users.\n\nFor example, it could prevent spoilers in search results without hurting website rankings.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "flexdinesh",
-      "in_reply_to_user_id_str" : "115411943"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573122130761453569"
-          ],
-          "editableUntil" : "2022-09-23T01:58:37.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jared White 👋 @jaredwhite@indieweb.social",
-            "screen_name" : "jaredcwhite",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "18657020",
-            "id" : "18657020"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/oxNidfDuAy",
-            "expanded_url" : "https://blog.dwac.dev/posts/html-fragments/",
-            "display_url" : "blog.dwac.dev/posts/html-fra…",
-            "indices" : [
-              "264",
-              "287"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "287"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1572986270061854720",
-      "id_str" : "1573122130761453569",
-      "in_reply_to_user_id" : "18657020",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573122130761453569",
-      "in_reply_to_status_id" : "1572986270061854720",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Sep 23 01:28:37 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@jaredcwhite I've been exploring very similar use cases and wrote a blog post about it.\n\nI've got another in the works which tries to stream the whole thing. Different implementation but very similar ideas.\n\nI'll have to try integrating your plugin into my demo!\n\nhttps://t.co/oxNidfDuAy",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "jaredcwhite",
-      "in_reply_to_user_id_str" : "18657020"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573094307900563456"
-          ],
-          "editableUntil" : "2022-09-23T00:08:04.339Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "GoogleOSLive",
-            "indices" : [
-              "68",
-              "81"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Google Open Source",
-            "screen_name" : "GoogleOSS",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "847190167542652928",
-            "id" : "847190167542652928"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1573094307900563456",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573094307900563456",
-      "created_at" : "Thu Sep 22 23:38:04 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @GoogleOSS: Let's take a look at the sessions for Angular Day at #GoogleOSLive 👇\n\n⭐ State of Angular\n⭐ Building Accessible Angular Apps…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573093321651748864"
-          ],
-          "editableUntil" : "2022-09-23T00:04:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "209"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1573092782570606593",
-      "id_str" : "1573093321651748864",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573093321651748864",
-      "in_reply_to_status_id" : "1573092782570606593",
-      "created_at" : "Thu Sep 22 23:34:09 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Example: \"Imelda started working on a cool feature, but I wanted to quickly clarify something with legal. Now I've bureaucracied her with 5 hours of meetings and an additional 3 approvals blocking her launch.\"",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573092782570606593"
-          ],
-          "editableUntil" : "2022-09-23T00:02:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "191"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1573091036054028289",
-      "id_str" : "1573092782570606593",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573092782570606593",
-      "in_reply_to_status_id" : "1573091036054028289",
-      "created_at" : "Thu Sep 22 23:32:00 +0000 2022",
-      "favorited" : false,
-      "full_text" : "To bureaucracy, verb:\n\nTo identify a coworker attempting to do productive work and directly impede them by escalating the issue and making it a much bigger deal than they originally expected.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573091036054028289"
-          ],
-          "editableUntil" : "2022-09-22T23:55:04.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "43"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1573091036054028289",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573091036054028289",
-      "created_at" : "Thu Sep 22 23:25:04 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I successfully bureaucracied someone today.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573065043775987712"
-          ],
-          "editableUntil" : "2022-09-22T22:11:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "55",
-              "61"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "70",
-              "77"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "176"
-      ],
-      "favorite_count" : "5",
-      "in_reply_to_status_id_str" : "1573065042177712130",
-      "id_str" : "1573065043775987712",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573065043775987712",
-      "in_reply_to_status_id" : "1573065042177712130",
-      "created_at" : "Thu Sep 22 21:41:47 +0000 2022",
-      "favorited" : false,
-      "full_text" : "This is why I hate app stores, and as much as I rag on @Apple for it, @Google has many of the same problems. It's truly incredible how developer unfriendly these platforms are.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1573065042177712130"
-          ],
-          "editableUntil" : "2022-09-22T22:11:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "ChromeWebStore",
-            "indices" : [
-              "68",
-              "83"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "150"
-      ],
-      "favorite_count" : "2",
-      "id_str" : "1573065042177712130",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1573065042177712130",
-      "created_at" : "Thu Sep 22 21:41:46 +0000 2022",
-      "favorited" : false,
-      "full_text" : "You know it's gonna be a good day when you wake up to an email that #ChromeWebStore took down you Chrome extension for completely unspecified reasons.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1572964997806059521"
-          ],
-          "editableUntil" : "2022-09-22T15:34:14.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Mike Brocchi",
-            "screen_name" : "Brocco",
-            "indices" : [
-              "0",
-              "7"
-            ],
-            "id_str" : "2779381",
-            "id" : "2779381"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "121"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1572901494852292608",
-      "id_str" : "1572964997806059521",
-      "in_reply_to_user_id" : "2779381",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1572964997806059521",
-      "in_reply_to_status_id" : "1572901494852292608",
-      "created_at" : "Thu Sep 22 15:04:14 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@Brocco It was \"Wanted Dead or Alive\" by Bon Jovi, which is at least one of my less objectively terrible tastes in music.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "Brocco",
-      "in_reply_to_user_id_str" : "2779381"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1572728043143307266"
-          ],
-          "editableUntil" : "2022-09-21T23:52:40.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Linux",
-            "indices" : [
-              "82",
-              "88"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "272"
-      ],
-      "favorite_count" : "2",
-      "in_reply_to_status_id_str" : "1572728041461395456",
-      "id_str" : "1572728043143307266",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1572728043143307266",
-      "in_reply_to_status_id" : "1572728041461395456",
-      "created_at" : "Wed Sep 21 23:22:40 +0000 2022",
-      "favorited" : false,
-      "full_text" : "To make matters worse, I can't adjust the volume or audio from the lock screen on #Linux, so I had to painfully type my way-too-long password in and use the touchpad to find the audio widget and lower the volume.\n\nSo if you need me I'll be hiding in a phone room crying. 😖",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1572728041461395456"
-          ],
-          "editableUntil" : "2022-09-21T23:52:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "211"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1572728041461395456",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1572728041461395456",
-      "created_at" : "Wed Sep 21 23:22:39 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I was listening to music at my desk with headphones but had to run to a meeting. So I turned them off only for my laptop to auto-switch to speakers AND BLAST MY MUSIC AT FULL VOLUME FOR THE WHOLE OFFICE TO HEAR.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1317631789423230976"
           ],
           "editableUntil" : "2020-10-18T01:31:13.670Z",
@@ -90673,7 +92596,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "mastodon.lol/@jamiebuilds 🏳️‍🌈",
+            "name" : "jamiebuilds on alterative social platforms 🏳️‍🌈",
             "screen_name" : "buildsghost",
             "indices" : [
               "82",
@@ -95806,7 +97729,7 @@ module.exports = [
         "0",
         "267"
       ],
-      "favorite_count" : "2",
+      "favorite_count" : "1",
       "id_str" : "1288587632029495301",
       "truncated" : false,
       "retweet_count" : "0",
@@ -96224,6 +98147,1094 @@ module.exports = [
       "favorited" : false,
       "full_text" : "Computational power like the world has never seen before. I'm glad we're using it for the right purposes! https://t.co/a3FAKFSmYL",
       "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1581678104207974400"
+          ],
+          "editableUntil" : "2022-10-16T16:37:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "TypeScript",
+            "indices" : [
+              "94",
+              "105"
+            ]
+          },
+          {
+            "text" : "JavaScript",
+            "indices" : [
+              "179",
+              "190"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1581678102731579394",
+      "id_str" : "1581678104207974400",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1581678104207974400",
+      "in_reply_to_status_id" : "1581678102731579394",
+      "created_at" : "Sun Oct 16 16:07:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "The core issue is that there's no clear mechanism for determining which scripts on a page are #TypeScript which needs to be transformed by the browser, and which scripts are real #JavaScript.\n\nThe obvious approaches (file extensions, `Content-Type`, attributes) have major flaws.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1581678102731579394"
+          ],
+          "editableUntil" : "2022-10-16T16:37:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "TC39",
+            "indices" : [
+              "70",
+              "75"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/9aPqxu6pfF",
+            "expanded_url" : "https://github.com/dgp1130/ts-transformer-extension/",
+            "display_url" : "github.com/dgp1130/ts-tra…",
+            "indices" : [
+              "235",
+              "258"
+            ]
+          },
+          {
+            "url" : "https://t.co/lj7MoZ3DfR",
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1569883800263610369",
+            "display_url" : "twitter.com/develwoutacaus…",
+            "indices" : [
+              "259",
+              "282"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "282"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1581678102731579394",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1581678102731579394",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Oct 16 16:07:00 +0000 2022",
+      "favorited" : false,
+      "full_text" : "So I decided to build this browser extension as an alternative to the #TC39 type annotations proposals to prototype the approach. It mostly works though I've come to the conclusion that this is not as workable as I initially thought.\n\nhttps://t.co/9aPqxu6pfF https://t.co/lj7MoZ3DfR",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1580357476909662209"
+          ],
+          "editableUntil" : "2022-10-13T01:09:18.774Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          },
+          {
+            "name" : "Dylan Hunn",
+            "screen_name" : "dylhunn",
+            "indices" : [
+              "62",
+              "70"
+            ],
+            "id_str" : "67345995",
+            "id" : "67345995"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1580357476909662209",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1580357476909662209",
+      "created_at" : "Thu Oct 13 00:39:18 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular: Are you using Typed Forms in your applications?\n\n@dylhunn walks us through Typed Forms, the most upvoted feature request for A…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1579924442855055360"
+          ],
+          "editableUntil" : "2022-10-11T20:28:35.410Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Angular",
+            "screen_name" : "angular",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "202230373",
+            "id" : "202230373"
+          },
+          {
+            "name" : "Doug Parker",
+            "screen_name" : "develwoutacause",
+            "indices" : [
+              "105",
+              "121"
+            ],
+            "id_str" : "1189618278848532480",
+            "id" : "1189618278848532480"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1579924442855055360",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1579924442855055360",
+      "created_at" : "Tue Oct 11 19:58:35 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @angular: Have you been frustrated when debugging a problem without a good error message? \n\nFear not! @develwoutacause takes you through…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1579373831919403008"
+          ],
+          "editableUntil" : "2022-10-10T08:00:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "Google Cloud",
+            "screen_name" : "googlecloud",
+            "indices" : [
+              "151",
+              "163"
+            ],
+            "id_str" : "19367815",
+            "id" : "19367815"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/jjsBqB05XO",
+            "expanded_url" : "http://g.co/cloudnext",
+            "display_url" : "g.co/cloudnext",
+            "indices" : [
+              "173",
+              "196"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1579373831919403008/photo/1",
+            "indices" : [
+              "197",
+              "220"
+            ],
+            "url" : "https://t.co/Msf4L14wAS",
+            "media_url" : "http://pbs.twimg.com/media/FesQIGKVEAA86ib.jpg",
+            "id_str" : "1579373825602424832",
+            "id" : "1579373825602424832",
+            "media_url_https" : "https://pbs.twimg.com/media/FesQIGKVEAA86ib.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "680",
+                "h" : "342",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1024",
+                "h" : "515",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "medium" : {
+                "w" : "1024",
+                "h" : "515",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/Msf4L14wAS"
+          }
+        ],
+        "hashtags" : [
+          {
+            "text" : "GoogleCloudNext",
+            "indices" : [
+              "30",
+              "46"
+            ]
+          },
+          {
+            "text" : "MongoDBAtlas",
+            "indices" : [
+              "121",
+              "134"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "220"
+      ],
+      "favorite_count" : "7",
+      "id_str" : "1579373831919403008",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1579373831919403008",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Oct 10 07:30:39 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Check out my upcoming talk at #GoogleCloudNext about building and deploying a MEAN stack application using Cloud Run and #MongoDBAtlas.\n\nRegister with @GoogleCloud to join →https://t.co/jjsBqB05XO https://t.co/Msf4L14wAS",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/develwoutacause/status/1579373831919403008/photo/1",
+            "indices" : [
+              "197",
+              "220"
+            ],
+            "url" : "https://t.co/Msf4L14wAS",
+            "media_url" : "http://pbs.twimg.com/media/FesQIGKVEAA86ib.jpg",
+            "id_str" : "1579373825602424832",
+            "id" : "1579373825602424832",
+            "media_url_https" : "https://pbs.twimg.com/media/FesQIGKVEAA86ib.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "680",
+                "h" : "342",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1024",
+                "h" : "515",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "medium" : {
+                "w" : "1024",
+                "h" : "515",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/Msf4L14wAS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1578888391118102531"
+          ],
+          "editableUntil" : "2022-10-08T23:51:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/v9TSWAHF5u",
+            "expanded_url" : "https://twitter.com/mountain_ghosts/status/1577234271236165632",
+            "display_url" : "twitter.com/mountain_ghost…",
+            "indices" : [
+              "90",
+              "113"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "113"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1578888391118102531",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1578888391118102531",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Oct 08 23:21:41 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Why supply chain security and open source sustainability are fundamentally intertwined. 👇 https://t.co/v9TSWAHF5u",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1578450691906883584"
+          ],
+          "editableUntil" : "2022-10-07T18:52:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Barry Phillips",
+            "screen_name" : "bap47",
+            "indices" : [
+              "0",
+              "6"
+            ],
+            "id_str" : "173594616",
+            "id" : "173594616"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "158"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1578412045015580674",
+      "id_str" : "1578450691906883584",
+      "in_reply_to_user_id" : "173594616",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1578450691906883584",
+      "in_reply_to_status_id" : "1578412045015580674",
+      "created_at" : "Fri Oct 07 18:22:25 +0000 2022",
+      "favorited" : false,
+      "full_text" : "@bap47 All iOS browsers, including Duck Duck Go are skins of WebKit as required by App Store policy. Apple does not allow alternative browser implementations.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "bap47",
+      "in_reply_to_user_id_str" : "173594616"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1577057318910324736"
+          ],
+          "editableUntil" : "2022-10-03T22:35:39.793Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Surma",
+            "screen_name" : "DasSurma",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "15180856",
+            "id" : "15180856"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1577057318910324736",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1577057318910324736",
+      "created_at" : "Mon Oct 03 22:05:39 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @DasSurma: 🆕 Blog post 📣 \n\nI wanted to run JavaScript in WebAssembly, so I decided to turn JavaScript into a compiled language by buildi…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576316102505746432"
+          ],
+          "editableUntil" : "2022-10-01T21:30:20.031Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Roderick Gadellaa",
+            "screen_name" : "RGadellaa",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "211862760",
+            "id" : "211862760"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1576316102505746432",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576316102505746432",
+      "created_at" : "Sat Oct 01 21:00:20 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @RGadellaa: FB is going to ship its own chromium engine to power their IAB instead of using the system-provided webview. None of this so…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576315245483565056"
+          ],
+          "editableUntil" : "2022-10-01T21:26:55.701Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Charlie Warzel",
+            "screen_name" : "cwarzel",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "20178419",
+            "id" : "20178419"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1576315245483565056",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576315245483565056",
+      "created_at" : "Sat Oct 01 20:56:55 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @cwarzel: Wrote about the Musk texts. What I found illuminating about the messages is just how unimpressive, unimaginative, and sycophan…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576068038197096448"
+          ],
+          "editableUntil" : "2022-10-01T05:04:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "ChromeCustomTabs",
+            "indices" : [
+              "241",
+              "258"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1576068036016021506",
+      "id_str" : "1576068038197096448",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576068038197096448",
+      "in_reply_to_status_id" : "1576068036016021506",
+      "created_at" : "Sat Oct 01 04:34:36 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Overall, not convinced at all that this is the right architecture or that it improves user experience (especially security).\n\nThe improvement over System WebView is debatable at best, and none of the problems would exist at all if they used #ChromeCustomTabs in the first place.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576068036016021506"
+          ],
+          "editableUntil" : "2022-10-01T05:04:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "259"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1576068033851686913",
+      "id_str" : "1576068036016021506",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576068036016021506",
+      "in_reply_to_status_id" : "1576068033851686913",
+      "created_at" : "Sat Oct 01 04:34:36 +0000 2022",
+      "favorited" : false,
+      "full_text" : "While I agree it's a pain point, I'm not sure why Meta feels positioned to solve that particular problem?\n\nFacebook still crashes on update, it just won't crash on WebView update, so the \"update everything\" or \"update nothing\" users are relatively unaffected.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576068033851686913"
+          ],
+          "editableUntil" : "2022-10-01T05:04:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Android",
+            "screen_name" : "Android",
+            "indices" : [
+              "162",
+              "170"
+            ],
+            "id_str" : "382267114",
+            "id" : "382267114"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "213"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1576068031813328896",
+      "id_str" : "1576068033851686913",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576068033851686913",
+      "in_reply_to_status_id" : "1576068031813328896",
+      "created_at" : "Sat Oct 01 04:34:35 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I will concede that the \"crash on update\" behavior is super annoying, and WebView in particular is the worst offender just because it's widely used across apps.\n\n@Android really needs to get around to fixing that.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576068031813328896"
+          ],
+          "editableUntil" : "2022-10-01T05:04:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "270"
+      ],
+      "favorite_count" : "2",
+      "in_reply_to_status_id_str" : "1576068029628047360",
+      "id_str" : "1576068031813328896",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576068031813328896",
+      "in_reply_to_status_id" : "1576068029628047360",
+      "created_at" : "Sat Oct 01 04:34:35 +0000 2022",
+      "favorited" : false,
+      "full_text" : "The \"Mozilla and Edge already do this\" argument is particularly disingenuous because THOSE ARE REAL BROWSERS!\n\nTheir purpose is to browse the web. Facebook's purpose is to radicalize your uncle. We stay in our lanes and work together to provide value for both use cases.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576068029628047360"
+          ],
+          "editableUntil" : "2022-10-01T05:04:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Android",
+            "indices" : [
+              "161",
+              "169"
+            ]
+          },
+          {
+            "text" : "Meta",
+            "indices" : [
+              "200",
+              "205"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "260"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1576068027606450177",
+      "id_str" : "1576068029628047360",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576068029628047360",
+      "in_reply_to_status_id" : "1576068027606450177",
+      "created_at" : "Sat Oct 01 04:34:34 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I'm not familiar enough with rendering performance to know if that's a good argument for doing this, but I do feel like it could easily be a flag contributed to #Android's real WebView and enabled by #Meta. I don't see why they'd need to fork it just for that.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576068027606450177"
+          ],
+          "editableUntil" : "2022-10-01T05:04:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "269"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1576068025379266560",
+      "id_str" : "1576068027606450177",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576068027606450177",
+      "in_reply_to_status_id" : "1576068025379266560",
+      "created_at" : "Sat Oct 01 04:34:34 +0000 2022",
+      "favorited" : false,
+      "full_text" : "The one exception is when something breaks, users might update that app specifically.\n\nBut if it's broken because it's out of date then they're already so far out of date in so many apps (Chrome and WebView specifically), that there's little value in prioritizing them.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576068025379266560"
+          ],
+          "editableUntil" : "2022-10-01T05:04:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Facebook",
+            "indices" : [
+              "98",
+              "107"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "196"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1576068022950690817",
+      "id_str" : "1576068025379266560",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576068025379266560",
+      "in_reply_to_status_id" : "1576068022950690817",
+      "created_at" : "Sat Oct 01 04:34:33 +0000 2022",
+      "favorited" : false,
+      "full_text" : "I'll also need to see some data to believe the claim that users go out of their way to update the #Facebook app specifically and nothing else.\n\nI can only see users updating everything or nothing.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576068022950690817"
+          ],
+          "editableUntil" : "2022-10-01T05:04:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "276"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1576068020098674688",
+      "id_str" : "1576068022950690817",
+      "in_reply_to_user_id" : "1189618278848532480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576068022950690817",
+      "in_reply_to_status_id" : "1576068020098674688",
+      "created_at" : "Sat Oct 01 04:34:33 +0000 2022",
+      "favorited" : false,
+      "full_text" : "It also means users need to update one more browser to stay safe online.\n\n\"To protect yourself from this vulnerability, update Chrome to version X, but if you use Facebook also update that to version Y because they made architectural decisions which sacrificed your security.\"",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "develwoutacause",
+      "in_reply_to_user_id_str" : "1189618278848532480"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1576068020098674688"
+          ],
+          "editableUntil" : "2022-10-01T05:04:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Chrome",
+            "indices" : [
+              "173",
+              "180"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Meta",
+            "screen_name" : "Meta",
+            "indices" : [
+              "97",
+              "102"
+            ],
+            "id_str" : "2425151",
+            "id" : "2425151"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/3P8Oq6M92y",
+            "expanded_url" : "https://twitter.com/tomayac/status/1575943083732058112",
+            "display_url" : "twitter.com/tomayac/status…",
+            "indices" : [
+              "208",
+              "231"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "231"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1576068020098674688",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1576068020098674688",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Oct 01 04:34:32 +0000 2022",
+      "favorited" : false,
+      "full_text" : "These are some BS arguments.\n\nThis actually makes user security *worse* IMHO because it requires @Meta to rebase and release their app when users could immediately download #Chrome or System WebView updates. https://t.co/3P8Oq6M92y",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1575597612756922368"
+          ],
+          "editableUntil" : "2022-09-29T21:55:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/DYRPWrnNgj",
+            "expanded_url" : "https://blog.google/products/stadia/message-on-stadia-streaming-strategy/",
+            "display_url" : "blog.google/products/stadi…",
+            "indices" : [
+              "3",
+              "26"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "26"
+      ],
+      "favorite_count" : "3",
+      "id_str" : "1575597612756922368",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1575597612756922368",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Sep 29 21:25:18 +0000 2022",
+      "favorited" : false,
+      "full_text" : "😞\n\nhttps://t.co/DYRPWrnNgj",
+      "lang" : "und"
     }
   },
   {
@@ -98806,1066 +101817,6 @@ module.exports = [
       "lang" : "en",
       "in_reply_to_screen_name" : "develwoutacause",
       "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1572661435410558977"
-          ],
-          "editableUntil" : "2022-09-21T19:27:59.495Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "BazelCon",
-            "indices" : [
-              "31",
-              "40"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "bazelbuild",
-            "screen_name" : "bazelbuild",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "3110601453",
-            "id" : "3110601453"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1572661435410558977",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1572661435410558977",
-      "created_at" : "Wed Sep 21 18:57:59 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @bazelbuild: Save the date, #BazelCon 2022 is coming!\n\n📅 When: November 16-17\n📍 Where: Pier 57 in New York AND virtual\n🤔 What to expect:…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1572328963309187072"
-          ],
-          "editableUntil" : "2022-09-20T21:26:51.969Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Marco Rogers",
-            "screen_name" : "polotek",
-            "indices" : [
-              "3",
-              "11"
-            ],
-            "id_str" : "20079975",
-            "id" : "20079975"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1572328963309187072",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1572328963309187072",
-      "created_at" : "Tue Sep 20 20:56:51 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @polotek: Hey y'all. I want to ask for your help today. Last week, my former company Mode laid off a bunch of people, including me. I wa…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1572039131445985281"
-          ],
-          "editableUntil" : "2022-09-20T02:15:10.668Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Adri tropicadri@indieweb.social",
-            "screen_name" : "tropicadri",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "16023550",
-            "id" : "16023550"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "138"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1572039131445985281",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1572039131445985281",
-      "created_at" : "Tue Sep 20 01:45:10 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @tropicadri: 15 days to the summit!!!!!! *excited* Register today! attend the block that works best for you! See you then Oct 5/6 2022!",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571940179728035842"
-          ],
-          "editableUntil" : "2022-09-19T19:41:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "199"
-      ],
-      "favorite_count" : "4",
-      "id_str" : "1571940179728035842",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571940179728035842",
-      "created_at" : "Mon Sep 19 19:11:58 +0000 2022",
-      "favorited" : false,
-      "full_text" : "My new favorite emoji pairing: 😂😭\n\nIn only two characters it follows an individual's grief as they laugh in the face of absurdity only to descend into depression and defeat in the face their reality.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571898956304773121"
-          ],
-          "editableUntil" : "2022-09-19T16:58:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/xR1cCskvJC",
-            "expanded_url" : "https://twitter.com/jengolbeck/status/1571870127284719616",
-            "display_url" : "twitter.com/jengolbeck/sta…",
-            "indices" : [
-              "59",
-              "82"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "82"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1571898956304773121",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571898956304773121",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Sep 19 16:28:10 +0000 2022",
-      "favorited" : false,
-      "full_text" : "It shouldn't be this hard to stay private on the internet. https://t.co/xR1cCskvJC",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571897940238831618"
-          ],
-          "editableUntil" : "2022-09-19T16:54:08.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Indiequest",
-            "screen_name" : "Indiequest1",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "1138844391399968768",
-            "id" : "1138844391399968768"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "219"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1571764733321138176",
-      "id_str" : "1571897940238831618",
-      "in_reply_to_user_id" : "1138844391399968768",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571897940238831618",
-      "in_reply_to_status_id" : "1571764733321138176",
-      "created_at" : "Mon Sep 19 16:24:08 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@Indiequest1 I'm not that plugged in, but my rough understanding is that their focused on the performance benefit of bundling resources, which I'm personally less interested in. I'd rather explore new use cases instead.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "Indiequest1",
-      "in_reply_to_user_id_str" : "1138844391399968768"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571759598910214144"
-          ],
-          "editableUntil" : "2022-09-19T07:44:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "Idea",
-            "indices" : [
-              "0",
-              "5"
-            ]
-          },
-          {
-            "text" : "WebBundles",
-            "indices" : [
-              "7",
-              "18"
-            ]
-          },
-          {
-            "text" : "ServiceWorker",
-            "indices" : [
-              "21",
-              "35"
-            ]
-          },
-          {
-            "text" : "serverless",
-            "indices" : [
-              "194",
-              "205"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "225"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1571759598910214144",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1571759598910214144",
-      "created_at" : "Mon Sep 19 07:14:24 +0000 2022",
-      "favorited" : false,
-      "full_text" : "#Idea: #WebBundles + #ServiceWorker = A fully standalone web application which ships its own server directly in the client.\n\nShip it via an app store and preinstall the SW, then you have a true #serverless web app experience.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571267483243540482"
-          ],
-          "editableUntil" : "2022-09-17T23:08:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Westbrook",
-            "screen_name" : "WestbrookJ",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "16910874",
-            "id" : "16910874"
-          },
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "12",
-              "26"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "195"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571262019755540480",
-      "id_str" : "1571267483243540482",
-      "in_reply_to_user_id" : "16910874",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571267483243540482",
-      "in_reply_to_status_id" : "1571262019755540480",
-      "created_at" : "Sat Sep 17 22:38:55 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@WestbrookJ @justinfagnani Yeah, I had the same thought. Though my understanding is that enabling that flag would be the best practice, so I don't really see disabling it as a long term solution.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "WestbrookJ",
-      "in_reply_to_user_id_str" : "16910874"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571255370382995456"
-          ],
-          "editableUntil" : "2022-09-17T22:20:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          },
-          {
-            "name" : "Westbrook",
-            "screen_name" : "WestbrookJ",
-            "indices" : [
-              "15",
-              "26"
-            ],
-            "id_str" : "16910874",
-            "id" : "16910874"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "289"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571254084937850881",
-      "id_str" : "1571255370382995456",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571255370382995456",
-      "in_reply_to_status_id" : "1571254084937850881",
-      "created_at" : "Sat Sep 17 21:50:47 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@justinfagnani @WestbrookJ This all seems incredibly nuanced and I'm struggling with what the best practice would be for this.\n1. Use a CE library which restores props for you?\n2. Always assign props after upgrading?\n3. Don't use `target: 'ESNext / ES2022'`?\n\nAll these options kinda suck.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571254084937850881"
-          ],
-          "editableUntil" : "2022-09-17T22:15:40.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          },
-          {
-            "name" : "Westbrook",
-            "screen_name" : "WestbrookJ",
-            "indices" : [
-              "15",
-              "26"
-            ],
-            "id_str" : "16910874",
-            "id" : "16910874"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "242"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571253692959191040",
-      "id_str" : "1571254084937850881",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571254084937850881",
-      "in_reply_to_status_id" : "1571253692959191040",
-      "created_at" : "Sat Sep 17 21:45:40 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@justinfagnani @WestbrookJ I tried reproducing outside of CE, but I can't manually invoke the constructor of a class.\n\n&gt; class Foo { prop; }\n&gt; Foo.apply({ prop: 'test' });\nTypeError: Class constructor Foo cannot be invoked without 'new'",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571253692959191040"
-          ],
-          "editableUntil" : "2022-09-17T22:14:07.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          },
-          {
-            "name" : "Westbrook",
-            "screen_name" : "WestbrookJ",
-            "indices" : [
-              "15",
-              "26"
-            ],
-            "id_str" : "16910874",
-            "id" : "16910874"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "272"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571253265526050817",
-      "id_str" : "1571253692959191040",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571253692959191040",
-      "in_reply_to_status_id" : "1571253265526050817",
-      "created_at" : "Sat Sep 17 21:44:07 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@justinfagnani @WestbrookJ So does this imply that `class Foo { prop; }` is equivalent to:\n\n```\nclass Foo {\n  constructor() { this.prop = undefined; }\n}\n```\n\nI'm unclear on the reasoning for this behavior, though I get that most of the time it doesn't come up in practice.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571253265526050817"
-          ],
-          "editableUntil" : "2022-09-17T22:12:25.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          },
-          {
-            "name" : "Westbrook",
-            "screen_name" : "WestbrookJ",
-            "indices" : [
-              "15",
-              "26"
-            ],
-            "id_str" : "16910874",
-            "id" : "16910874"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/CwozPlXzWp",
-            "expanded_url" : "https://stackblitz.com/edit/typescript-gd8pn1?file=index.html,tsconfig.json",
-            "display_url" : "stackblitz.com/edit/typescrip…",
-            "indices" : [
-              "252",
-              "275"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "275"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571252782228967425",
-      "id_str" : "1571253265526050817",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1571253265526050817",
-      "in_reply_to_status_id" : "1571252782228967425",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Sep 17 21:42:25 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@justinfagnani @WestbrookJ If I switch to `target: 'ES2020'` this property definition isn't generated and I can set values before upgrading the element.\n\nThis also might explain some weird behavior I saw from setting `public shadowRoot!: ShadowRoot;`\n\nhttps://t.co/CwozPlXzWp",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571252782228967425"
-          ],
-          "editableUntil" : "2022-09-17T22:10:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "TypeScript",
-            "indices" : [
-              "193",
-              "204"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          },
-          {
-            "name" : "Westbrook",
-            "screen_name" : "WestbrookJ",
-            "indices" : [
-              "15",
-              "26"
-            ],
-            "id_str" : "16910874",
-            "id" : "16910874"
-          },
-          {
-            "name" : "Westbrook",
-            "screen_name" : "WestbrookJ",
-            "indices" : [
-              "34",
-              "45"
-            ],
-            "id_str" : "16910874",
-            "id" : "16910874"
-          },
-          {
-            "name" : "Justin Fagnani",
-            "screen_name" : "justinfagnani",
-            "indices" : [
-              "50",
-              "64"
-            ],
-            "id_str" : "102513397",
-            "id" : "102513397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "274"
-      ],
-      "favorite_count" : "3",
-      "in_reply_to_status_id_str" : "1571171264697610240",
-      "id_str" : "1571252782228967425",
-      "in_reply_to_user_id" : "102513397",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571252782228967425",
-      "in_reply_to_status_id" : "1571171264697610240",
-      "created_at" : "Sat Sep 17 21:40:30 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@justinfagnani @WestbrookJ Thanks @WestbrookJ and @justinfagnani! I was confused about your step 6) given that it's the non-defined property that's broken. However, it seems that I was running #TypeScript on ESNext, which generates field declarations.\n\nclass Foo {\n  prop;\n}",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "justinfagnani",
-      "in_reply_to_user_id_str" : "102513397"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571047001172889601"
-          ],
-          "editableUntil" : "2022-09-17T08:32:48.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "267"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571041644077780992",
-      "id_str" : "1571047001172889601",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571047001172889601",
-      "in_reply_to_status_id" : "1571041644077780992",
-      "created_at" : "Sat Sep 17 08:02:48 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Got a workaround for this by extracting `&lt;script /&gt;` tags and manually appending them to the DOM.\n\nLook forward to a blog post explaining all this nonsense and all the hacks to used to work around it.\n\nStill don't know *why* the properties get deleted though...",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571041644077780992"
-          ],
-          "editableUntil" : "2022-09-17T08:11:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "277"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571041423717433350",
-      "id_str" : "1571041644077780992",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571041644077780992",
-      "in_reply_to_status_id" : "1571041423717433350",
-      "created_at" : "Sat Sep 17 07:41:31 +0000 2022",
-      "favorited" : false,
-      "full_text" : "In my particular use case, I want to be able to insert and set properties on a custom element and let it upgrade asynchronously when it's definition loads. And that definition is a `&lt;script /&gt;` tag inside the element itself, so I can't use `customElements.whenDefined()`.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571041423717433350"
-          ],
-          "editableUntil" : "2022-09-17T08:10:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "212"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571040585796165632",
-      "id_str" : "1571041423717433350",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571041423717433350",
-      "in_reply_to_status_id" : "1571040585796165632",
-      "created_at" : "Sat Sep 17 07:40:38 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Also the obvious solution of \"upgrade the element before assigning properties\" actually doesn't work in a generalized case because you typically can't assume that the custom element definition has already loaded.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571040585796165632"
-          ],
-          "editableUntil" : "2022-09-17T08:07:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/XdvweAu3bt",
-            "expanded_url" : "https://stackblitz.com/edit/typescript-gd8pn1?file=index.html,index.ts",
-            "display_url" : "stackblitz.com/edit/typescrip…",
-            "indices" : [
-              "128",
-              "151"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "151"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571039569486966785",
-      "id_str" : "1571040585796165632",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571040585796165632",
-      "in_reply_to_status_id" : "1571039569486966785",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Sep 17 07:37:18 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Corrected minimal reproduction. If anyone can explain the reasoning behind these two failures, I will be forever in your debt.\n\nhttps://t.co/XdvweAu3bt",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571039569486966785"
-          ],
-          "editableUntil" : "2022-09-17T08:03:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "276"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571039568396431362",
-      "id_str" : "1571039569486966785",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571039569486966785",
-      "in_reply_to_status_id" : "1571039568396431362",
-      "created_at" : "Sat Sep 17 07:33:16 +0000 2022",
-      "favorited" : false,
-      "full_text" : "I still don't understand why? Why is it that upgrading an element deletes its non-defined properties?\n\nThis normally isn't an issue because an element is upgraded on creation (`document.createElement()`). But when creating in another document, this is delayed until insertion.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571039568396431362"
-          ],
-          "editableUntil" : "2022-09-17T08:03:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "259"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571034006606716957",
-      "id_str" : "1571039568396431362",
-      "in_reply_to_user_id" : "1189618278848532480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571039568396431362",
-      "in_reply_to_status_id" : "1571034006606716957",
-      "created_at" : "Sat Sep 17 07:33:16 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Yep, pretty sure this ordering is the issue, among other mistakes.\n\nApparently, you need to `document.adoptNode(el); customElements.upgrade(el);` *after* cloning from a `template`, because it uses a `DocumentFragment` which is considered a different document!",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "develwoutacause",
-      "in_reply_to_user_id_str" : "1189618278848532480"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1571034294587621376"
-          ],
-          "editableUntil" : "2022-09-17T07:42:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Elliott Marquez",
-            "screen_name" : "techytacos",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "3256261052",
-            "id" : "3256261052"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/RTr8VoJXQW",
-            "expanded_url" : "https://twitter.com/develwoutacause/status/1571033644210462720?s=20&t=QlfKycBh9c997LX3Ro7Uyw",
-            "display_url" : "twitter.com/develwoutacaus…",
-            "indices" : [
-              "230",
-              "253"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "253"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1571031587856461824",
-      "id_str" : "1571034294587621376",
-      "in_reply_to_user_id" : "3256261052",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1571034294587621376",
-      "in_reply_to_status_id" : "1571031587856461824",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Sep 17 07:12:18 +0000 2022",
-      "favorited" : false,
-      "full_text" : "@techytacos What is the goal of this snippet? Why does Lit need to save and restore the properties like this?\n\nI wonder if the difference is that I'm parsing my element in a different document, which changes the timing behavior.\n\nhttps://t.co/RTr8VoJXQW",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "techytacos",
-      "in_reply_to_user_id_str" : "3256261052"
     }
   },
   {
@@ -104022,7 +105973,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "emily freeman 🇺🇸🇺🇦",
+            "name" : "emily freeman",
             "screen_name" : "editingemily",
             "indices" : [
               "0",
@@ -104793,7 +106744,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "@jsparty@changelog.social",
+            "name" : "JS Party 🪩",
             "screen_name" : "JSPartyFM",
             "indices" : [
               "0",
@@ -104803,7 +106754,7 @@ module.exports = [
             "id" : "763789772569489410"
           },
           {
-            "name" : "@jerod@changelog.social",
+            "name" : "Jerod Santo",
             "screen_name" : "jerodsanto",
             "indices" : [
               "11",
@@ -105771,7 +107722,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "@jsparty@changelog.social",
+            "name" : "JS Party 🪩",
             "screen_name" : "JSPartyFM",
             "indices" : [
               "0",
@@ -105791,7 +107742,7 @@ module.exports = [
             "id" : "11069822"
           },
           {
-            "name" : "@jerod@changelog.social",
+            "name" : "Jerod Santo",
             "screen_name" : "jerodsanto",
             "indices" : [
               "21",
@@ -106145,7 +108096,7 @@ module.exports = [
             "id" : "229237555"
           },
           {
-            "name" : "Scott Jehl",
+            "name" : "Scott Jehl - scottjehl@mstdn.social",
             "screen_name" : "scottjehl",
             "indices" : [
               "14",
