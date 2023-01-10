@@ -254,7 +254,7 @@ class Twitter {
 		text = text.replace(/\`([^\`]*)\`/g, "<code>$1</code>");
 
 		// Linkify hashtags
-		text = text.replace(/\#([a-zA-Z0-9]+)\b/g, (match, hashtag) => `<a href="https://google.com/search?q=${encodeURIComponent(`"#${hashtag}" site:tweets.dwac.dev`)}">#${hashtag}</a>`);
+		text = text.replace(/\#([a-zA-Z0-9]+)\b/g, (match, hashtag) => `<a href="/search/?q=${encodeURIComponent(`${hashtag}`)}">#${hashtag}</a>`);
 
 		let {medias, textReplacements} = await this.getMedia(tweet);
 
